@@ -61,11 +61,15 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 ## inversion paper
 
+**Using Latent Space Regression to Analyze and Leverage Compositionality in GANs.**<br> 
+*Lucy Chai, Jonas Wulff, Phillip Isola.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)]
+
 **Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs.**<br>
 *Hui-Po Wang, Ning Yu, Mario Fritz.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.14107)]
 
-**Only a Matter of Style: Age Transformation Using a Style-Based Regression Model.**<br>
+**SAM: Only a Matter of Style-Age Transformation Using a Style-Based Regression Model.**<br>
 *Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
 
@@ -139,7 +143,7 @@ ICLR 2021. [[OpenReview](https://openreview.net/forum?id=zDy_nQCXiIj)] [[PDF](ht
 
 **On The Inversion Of Deep Generative Models (When and How Can Deep Generative Models be Inverted?).**<br>
 *Aviad Aberdam, Dror Simon, Michael Elad.*<br>
-ICLR 2021. [[PDF](https://arxiv.org/abs/2006.15555)] [[OpenReview](https://openreview.net/pdf?id=TSrvUnWkjGR)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15555)] [[OpenReview](https://openreview.net/pdf?id=TSrvUnWkjGR)]
 
 **PIE: Portrait Image Embedding for Semantic Control.**<br> 
 *[A. Tewari](http://people.mpi-inf.mpg.de/~atewari/), M. Elgharib, M. BR, F. Bernard, H-P. Seidel, P. P‌érez, M. Zollhöfer, C.Theobalt.*<br> 
@@ -183,7 +187,7 @@ SIGGRAPH Asia (TOG) 2020. [[PDF](https://arxiv.org/abs/2005.07728)] [[Github](ht
 
 **Transforming and Projecting Images into Class-conditional Generative Networks.**<br>
 *[Minyoung Huh](http://minyounghuh.com/), [Richard Zhang](https://richzhang.github.io/), [Jun-Yan Zhu](https://people.csail.mit.edu/junyanz/), [Sylvain Paris](http://people.csail.mit.edu/sparis/), [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/).*<br>
-arxiv 2020. [[PDF](http://arxiv.org/abs/2005.01703)] [[Github](https://github.com/minyoungg/GAN-Transform-and-Project)] [[Project](https://minyoungg.github.io/GAN-Transform-and-Project/)]
+ECCV 2020. [[PDF](http://arxiv.org/abs/2005.01703)] [[Github](https://github.com/minyoungg/GAN-Transform-and-Project)] [[Project](https://minyoungg.github.io/GAN-Transform-and-Project/)]
 
 **Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
 *Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
@@ -199,7 +203,7 @@ IJCV 2020. [[PDF](https://link.springer.com/article/10.1007/s11263-020-01310-5)]
 
 **StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows.**<br>
 *Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
-TOG 2021. [[PDF](https://arxiv.org/abs/2008.02401)] [[Github](https://rameenabdal.github.io/StyleFlow)]
+Siggraph (TOG) 2021. [[PDF](https://arxiv.org/abs/2008.02401)] [[Github](https://rameenabdal.github.io/StyleFlow)]
 
 **Rewriting a Deep Generative Model.**<br>
 *David Bau, Steven Liu, Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba.*<br>
@@ -298,9 +302,7 @@ NIPSW 2016. [[PDF](https://arxiv.org/abs/1611.05644)]
 ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ## application
-
-### Compressed Sensing
-
+### compressed sensing
 **Generator Surgery for Compressed Sensing.**<br>
 *Niklas Smedemark-Margulies, Jung Yeon Park, Max Daniels, Rose Yu, Jan-Willem van de Meent, Paul Hand.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11163)] [[Github](https://github.com/nik-sm/generator-surgery)]
@@ -308,3 +310,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11163)] [[Github](https://github.c
 **Task-Aware Compressed Sensing with Generative Adversarial Networks.**<br>
 *Maya Kabkab, Pouya Samangouei, Rama Chellappa.*<br>
 AAAI 2018. [[PDF](https://arxiv.org/pdf/1802.01284.pdf)]
+
+## acknowledgement
+Thanks for the feedback from [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Andrey Voynov](https://github.com/anvoynov), and [Rushil Anirudh](https://rushila.com/).
