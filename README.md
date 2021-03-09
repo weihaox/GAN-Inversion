@@ -40,8 +40,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA
-](https://github.com/woctezuma/steam-stylegan2-ada)]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada)]
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
@@ -59,7 +58,9 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.04948)] [[Offical TF](https://githu
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
 ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://github.com/tkarras/progressive_growing_of_gans)]
 
-## inversion paper
+## inversion method
+
+This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
 **Using Latent Space Regression to Analyze and Leverage Compositionality in GANs.**<br> 
 *Lucy Chai, Jonas Wulff, Phillip Isola.*<br>
@@ -69,29 +70,13 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)]
 *Hui-Po Wang, Ning Yu, Mario Fritz.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.14107)]
 
-**SAM: Only a Matter of Style-Age Transformation Using a Style-Based Regression Model.**<br>
-*Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
-
 **e4e: Designing an Encoder for StyleGAN Image Manipulation.**<br>
 *[Omer Tov](https://yotamnitzan.github.io/), Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02766)] [[Github](https://github.com/omertov/encoder4editing)]
 
-**Generating images from caption and vice versa via CLIP-Guided Generative Latent Space Search.**<br>
-*Federico A. Galatolo, Mario G.C.A. Cimino, Gigliola Vaglini.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01645)]
-
 **Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**<br>
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
-
-**Exploring Adversarial Fake Images on Face Manifold.**<br>
-*Dongze Li, Wei Wang, Hongxing Fan, Jing Dong.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03272)]
-
-**OSTeC: One-Shot Texture Completion.**<br>
-*Baris Gecer, Jiankang Deng, Stefanos Zafeiriou.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15370)] [[Github](https://github.com/barisgecer/OSTeC)]
 
 **Improved StyleGAN Embedding: Where are the Good Latents?**<br>
 *Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
@@ -125,18 +110,6 @@ arxiv 2020. [[PDF]](https://arxiv.org/abs/2011.11842)]
 *Zongze Wu, Dani Lischinski, Eli Shechtman.*<br>
 arxiv 2020. [[PDF]](https://arxiv.org/abs/2011.12799)
 
-**DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
-*E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
-ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
-
-**Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
-*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
-
-**DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
-*yaxing wang, Lu Yu, Joost van de Weijer.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
-
 **GAN Steerability without optimization.**<br>
 *Nurit Spingarn-Eliezer, Ron Banner, Tomer Michaeli.*<br>
 ICLR 2021. [[OpenReview](https://openreview.net/forum?id=zDy_nQCXiIj)] [[PDF](https://arxiv.org/abs/2012.05328)]
@@ -161,11 +134,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02477)]
 *David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
 National Academy of Sciences 2020. [[PDF](https://arxiv.org/abs/2009.05041)] [[Github](https://github.com/davidbau/dissect/)] [[Project](https://dissect.csail.mit.edu/)]
 
-**Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
-*Jialu Huang, Jing Liao, Sam Kwong.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
-
-**ghfeat: Generative Hierarchical Features from Synthesizing Images.**<br>
+**GHFeat: Generative Hierarchical Features from Synthesizing Images.**<br>
 *Yinghao Xu, Yujun Shen, Jiapeng Zhu, Ceyuan Yang, Bolei Zhou.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2007.10379.pdf)] [[Github](https://github.com/genforce/ghfeat)] [[Project](https://genforce.github.io/ghfeat/)]
 
@@ -302,7 +271,47 @@ NIPSW 2016. [[PDF](https://arxiv.org/abs/1611.05644)]
 ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ## application
+
+### content generation
+
+**TediGAN: Text-Guided Diverse Image Generation and Manipulation.**<br>
+*Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ)] [[Github](https://github.com/weihaox/TediGAN)]
+
+**LOHO: Latent Optimization of Hairstyles via Orthogonalization.**<br>
+*Rohit Saha, Brendan Duke, Florian Shkurti, Graham W. Taylor, Parham Aarabi.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03891)] [[Github](https://github.com/dukebw/LOHO)]
+
+**SAM: Only a Matter of Style-Age Transformation Using a Style-Based Regression Model.**<br>
+*Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
+
+**OSTeC: One-Shot Texture Completion.**<br>
+*Baris Gecer, Jiankang Deng, Stefanos Zafeiriou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15370)] [[Github](https://github.com/barisgecer/OSTeC)]
+
+**Exploring Adversarial Fake Images on Face Manifold.**<br>
+*Dongze Li, Wei Wang, Hongxing Fan, Jing Dong.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03272)]
+
+**Generating Images from Caption and Vice Versa via CLIP-Guided Generative Latent Space Search.**<br>
+*Federico A. Galatolo, Mario G.C.A. Cimino, Gigliola Vaglini.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01645)]
+
+**Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
+*Jialu Huang, Jing Liao, Sam Kwong.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
+
+**DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
+*yaxing wang, Lu Yu, Joost van de Weijer.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
+
+**DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
+*E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
+
 ### compressed sensing
+
 **Generator Surgery for Compressed Sensing.**<br>
 *Niklas Smedemark-Margulies, Jung Yeon Park, Max Daniels, Rose Yu, Jan-Willem van de Meent, Paul Hand.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11163)] [[Github](https://github.com/nik-sm/generator-surgery)]
@@ -312,4 +321,5 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11163)] [[Github](https://github.c
 AAAI 2018. [[PDF](https://arxiv.org/pdf/1802.01284.pdf)]
 
 ## acknowledgement
+
 Thanks for the feedback from [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Andrey Voynov](https://github.com/anvoynov), and [Rushil Anirudh](https://rushila.com/).
