@@ -79,7 +79,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02766)] [[Github](https://github.c
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
 
 **Improved StyleGAN Embedding: Where are the Good Latents?**<br>
-*Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
+*Peihao Zhu, Rameen Abdal, [Yipeng Qin](http://yipengqin.github.io/), [Peter Wonka](http://peterwonka.net/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09036)]
 
 **Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
@@ -219,7 +219,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.07116)] [[Project](https://genforce
 CVPR 2020. [[PDF](https://arxiv.org/abs/1907.10786)] [[Project](https://genforce.github.io/interfacegan/)] [[Github](https://github.com/genforce/interfacegan)]
 
 **Image2StyleGAN++: How to Edit the Embedded Images?**<br>
-*Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
+*Rameen Abdal, [Yipeng Qin](http://yipengqin.github.io/), Peter Wonka.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1911.11544)]
 
 **Semantic Photo Manipulation with a Generative Image Prior.**<br>
@@ -227,7 +227,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1911.11544)]
 SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/2005.07727)]
 
 **Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?**<br>
-*Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
+*Rameen Abdal, [Yipeng Qin](http://yipengqin.github.io/), Peter Wonka.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1904.03189)]
 
 **Seeing What a GAN Cannot Generate.**<br>
@@ -309,6 +309,12 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github
 **DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
 *E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
+
+### image understanding
+
+**Repurposing GANs for One-shot Semantic Part Segmentation.**<br>
+*Nontawat Tritrong, Pitchaporn Rewatbowornwong, [Supasorn Suwajanakorn](https://www.supasorn.com/).*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://repurposegans.github.io/)]
 
 ### compressed sensing
 
