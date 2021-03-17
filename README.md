@@ -274,6 +274,10 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ### content generation
 
+**Unsupervised Image Transformation Learning via Generative Adversarial Networks.**<br>
+*Kaiwen Zha, Yujun Shen, Bolei Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07751)] [[Project](https://genforce.github.io/trgan)]
+
 **TediGAN: Text-Guided Diverse Image Generation and Manipulation.**<br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ)] [[Github](https://github.com/weihaox/TediGAN)]
@@ -289,6 +293,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.c
 **OSTeC: One-Shot Texture Completion.**<br>
 *Baris Gecer, Jiankang Deng, Stefanos Zafeiriou.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15370)] [[Github](https://github.com/barisgecer/OSTeC)]
+
+**GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
+*[Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
+ICLR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.00844)] [[Github](https://github.com/XingangPan/GAN2Shape)] [[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
 
 **Exploring Adversarial Fake Images on Face Manifold.**<br>
 *Dongze Li, Wei Wang, Hongxing Fan, Jing Dong.*<br>
@@ -314,7 +322,7 @@ ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12368
 
 **Repurposing GANs for One-shot Semantic Part Segmentation.**<br>
 *Nontawat Tritrong, Pitchaporn Rewatbowornwong, [Supasorn Suwajanakorn](https://www.supasorn.com/).*<br>
-CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://repurposegans.github.io/)]
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://repurposegans.github.io/)] [[Github](https://github.com/bryandlee/repurpose-gan)]
 
 ### compressed sensing
 
