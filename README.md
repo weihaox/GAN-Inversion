@@ -228,7 +228,7 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/2005.07727)]
 
 **Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?**<br>
 *Rameen Abdal, [Yipeng Qin](http://yipengqin.github.io/), Peter Wonka.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1904.03189)]
+ICCV 2019. [[PDF](https://arxiv.org/abs/1904.03189)] [[Github](https://github.com/RameenAbdal/image2styleganv1-v2)]
 
 **Seeing What a GAN Cannot Generate.**<br>
 *David Bau, Jun-Yan Zhu, Jonas Wulff, William Peebles, Hendrik Strobelt, Bolei Zhou, Antonio Torralba.*<br>
@@ -262,6 +262,10 @@ IJCAI 2017.  [[PDF](https://arxiv.org/abs/1705.08664)]
 *J. H. Rick Chang, Chun-Liang Li, Barnabas Poczos, B. V. K. Vijaya Kumar, Aswin C. Sankaranarayanan.*<br>
 ICCV 2017. [[PDF](https://arxiv.org/abs/1703.09912)]
 
+**Precise Recovery of Latent Vectors from Generative Adversarial Networks.**<br>
+*Zachary C. Lipton, Subarna Tripathi.*<br>
+ICLR 2017 workshop. [[PDF](https://arxiv.org/abs/1702.04782)] [[Github](https://github.com/SubarnaTripathi/ReverseGAN)]
+
 **Inverting The Generator Of A Generative Adversarial Network.**<br>
 *Antonia Creswell, Anil Anthony Bharath.*<br>
 NIPSW 2016. [[PDF](https://arxiv.org/abs/1611.05644)]
@@ -273,6 +277,10 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 ## application
 
 ### content generation
+
+**Paint by Word.**<br>
+*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
 
 **Unsupervised Image Transformation Learning via Generative Adversarial Networks.**<br>
 *Kaiwen Zha, Yujun Shen, Bolei Zhou.*<br>
@@ -317,6 +325,16 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github
 **DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
 *E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
+
+### image restoration
+
+**GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.**<br>
+*[Kelvin C.K. Chan](https://ckkelvinchan.github.io/), Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00739)] [[Project](https://ckkelvinchan.github.io/projects/GLEAN)] [[Github]()]
+
+**GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior.**<br>
+*[Xintao Wang](https://xinntao.github.io/), [Yu Li](https://yu-li.github.io/), [Honglun Zhang](https://scholar.google.com/citations?hl=en&user=KjQLROoAAAAJ), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04061)] [[Project](https://xinntao.github.io/)]
 
 ### image understanding
 
