@@ -3,7 +3,16 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 
-A collection of resources on GAN Inversion: Interpreting the Latent Space of Pretrained Models. 
+This repo is a collection of resources on GAN inversion, as a supplement for our [survey](https://arxiv.org/abs/2101.05278):
+
+```bibtex
+@article{xia2021survey,
+  author    = {Xia, Weihao and Zhang, Yulun and Yang, Yujiu and Xue, Jing-Hao and Zhou, Bolei and Yang, Ming-Hsuan},
+  title     = {GAN Inversion: A Survey},
+  journal={arXiv preprint arXiv: 2101.05278},
+  year={2021}
+}
+```
 
 ## Contributing
 
@@ -27,15 +36,6 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
 
-```bibtex
-@article{xia2021survey,
-  author    = {Xia, Weihao and Zhang, Yulun and Yang, Yujiu and Xue, Jing-Hao and Zhou, Bolei and Yang, Ming-Hsuan},
-  title     = {GAN Inversion: A Survey},
-  journal={arXiv preprint arXiv: 2101.05278},
-  year={2021}
-}
-```
-
 ## inverted pretrained model
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
@@ -50,11 +50,11 @@ CVPR 2020.
 [[PyTorch](https://github.com/rosinality/stylegan2-pytorch)]
 [[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0)]
 
-**A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
+**StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1812.04948)] [[Offical TF](https://github.com/NVlabs/stylegan)]
 
-**Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
+**ProGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
 ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://github.com/tkarras/progressive_growing_of_gans)]
 
@@ -63,8 +63,8 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
 **Using Latent Space Regression to Analyze and Leverage Compositionality in GANs.**<br> 
-*Lucy Chai, Jonas Wulff, Phillip Isola.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)]
+*[Lucy Chai](http://people.csail.mit.edu/lrchai/), [Jonas Wulff](http://people.csail.mit.edu/jwulff/), [Phillip Isola](http://web.mit.edu/phillipi/).*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)] [[Github](https://github.com/chail/latent-composition)] [[Project](https://chail.github.io/latent-composition/)] [[Colab](https://colab.research.google.com/drive/1p-L2dPMaqMyr56TYoYmBJhoyIyBJ7lzH?usp=sharing)]
 
 **Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs.**<br>
 *Hui-Po Wang, Ning Yu, Mario Fritz.*<br>
@@ -161,6 +161,10 @@ ECCV 2020. [[PDF](http://arxiv.org/abs/2005.01703)] [[Github](https://github.com
 **Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
 *Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10132)]
+
+**Improving Inversion and Generation Diversity in StyleGAN using a Gaussianized Latent Space.**<br>
+*[Jonas Wulff](http://people.csail.mit.edu/jwulff/), Antonio Torralba.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.06529)]
 
 **GANSpace: Discovering Interpretable GAN Controls.**<br>
 *Erik Härkönen, Aaron Hertzmann, Jaakko Lehtinen, Sylvain Paris.*<br>
