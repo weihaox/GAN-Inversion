@@ -318,14 +318,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03891)] [[Github](https://github.co
 *Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
 
-**OSTeC: One-Shot Texture Completion.**<br>
-*Baris Gecer, Jiankang Deng, Stefanos Zafeiriou.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15370)] [[Github](https://github.com/barisgecer/OSTeC)]
-
-**GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
-*[Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
-ICLR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.00844)] [[Github](https://github.com/XingangPan/GAN2Shape)] [[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
-
 **Exploring Adversarial Fake Images on Face Manifold.**<br>
 *Dongze Li, Wei Wang, Hongxing Fan, Jing Dong.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03272)]
@@ -375,6 +367,20 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11163)] [[Github](https://github.c
 **Task-Aware Compressed Sensing with Generative Adversarial Networks.**<br>
 *Maya Kabkab, Pouya Samangouei, Rama Chellappa.*<br>
 AAAI 2018. [[PDF](https://arxiv.org/pdf/1802.01284.pdf)]
+
+### 3D
+
+**OSTeC: One-Shot Texture Completion.**<br>
+*Baris Gecer, Jiankang Deng, Stefanos Zafeiriou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15370)] [[Github](https://github.com/barisgecer/OSTeC)]
+
+**GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
+*[Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
+ICLR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.00844)] [[Github](https://github.com/XingangPan/GAN2Shape)] [[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
+
+**Unsupervised 3D Shape Completion through GAN-Inversion.**<br>
+*J. Zhang, X. Chen, Z. Cai, L. Pan, H. Zhao, S. Yi, C. K. Yeo, B. Dai, C. C. Loy.*<br>
+CVPR 2021. [[PDF]()]
 
 ## acknowledgement
 
