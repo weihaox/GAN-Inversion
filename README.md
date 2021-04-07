@@ -62,6 +62,14 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
+**ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement.**<br> 
+*[Yuval Alaluf](https://yuval-alaluf.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02699)] [[Project](https://yuval-alaluf.github.io/restyle-encoder/)] [[Github](https://github.com/yuval-alaluf/restyle-encoder)]
+
+**LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions.**<br> 
+*Oğuz Kaan Yüksel, Enis Simsar, Ezgi Gülperi Er, Pinar Yanardag.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00820)] [[Github](https://github.com/catlab-team/latentclr)]
+
 **Using Latent Space Regression to Analyze and Leverage Compositionality in GANs.**<br> 
 *[Lucy Chai](http://people.csail.mit.edu/lrchai/), [Jonas Wulff](http://people.csail.mit.edu/jwulff/), [Phillip Isola](http://web.mit.edu/phillipi/).*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)] [[Github](https://github.com/chail/latent-composition)] [[Project](https://chail.github.io/latent-composition/)] [[Colab](https://colab.research.google.com/drive/1p-L2dPMaqMyr56TYoYmBJhoyIyBJ7lzH?usp=sharing)]
@@ -282,9 +290,17 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ### content generation
 
+**In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
+*Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
+
 **Paint by Word.**<br>
 *David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
+
+**Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
+*Yuki Endo, Yoshihiro Kanamori.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)]
 
 **Unsupervised Image Transformation Learning via Generative Adversarial Networks.**<br>
 *Kaiwen Zha, Yujun Shen, Bolei Zhou.*<br>
@@ -345,6 +361,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04061)] [[Project](https://xinntao
 **Repurposing GANs for One-shot Semantic Part Segmentation.**<br>
 *Nontawat Tritrong, Pitchaporn Rewatbowornwong, [Supasorn Suwajanakorn](https://www.supasorn.com/).*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://repurposegans.github.io/)] [[Github](https://github.com/bryandlee/repurpose-gan)]
+
+**Labels4Free: Unsupervised Segmentation using StyleGAN.**<br>
+*Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14968)] [[PDF](https://rameenabdal.github.io/Labels4Free)]
 
 ### compressed sensing
 
