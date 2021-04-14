@@ -294,6 +294,10 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 *Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
 
+**InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
+*Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0527.github.io/infinityGAN/)]
+
 **Paint by Word.**<br>
 *David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
