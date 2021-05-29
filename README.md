@@ -62,6 +62,10 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
+**Ensembling with Deep Generative Views.**<br> 
+*Lucy Chai, Jun-Yan Zhu, Eli Shechtman, Phillip Isola, Richard Zhang.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14551)] [[Github](https://github.com/chail/gan-ensembling)] [[Project](https://chail.github.io/gan-ensembling/)]
+
 **Explaining in Style: Training a GAN to explain a classifier in StyleSpace.**<br> 
 *Oran Lang, Yossi Gandelsman, Michal Yarom, Yoav Wald, Gal Elidan, Avinatan Hassidim, William T. Freeman, Phillip Isola, Amir Globerson, Michal Irani, Inbar Mosseri.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.13369)] [[Project](https://explaining-in-style.github.io/)]
@@ -108,7 +112,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
 
 **Navigating the GAN Parameter Space for Semantic Image Editing.**<br>
 *Anton Cherepkov, Andrey Voynov, Artem Babenko.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13786)] [[Github](https://github.com/yandex-research/navigan)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13786)] [[Github](https://github.com/yandex-research/navigan)]
 
 **Augmentation-Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation.**<br>
 *Davis Wertheimer, Omid Poursaeed, Bharath Hariharan.*<br>
@@ -124,7 +128,7 @@ arxiv 2020. [[PDF]](https://arxiv.org/abs/2011.11842)]
 
 **StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation.**<br>
 *Zongze Wu, Dani Lischinski, Eli Shechtman.*<br>
-arxiv 2020. [[PDF]](https://arxiv.org/abs/2011.12799)
+CVPR 2021 (oral). [[PDF]](https://arxiv.org/abs/2011.12799) [[Github](https://github.com/betterze/StyleSpace)]
 
 **GAN Steerability without optimization.**<br>
 *Nurit Spingarn-Eliezer, Ron Banner, Tomer Michaeli.*<br>
@@ -298,6 +302,10 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ### content generation
 
+**One Shot Face Swapping on Megapixels.**<br>
+*Yuhao Zhu, Qi Li, Jian Wang, Chengzhong Xu, Zhenan Sun.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2105.04932.pdf)]
+
 **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing.**<br>
 *Hyunsu Kim, [Yunjey Choi](https://yunjey.github.io/), Junho Kim, Sungjoo Yoo, Youngjung Uh.*<br>
 CVPR 2021. [[PDF]()]
@@ -372,7 +380,7 @@ CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://r
 
 **Labels4Free: Unsupervised Segmentation using StyleGAN.**<br>
 *Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14968)] [[PDF](https://rameenabdal.github.io/Labels4Free)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14968)] [[Project](https://rameenabdal.github.io/Labels4Free)]
 
 ### compressed sensing
 
