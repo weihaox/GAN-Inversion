@@ -66,6 +66,10 @@ This part contatins generatal inversion methods, while methods in the next *appl
 *Lucy Chai, Jun-Yan Zhu, Eli Shechtman, Phillip Isola, Richard Zhang.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14551)] [[Github](https://github.com/chail/gan-ensembling)] [[Project](https://chail.github.io/gan-ensembling/)]
 
+**Disentangled Face Attribute Editing via Instance-Aware Latent Space Search.**<br>
+*Yuxuan Han, Jiaolong Yang, Ying Fu.*<br>
+IJCAI 2021. [[PDF](https://arxiv.org/abs/2105.12660)] [[Github](https://github.com/yxuhan/IALS)]
+
 **Explaining in Style: Training a GAN to explain a classifier in StyleSpace.**<br> 
 *Oran Lang, Yossi Gandelsman, Michal Yarom, Yoav Wald, Gal Elidan, Avinatan Hassidim, William T. Freeman, Phillip Isola, Amir Globerson, Michal Irani, Inbar Mosseri.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.13369)] [[Project](https://explaining-in-style.github.io/)]
