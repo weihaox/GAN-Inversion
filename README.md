@@ -74,6 +74,10 @@ IJCAI 2021. [[PDF](https://arxiv.org/abs/2105.12660)] [[Github](https://github.c
 *Oran Lang, Yossi Gandelsman, Michal Yarom, Yoav Wald, Gal Elidan, Avinatan Hassidim, William T. Freeman, Phillip Isola, Amir Globerson, Michal Irani, Inbar Mosseri.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.13369)] [[Project](https://explaining-in-style.github.io/)]
 
+**Transforming the Latent Space of StyleGAN for Real Face Editing.**<br> 
+*Heyi Li, Jinlong Liu, Yunzhi Bai, Huayan Wang, Klaus Mueller.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14230)]
+
 **A Simple Baseline for StyleGAN Inversion.**<br> 
 *Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Weiming Zhang, Lu Yuan, Gang Hua, Nenghai Yu.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.07661)] [[Github](https://github.com/wty-ustc/StyleGAN-Inversion-Baseline)] [[Project](https://wty-ustc.github.io/inversion/)]
