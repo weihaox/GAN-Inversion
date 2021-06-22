@@ -288,6 +288,10 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ## latent space navigation
 
+**Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs.**<br>
+*Jaewoong Choi, Changyeon Yoon, Junho Lee, Jung Ho Park, Geonho Hwang, Myungjoo Kang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.06959)]
+
 **GAN Steerability without optimization.**<br>
 *Nurit Spingarn-Eliezer, Ron Banner, Tomer Michaeli.*<br>
 ICLR 2021. [[OpenReview](https://openreview.net/forum?id=zDy_nQCXiIj)] [[PDF](https://arxiv.org/abs/2012.05328)]
