@@ -288,6 +288,22 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ## latent space navigation
 
+**Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes.**<br>
+*Huiting Yang, Liangyu Chai, Qiang Wen, Shuang Zhao, Zixun Sun, Shengfeng He.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Discovering_Interpretable_Latent_Space_Directions_of_GANs_Beyond_Binary_Attributes_CVPR_2021_paper.pdf)]
+
+**Surrogate Gradient Field for Latent Space Manipulation.**<br>
+*Minjun Li, Yanghua Jin, Huachun Zhu.*<br>
+CVPR 2021. [[PDF](http://arxiv.org/abs/2104.09065)]
+
+**L2M-GAN: Learning To Manipulate Latent Space Semantics for Facial Attribute Editing.**<br>
+*Guoxing Yang, Nanyi Fei, Mingyu Ding, Guangzhen Liu, Zhiwu Lu, Tao Xiang.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_L2M-GAN_Learning_To_Manipulate_Latent_Space_Semantics_for_Facial_Attribute_CVPR_2021_paper.html)]
+
+**A Latent Transformer for Disentangled and Identity-Preserving Face Editing.**<br>
+*Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.11895)] [[Github](https://github.com/InterDigitalInc/Latent-Transformer)]
+
 **Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs.**<br>
 *Jaewoong Choi, Changyeon Yoon, Junho Lee, Jung Ho Park, Geonho Hwang, Myungjoo Kang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.06959)]
