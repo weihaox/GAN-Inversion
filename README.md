@@ -254,6 +254,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1902.09698)]
 *David Bau, Jun-Yan Zhu, Jonas Wulff, William Peebles, Hendrik Strobelt, Bolei Zhou, Antonio Torralba.*<br>
 ICCV 2019. [[PDF](https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_paper_18.pdf)]
 
+**Detecting Overfitting in Deep Generators via Latent Recovery.**<br>
+*Ryan Webster, Julien Rabin, Loic Simon, Frederic Jurie.*<br>
+CVPR 2019. [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Webster_Detecting_Overfitting_of_Deep_Generative_Networks_via_Latent_Recovery_CVPR_2019_paper.pdf)][[Colab](https://colab.research.google.com/drive/1N6zP4xlPunWOkmakcl0mamfhq946nMLB?usp=sharing)]
+
 **Inverting The Generator Of A Generative Adversarial Network (II).**<br>
 *Antonia Creswell, Anil A Bharath.*<br>
 TNNLS 2018. [[PDF](https://arxiv.org/abs/1802.05701)] [[Github](https://github.com/ToniCreswell/InvertingGAN)]
