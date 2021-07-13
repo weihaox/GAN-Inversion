@@ -7,9 +7,9 @@ This repo is a collection of resources on GAN inversion, as a supplement for our
 
 ```bibtex
 @article{xia2021survey,
-  author    = {Xia, Weihao and Zhang, Yulun and Yang, Yujiu and Xue, Jing-Hao and Zhou, Bolei and Yang, Ming-Hsuan},
-  title     = {GAN Inversion: A Survey},
-  journal={arXiv preprint arXiv: 2101.05278},
+  author  = {Xia, Weihao and Zhang, Yulun and Yang, Yujiu and Xue, Jing-Hao and Zhou, Bolei and Yang, Ming-Hsuan},
+  title   = {GAN Inversion: A Survey},
+  journal = {arXiv preprint arXiv: 2101.05278},
   year={2021}
 }
 ```
@@ -38,6 +38,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
 
 ## inverted pretrained model
 
+**Alias-Free GAN: Alias-Free Generative Adversarial Networks.**<br>
+*Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.github.io/alias-free-gan)] [[Github](https://github.com/NVlabs/alias-free-gan)] [[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch)]
+
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada)]
@@ -61,6 +65,10 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 ## inversion method
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
+
+**Semantic and Geometric Unfolding of StyleGAN Latent Space.**<br>
+*Mustafa Shukor, Xu Yao, Bharath Bhushan Damodaran, Pierre Hellier.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.04481)]
 
 **Pivotal Tuning for Latent-based Editing of Real Images.**<br>
 *Daniel Roich, Ron Mokady, Amit H. Bermano, Daniel Cohen-Or.*<br>
@@ -292,6 +300,8 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ## latent space navigation
 
+Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
+
 **Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes.**<br>
 *Huiting Yang, Liangyu Chai, Qiang Wen, Shuang Zhao, Zixun Sun, Shengfeng He.*<br>
 CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Discovering_Interpretable_Latent_Space_Directions_of_GANs_Beyond_Binary_Attributes_CVPR_2021_paper.pdf)]
@@ -352,9 +362,9 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 *Yuhao Zhu, Qi Li, Jian Wang, Chengzhong Xu, Zhenan Sun.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2105.04932.pdf)] [[Github](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)]
 
-**Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing.**<br>
-*Hyunsu Kim, [Yunjey Choi](https://yunjey.github.io/), Junho Kim, Sungjoo Yoo, Youngjung Uh.*<br>
-CVPR 2021. [[PDF]()]
+**StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing.**<br>
+*[Hyunsu Kim](https://github.com/blandocs), [Yunjey Choi](https://yunjey.github.io/), [Junho Kim](https://github.com/taki0112), [Sungjoo Yoo](http://cmalab.snu.ac.kr/), [Youngjung Uh](https://github.com/youngjung).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.com/naver-ai/StyleMapGAN)]
 
 **In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
 *Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
