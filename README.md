@@ -66,6 +66,10 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
+**StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN.**<br>
+*[Gereon Fox](https://www.mpi-inf.mpg.de/~gfox/), [Ayush Tewari](https://www.mpi-inf.mpg.de/~atewari/), Mohamed Elgharib, [Christian Theobalt](http://gvv.mpi-inf.mpg.de/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07224)]
+
 **Semantic and Geometric Unfolding of StyleGAN Latent Space.**<br>
 *Mustafa Shukor, Xu Yao, Bharath Bhushan Damodaran, Pierre Hellier.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.04481)]
@@ -301,6 +305,10 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 ## latent space navigation
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
+
+**StyleFusion: A Generative Model for Disentangling Spatial Segments.**<br>
+*Omer Kafri, Or Patashnik, Yuval Alaluf, Daniel Cohen-Or.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07437)] [[Github](https://github.com/OmerKafri/StyleFusion)]
 
 **Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes.**<br>
 *Huiting Yang, Liangyu Chai, Qiang Wen, Shuang Zhao, Zixun Sun, Shengfeng He.*<br>
