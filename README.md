@@ -451,8 +451,8 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06490)] [[Github](https://github.co
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://repurposegans.github.io/)] [[Github](https://github.com/bryandlee/repurpose-gan)]
 
 **Labels4Free: Unsupervised Segmentation using StyleGAN.**<br>
-*Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14968)] [[Project](https://rameenabdal.github.io/Labels4Free)]
+*[Rameen Abdal](https://scholar.google.com/citations?user=kEQimk0AAAAJ&hl=en), [Peihao Zhu](https://scholar.google.com/citations?user=Gn8URq0AAAAJ&hl=en), [Niloy Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Peter Wonka](http://peterwonka.net/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14968)] [[Project](https://rameenabdal.github.io/Labels4Free)] [[Github](https://github.com/RameenAbdal/Labels4Free)]
 
 ### compressed sensing
 
