@@ -124,7 +124,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.14107)]
 
 **e4e: Designing an Encoder for StyleGAN Image Manipulation.**<br>
 *[Omer Tov](https://yotamnitzan.github.io/), Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02766)] [[Github](https://github.com/omertov/encoder4editing)]
+TOG 2021. [[PDF](https://arxiv.org/abs/2102.02766)] [[Github](https://github.com/omertov/encoder4editing)]
 
 **Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**<br>
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
@@ -306,6 +306,10 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
 
+**LARGE: Latent-Based Regression through GAN Semantics.**<br>
+*Yotam Nitzan, Rinon Gal, Ofir Brenner, Daniel Cohen-Or.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.11186)] [[Github](https://github.com/YotamNitzan/LARGE)] [[Project](https://yotamnitzan.github.io/LARGE)]
+
 **StyleFusion: A Generative Model for Disentangling Spatial Segments.**<br>
 *Omer Kafri, Or Patashnik, Yuval Alaluf, Daniel Cohen-Or.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07437)] [[Github](https://github.com/OmerKafri/StyleFusion)]
@@ -373,6 +377,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 ## application
 
 ### content generation
+
+**Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications.**<br>
+*[Yiqian Wu](https://onethousandwu.com/), [Yongliang Yang](http://www.yongliangyang.net/), Qinjie Xiao, [Xiaogang Ji](http://www.cad.zju.edu.cn/home/jin).*<br>
+TOG 2021. [[PDF](http://www.cad.zju.edu.cn/home/jin/sig2021/paper46.pdf)] [[Project](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm)]
 
 **One Shot Face Swapping on Megapixels.**<br>
 *Yuhao Zhu, Qi Li, Jian Wang, Chengzhong Xu, Zhenan Sun.*<br>
