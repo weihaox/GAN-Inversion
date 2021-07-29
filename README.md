@@ -87,7 +87,7 @@ ICML 2021. [[PDF](https://arxiv.org/pdf/2102.12525.pdf)]
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14551)] [[Github](https://github.com/chail/gan-ensembling)] [[Project](https://chail.github.io/gan-ensembling/)]
 
 **Disentangled Face Attribute Editing via Instance-Aware Latent Space Search.**<br>
-*Yuxuan Han, Jiaolong Yang, Ying Fu.*<br>
+*Yuxuan Han, [Jiaolong Yang](http://jlyang.org/), Ying Fu.*<br>
 IJCAI 2021. [[PDF](https://arxiv.org/abs/2105.12660)] [[Github](https://github.com/yxuhan/IALS)]
 
 **Intermediate Layer Optimization for Inverse Problems using Deep Generative Models.**<br>
@@ -378,6 +378,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ### content generation
 
+**StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation.**<br>
+*Wongjong Jang, Gwangjin Ju, [Yucheol Jung](https://ycjung.info/), [Jiaolong Yang](http://jlyang.org/), [Xin Tong](https://www.microsoft.com/en-us/research/people/xtong/), [Seungyong Lee](http://phome.postech.ac.kr/~leesy/).*<br>
+TOG 2021. [[PDF](https://arxiv.org/pdf/2107.04331.pdf)] [[Github](https://github.com/PeterZhouSZ/StyleCariGAN)]
+
 **Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications.**<br>
 *[Yiqian Wu](https://onethousandwu.com/), [Yongliang Yang](http://www.yongliangyang.net/), Qinjie Xiao, [Xiaogang Ji](http://www.cad.zju.edu.cn/home/jin).*<br>
 TOG 2021. [[PDF](http://www.cad.zju.edu.cn/home/jin/sig2021/paper46.pdf)] [[Project](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm)]
@@ -469,6 +473,10 @@ CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://r
 **Labels4Free: Unsupervised Segmentation using StyleGAN.**<br>
 *[Rameen Abdal](https://scholar.google.com/citations?user=kEQimk0AAAAJ&hl=en), [Peihao Zhu](https://scholar.google.com/citations?user=Gn8URq0AAAAJ&hl=en), [Niloy Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Peter Wonka](http://peterwonka.net/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14968)] [[Project](https://rameenabdal.github.io/Labels4Free)] [[Github](https://github.com/RameenAbdal/Labels4Free)]
+
+**Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP.**<br>
+*Daniil Pakhomov, Sanchit Hira, Narayani Wagle, Kemar E. Green, Nassir Navab.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.12518.pdf)] [[Github](https://github.com/warmspringwinds/segmentation_in_style)]
 
 ### compressed sensing
 
