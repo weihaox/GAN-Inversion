@@ -68,7 +68,7 @@ This part contatins generatal inversion methods, while methods in the next *appl
 
 **From Continuity to Editability: Inverting GANs with Consecutive Images.**<br>
 *[Yangyang Xu](https://qingyang-xu.github.io/), [Yong Du](https://www.csyongdu.com/), Wenpeng Xiao, Xuemiao Xu and [Shengfeng He](hengfenghe.com).*<br>
-ICCV2021. [[PDF](https://arxiv.org/pdf/2107.13812.pdf)] [[Github](https://github.com/Qingyang-Xu/InvertingGANs_with_ConsecutiveImgs)]
+ICCV2021. [[PDF](https://arxiv.org/pdf/2107.13812.pdf)] [[Github](https://github.com/cnnlstm/InvertingGANs_with_ConsecutiveImgs)]
 
 
 
