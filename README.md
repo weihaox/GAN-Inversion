@@ -66,6 +66,12 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
+**From Continuity to Editability: Inverting GANs with Consecutive Images.**<br>
+*[Yangyang Xu](https://qingyang-xu.github.io/), [Yong Du](https://www.csyongdu.com/), Wenpeng Xiao, Xuemiao Xu and [Shengfeng He](hengfenghe.com).*<br>
+ICCV2021. [[PDF](https://arxiv.org/pdf/2107.13812.pdf)] [[Github](https://github.com/Qingyang-Xu/InvertingGANs_with_ConsecutiveImgs)]
+
+
+
 **StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN.**<br>
 *[Gereon Fox](https://www.mpi-inf.mpg.de/~gfox/), [Ayush Tewari](https://www.mpi-inf.mpg.de/~atewari/), Mohamed Elgharib, [Christian Theobalt](http://gvv.mpi-inf.mpg.de/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07224)]
