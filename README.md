@@ -48,11 +48,7 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-CVPR 2020.
-[[PDF](https://arxiv.org/abs/1912.04958)] 
-[[Offical TF](https://github.com/NVlabs/stylegan2)]
-[[PyTorch](https://github.com/rosinality/stylegan2-pytorch)]
-[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.04958)] [[PyTorch](https://github.com/rosinality/stylegan2-pytorch)] [[Offical TF](https://github.com/NVlabs/stylegan2)]  [[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0)]
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
@@ -67,7 +63,7 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
 **From Continuity to Editability: Inverting GANs with Consecutive Images.**<br>
-*Yangyang Xu, Yong Du, Wenpeng Xiao, Xuemiao Xu, Shengfeng He.*<br>
+*[Yangyang Xu](https://qingyang-xu.github.io/), [Yong Du](https://www.csyongdu.com/), Wenpeng Xiao, Xuemiao Xu and [Shengfeng He](hengfenghe.com).*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2107.13812)] [[Github](https://github.com/Qingyang-Xu/InvertingGANs_with_ConsecutiveImgs)]
 
 **StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN.**<br>
@@ -187,7 +183,7 @@ arxiv 2020. [[PDF]](https://arxiv.org/abs/2011.11842)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15555)] [[OpenReview](https://openreview.net/pdf?id=TSrvUnWkjGR)]
 
 **Collaborative Learning for Faster StyleGAN Embedding.**<br>
-*Shanyan Guan, Ying Tai, Bingbing Ni, Feida Zhu, Feiyue Huang, Xiaokang Yang.*<br>
+*Shanyan Guan, [Ying Tai](https://tyshiwo.github.io/), Bingbing Ni, Feida Zhu, Feiyue Huang, Xiaokang Yang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01758)]
 
 **Disentangling in Latent Space by Harnessing a Pretrained Generator.**<br>
@@ -384,7 +380,7 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ## application
 
-### content generation
+### image generation
 
 **In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
 *Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
@@ -393,10 +389,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyench
 **InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
 *Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0527.github.io/infinityGAN/)]
-
-**Paint by Word.**<br>
-*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
 
 **Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
 *Yuki Endo, Yoshihiro Kanamori.*<br>
@@ -409,10 +401,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07751)] [[Project](https://genforc
 **Exploring Adversarial Fake Images on Face Manifold.**<br>
 *Dongze Li, Wei Wang, Hongxing Fan, Jing Dong.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03272)]
-
-**Generating Images from Caption and Vice Versa via CLIP-Guided Generative Latent Space Search.**<br>
-*Federico A. Galatolo, Mario G.C.A. Cimino, Gigliola Vaglini.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01645)]
 
 **Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
 *Jialu Huang, Jing Liao, Sam Kwong.*<br>
@@ -438,10 +426,6 @@ TOG 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com
 *Yuhao Zhu, Qi Li, Jian Wang, Chengzhong Xu, Zhenan Sun.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2105.04932.pdf)] [[Github](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)]
 
-**TediGAN: Text-Guided Diverse Image Generation and Manipulation.**<br>
-*Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ)] [[Github](https://github.com/weihaox/TediGAN)]
-
 **LOHO: Latent Optimization of Hairstyles via Orthogonalization.**<br>
 *Rohit Saha, Brendan Duke, Florian Shkurti, Graham W. Taylor, Parham Aarabi.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03891)] [[Github](https://github.com/dukebw/LOHO)]
@@ -454,9 +438,42 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.co
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
 
+
+### multimodal learning
+
+**StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators.**<br>
+*[Rinon Gal](https://rinongal.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Haggai Maron](https://haggaim.github.io/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2108.00946)] [[Project](https://stylegan-nada.github.io/)] [[Github](https://github.com/rinongal/StyleGAN-nada)]
+
+**Paint by Word.**<br>
+*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
+
+**Generating Images from Caption and Vice Versa via CLIP-Guided Generative Latent Space Search.**<br>
+*Federico A. Galatolo, Mario G.C.A. Cimino, Gigliola Vaglini.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01645)]
+
+**CI-GAN: Cycle-Consistent Inverse GAN for Text-to-Image Synthesis.**<br>
+*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.01361)]
+
+**TediGAN: Text-Guided Diverse Image Generation and Manipulation.**<br>
+*Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ)] [[Github](https://github.com/weihaox/TediGAN)]
+
 **DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
 *E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
+
+### medical imaging
+
+**Controllable Medical Image Generation via Generative Adversarial Networks.**<br>
+*Zhihang Ren, Stella X. Yu, David Whitney.*<br>
+Human Vision and Electronic Imaging 2021. [[PDF](https://whitneylab.berkeley.edu/PDFs/Ren_MedImageGen.pdf)]
+
+**High-resolution Controllable Prostatic Histology Synthesis using StyleGAN.**<br>
+*Gagandeep B. Daroach, Josiah A. Yoder, Kenneth A. Iczkowski, Peter S. LaViolette.*<br>
+BIOIMAGING 2021. [[PDF](https://www.scitepress.org/Papers/2021/103939/103939.pdf)]
 
 ### image restoration
 
