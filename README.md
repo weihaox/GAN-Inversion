@@ -90,10 +90,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14230)] [[Github](https://github.c
 *Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Weiming Zhang, Lu Yuan, Gang Hua, Nenghai Yu.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.07661)] [[Github](https://github.com/wty-ustc/StyleGAN-Inversion-Baseline)] [[Project](https://wty-ustc.github.io/inversion/)]
 
-**ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement.**<br> 
-*[Yuval Alaluf](https://yuval-alaluf.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br> 
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02699)] [[Project](https://yuval-alaluf.github.io/restyle-encoder/)] [[Github](https://github.com/yuval-alaluf/restyle-encoder)]
-
 **LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions.**<br> 
 *Oğuz Kaan Yüksel, Enis Simsar, Ezgi Gülperi Er, Pinar Yanardag.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00820)] [[Github](https://github.com/catlab-team/latentclr)]
@@ -101,6 +97,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00820)] [[Github](https://github.c
 **GAN-Control: Explicitly Controllable GANs.**<br>
 *Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02477)]
+
+**ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement.**<br> 
+*[Yuval Alaluf](https://yuval-alaluf.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br> 
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.02699)] [[Project](https://yuval-alaluf.github.io/restyle-encoder/)] [[Github](https://github.com/yuval-alaluf/restyle-encoder)]
 
 **Disentangled Face Attribute Editing via Instance-Aware Latent Space Search.**<br>
 *Yuxuan Han, [Jiaolong Yang](http://jlyang.org/), Ying Fu.*<br>
@@ -325,6 +325,11 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.11895)] [[Github](https://github.c
 **Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs.**<br>
 *Jaewoong Choi, Changyeon Yoon, Junho Lee, Jung Ho Park, Geonho Hwang, Myungjoo Kang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.06959)]
+
+**OroJaR: Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation.**<br>
+*Yuxiang Wei, Yupeng Shi, Xiao Liu, Zhilong Ji, Yuan Gao, Zhongqin Wu, Wangmeng Zuo.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.07668)] [[Github](https://github.com/csyxwei/OroJaR)]
+
 
 **EigenGAN: Layer-Wise Eigen-Learning for GANs.**<br>
 *Zhenliang He, Meina Kan, Shiguang Shan.*<br>
