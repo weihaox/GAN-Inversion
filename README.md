@@ -62,9 +62,6 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
-**From Continuity to Editability: Inverting GANs with Consecutive Images.**<br>
-*[Yangyang Xu](https://qingyang-xu.github.io/), [Yong Du](https://www.csyongdu.com/), Wenpeng Xiao, Xuemiao Xu and [Shengfeng He](hengfenghe.com).*<br>
-ICCV 2021. [[PDF](https://arxiv.org/abs/2107.13812)] [[Github](https://github.com/Qingyang-Xu/InvertingGANs_with_ConsecutiveImgs)]
 
 **StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN.**<br>
 *[Gereon Fox](https://www.mpi-inf.mpg.de/~gfox/), [Ayush Tewari](https://www.mpi-inf.mpg.de/~atewari/), Mohamed Elgharib, [Christian Theobalt](http://gvv.mpi-inf.mpg.de/).*<br>
@@ -97,6 +94,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00820)] [[Github](https://github.c
 **GAN-Control: Explicitly Controllable GANs.**<br>
 *Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02477)]
+
+**BDInvert: GAN Inversion for Out-of-Range Images with Geometric Transformations.**<br>
+*[Kyoungkook Kang](https://kkang831.github.io/), Seongtae Kim, [Sunghyun Cho](https://www.scho.pe.kr/).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.08998)] [[Project](https://kkang831.github.io/publication/ICCV_2021_BDInvert/)]
+
+**From Continuity to Editability: Inverting GANs with Consecutive Images.**<br>
+*[Yangyang Xu](https://qingyang-xu.github.io/), [Yong Du](https://www.csyongdu.com/), Wenpeng Xiao, Xuemiao Xu and [Shengfeng He](hengfenghe.com).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2107.13812)] [[Github](https://github.com/Qingyang-Xu/InvertingGANs_with_ConsecutiveImgs)]
 
 **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement.**<br> 
 *[Yuval Alaluf](https://yuval-alaluf.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br> 
