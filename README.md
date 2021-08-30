@@ -3,38 +3,41 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 
-This repo is a collection of resources on GAN inversion, as a supplement for our [survey](https://arxiv.org/abs/2101.05278):
+This repo is a collection of resources on GAN inversion, as a supplement for our [survey](https://arxiv.org/abs/2101.05278).
 
-```bibtex
-@article{xia2021survey,
-  author  = {Xia, Weihao and Zhang, Yulun and Yang, Yujiu and Xue, Jing-Hao and Zhou, Bolei and Yang, Ming-Hsuan},
-  title   = {GAN Inversion: A Survey},
-  journal = {arXiv preprint arXiv: 2101.05278},
-  year={2021}
-}
-```
+<details>
+  <summary> Contribution </summary>
+  Feedback and contributions are welcome! 
+  If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls).
+  I have also released the [latex files](https://github.com/weihaox/documents/tree/main/gan-inversion). Please [pull a request](https://github.com/weihaox/documents/pulls), open an issue, or send me an email if you find any inappropriate expressions of the survey.
+  <pre><code> 
+  markdown format:
+  ```
+  **Here is the Paper Name.**<br>
+  *[Author 1](homepage), Author 2, and Author 3.*<br>
+  Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
+  ```
+ </code></pre> 
+</details>
 
-## Contributing
-
-Feedback and contributions are welcome!
-
-If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls).
-
-I have released the [latex files](https://github.com/weihaox/documents/tree/main/gan-inversion). Please [pull a request](https://github.com/weihaox/documents/pulls), open an issue, or send me an email if you find any inappropriate expressions of the survey.
-
-markdown format:
-``` markdown
-**Here is the Paper Name.**<br>
-*[Author 1](homepage), Author 2, and Author 3.*<br>
-Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
-```
-## Survey
+## survey
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
 **GAN Inversion: A Survey.**<br>
 *Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
+
+<details>
+  <summary> Citation </summary>
+  <pre><code>@article{xia2021survey,
+    author  = {Xia, Weihao and Zhang, Yulun and Yang, Yujiu and Xue, Jing-Hao and Zhou, Bolei and Yang, Ming-Hsuan},
+    title   = {GAN Inversion: A Survey},
+    journal = {arXiv preprint arXiv: 2101.05278},
+    year={2021}
+  }
+</code></pre>
+</details>
 
 ## inverted pretrained model
 
