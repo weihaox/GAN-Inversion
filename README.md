@@ -320,10 +320,17 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.06959)]
 *Yuxiang Wei, Yupeng Shi, Xiao Liu, Zhilong Ji, Yuan Gao, Zhongqin Wu, Wangmeng Zuo.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2108.07668)] [[Github](https://github.com/csyxwei/OroJaR)]
 
-
 **EigenGAN: Layer-Wise Eigen-Learning for GANs.**<br>
 *Zhenliang He, Meina Kan, Shiguang Shan.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2104.12476)] [[Github](https://github.com/LynnHo/EigenGAN-Tensorflow)]
+
+**SalS-GAN: Spatially-Adaptive Latent Space in StyleGAN for Real Image Embedding.**<br>
+*Lingyun Zhang, Xiuxiu Bai, Yao Gao.*<br>
+ACM MM 2021. [[PDF]()]
+
+**Discovering Density-Preserving Latent Space Walks in GANs for Semantic Image Transformations.**<br>
+*Guanyue Li, Yi Liu, Xiwen Wei, Yang Zhang, Si Wu, Yong Xu, Hau San Wong.*<br>
+ACM MM 2021. [[PDF]()]
 
 **Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes.**<br>
 *Huiting Yang, Liangyu Chai, Qiang Wen, Shuang Zhao, Zixun Sun, Shengfeng He.*<br>
@@ -377,7 +384,7 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ### image generation
 
-**In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
+**In&Out: Diverse Image Outpainting via GAN Inversion.**<br>
 *Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
 
@@ -388,6 +395,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0
 **Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
 *Yuki Endo, Yoshihiro Kanamori.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
+
+**Heredity-aware Child Face Image Generation with Latent Space Disentanglement.**<br>
+*Xiao Cui, Wengang Zhou, Yang Hu, Weilun Wang, Houqiang Li.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2108.11080)]
 
 **Unsupervised Image Transformation Learning via Generative Adversarial Networks.**<br>
 *Kaiwen Zha, Yujun Shen, Bolei Zhou.*<br>
@@ -416,6 +427,10 @@ TOG 2021. [[PDF](http://www.cad.zju.edu.cn/home/jin/sig2021/paper46.pdf)] [[Proj
 **SAM: Only a Matter of Style-Age Transformation Using a Style-Based Regression Model.**<br>
 *Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
 TOG 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
+
+**HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms.**<br>
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi), Marcus A. Brubaker, Michael S. Brown.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.11731)] [[Github](https://github.com/mahmoudnafifi/HistoGAN)] [[4K Landscape](https://ln2.sync.com/dl/1891becc0/uhsxtprq-33wfwmyq-dhhqeb3s-mtstuqw7/view/default/11118541390008)]
 
 **One Shot Face Swapping on Megapixels.**<br>
 *Yuhao Zhu, Qi Li, Jian Wang, Chengzhong Xu, Zhenan Sun.*<br>
@@ -460,16 +475,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/
 *E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
 
-### medical imaging
-
-**Controllable Medical Image Generation via Generative Adversarial Networks.**<br>
-*Zhihang Ren, Stella X. Yu, David Whitney.*<br>
-Human Vision and Electronic Imaging 2021. [[PDF](https://whitneylab.berkeley.edu/PDFs/Ren_MedImageGen.pdf)]
-
-**High-resolution Controllable Prostatic Histology Synthesis using StyleGAN.**<br>
-*Gagandeep B. Daroach, Josiah A. Yoder, Kenneth A. Iczkowski, Peter S. LaViolette.*<br>
-BIOIMAGING 2021. [[PDF](https://www.scitepress.org/Papers/2021/103939/103939.pdf)]
-
 ### image restoration
 
 **GPEN: GAN Prior Embedded Network for Blind Face Restoration in the Wild.**<br>
@@ -510,16 +515,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06490)] [[Github](https://github.co
 *Nontawat Tritrong, Pitchaporn Rewatbowornwong, [Supasorn Suwajanakorn](https://www.supasorn.com/).*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://repurposegans.github.io/)] [[Github](https://github.com/bryandlee/repurpose-gan)]
 
-### compressed sensing
-
-**Generator Surgery for Compressed Sensing.**<br>
-*Niklas Smedemark-Margulies, Jung Yeon Park, Max Daniels, Rose Yu, Jan-Willem van de Meent, Paul Hand.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11163)] [[Github](https://github.com/nik-sm/generator-surgery)]
-
-**Task-Aware Compressed Sensing with Generative Adversarial Networks.**<br>
-*Maya Kabkab, Pouya Samangouei, Rama Chellappa.*<br>
-AAAI 2018. [[PDF](https://arxiv.org/pdf/1802.01284.pdf)]
-
 ### 3D
 
 **GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
@@ -538,6 +533,32 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezh
 *Baris Gecer, Jiankang Deng, Stefanos Zafeiriou.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.15370)] [[Github](https://github.com/barisgecer/OSTeC)]
 
+
+### compressed sensing
+
+**Generator Surgery for Compressed Sensing.**<br>
+*Niklas Smedemark-Margulies, Jung Yeon Park, Max Daniels, Rose Yu, Jan-Willem van de Meent, Paul Hand.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11163)] [[Github](https://github.com/nik-sm/generator-surgery)]
+
+**Task-Aware Compressed Sensing with Generative Adversarial Networks.**<br>
+*Maya Kabkab, Pouya Samangouei, Rama Chellappa.*<br>
+AAAI 2018. [[PDF](https://arxiv.org/pdf/1802.01284.pdf)]
+
+### medical imaging
+
+**Controllable Medical Image Generation via Generative Adversarial Networks.**<br>
+*Zhihang Ren, Stella X. Yu, David Whitney.*<br>
+Human Vision and Electronic Imaging 2021. [[PDF](https://whitneylab.berkeley.edu/PDFs/Ren_MedImageGen.pdf)]
+
+**High-resolution Controllable Prostatic Histology Synthesis using StyleGAN.**<br>
+*Gagandeep B. Daroach, Josiah A. Yoder, Kenneth A. Iczkowski, Peter S. LaViolette.*<br>
+BIOIMAGING 2021. [[PDF](https://www.scitepress.org/Papers/2021/103939/103939.pdf)]
+
+### security
+
+**Differentially Private Imaging via Latent Space Manipulation.**<br>
+*Tao Li, Chris Clifton.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.05472)]
 ## acknowledgement
 
 Thanks for the constructive comments from anonymous reviewers and feedback from [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Andrey Voynov](https://github.com/anvoynov), and [Rushil Anirudh](https://rushila.com/).
