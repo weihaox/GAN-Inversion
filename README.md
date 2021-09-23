@@ -47,6 +47,9 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
+**High-Fidelity GAN Inversion for Image Attribute Editing.**<br>
+*Tengfei Wang, Yong Zhang, Yanbo Fan, Jue Wang, Qifeng Chen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2109.06590)] [[Project](https://tengfei-wang.github.io/HFGI/)] [[Github](https://github.com/Tengfei-Wang/HFGI)]
 
 **StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN.**<br>
 *[Gereon Fox](https://www.mpi-inf.mpg.de/~gfox/), [Ayush Tewari](https://www.mpi-inf.mpg.de/~atewari/), Mohamed Elgharib, [Christian Theobalt](http://gvv.mpi-inf.mpg.de/).*<br>
@@ -382,7 +385,11 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ## application
 
-### image generation
+### image generation and manipulation
+
+**DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing.**<br>
+*Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2109.10737)] [[Github](https://github.com/phycvgan/DyStyle)]
 
 **In&Out: Diverse Image Outpainting via GAN Inversion.**<br>
 *Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
@@ -447,7 +454,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.co
 **DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
-
 
 ### multimodal learning
 
