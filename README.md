@@ -319,6 +319,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.11895)] [[Github](https://github.c
 *Jaewoong Choi, Changyeon Yoon, Junho Lee, Jung Ho Park, Geonho Hwang, Myungjoo Kang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.06959)]
 
+**WarpedGANSpace: Finding non-linear RBF paths in GAN latent space.**<br>
+*Christos Tzelepis, Georgios Tzimiropoulos, Ioannis Patras.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2109.13357)] [[Github](https://github.com/chi0tzp/WarpedGANSpace)]
+
 **OroJaR: Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation.**<br>
 *Yuxiang Wei, Yupeng Shi, Xiao Liu, Zhilong Ji, Yuan Gao, Zhongqin Wu, Wangmeng Zuo.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2108.07668)] [[Github](https://github.com/csyxwei/OroJaR)]
@@ -326,6 +330,10 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2108.07668)] [[Github](https://github.co
 **EigenGAN: Layer-Wise Eigen-Learning for GANs.**<br>
 *Zhenliang He, Meina Kan, Shiguang Shan.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2104.12476)] [[Github](https://github.com/LynnHo/EigenGAN-Tensorflow)]
+
+**A Latent Transformer for Disentangled Face Editing in Images and Videos.**<br>
+*Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2106.11895)] [[Github](https://github.com/InterDigitalInc/latent-transformer)]
 
 **SalS-GAN: Spatially-Adaptive Latent Space in StyleGAN for Real Image Embedding.**<br>
 *Lingyun Zhang, Xiuxiu Bai, Yao Gao.*<br>
