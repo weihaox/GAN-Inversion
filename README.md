@@ -63,10 +63,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2107.04481)]
 *Daniel Roich, Ron Mokady, Amit H. Bermano, Daniel Cohen-Or.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2106.05744.pdf)] [[Github](https://github.com/danielroich/PTI)]
 
-**Explaining in Style: Training a GAN to explain a classifier in StyleSpace.**<br> 
-*Oran Lang, Yossi Gandelsman, Michal Yarom, Yoav Wald, Gal Elidan, Avinatan Hassidim, William T. Freeman, Phillip Isola, Amir Globerson, Michal Irani, Inbar Mosseri.*<br> 
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.13369)] [[Project](https://explaining-in-style.github.io/)]
-
 **Transforming the Latent Space of StyleGAN for Real Face Editing.**<br> 
 *Heyi Li, Jinlong Liu, Yunzhi Bai, Huayan Wang, Klaus Mueller.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14230)] [[Github](https://github.com/AnonSubm2021/TransStyleGAN)]
@@ -82,6 +78,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00820)] [[Github](https://github.c
 **GAN-Control: Explicitly Controllable GANs.**<br>
 *Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02477)]
+
+**StyleGAN-induced data-driven regularization for inverse problems.**<br> 
+*Arthur Conmy, Subhadip Mukherjee, Carola-Bibiane Schönlieb.*<br> 
+Submitted to ICASSP 2022. [[PDF](https://arxiv.org/abs/2110.03814)]
+
+**Explaining in Style: Training a GAN to explain a classifier in StyleSpace.**<br> 
+*Oran Lang, Yossi Gandelsman, Michal Yarom, Yoav Wald, Gal Elidan, Avinatan Hassidim, William T. Freeman, Phillip Isola, Amir Globerson, Michal Irani, Inbar Mosseri.*<br> 
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.13369)] [[Project](https://explaining-in-style.github.io/)]
 
 **BDInvert: GAN Inversion for Out-of-Range Images with Geometric Transformations.**<br>
 *[Kyoungkook Kang](https://kkang831.github.io/), Seongtae Kim, [Sunghyun Cho](https://www.scho.pe.kr/).*<br>
@@ -319,7 +323,16 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.11895)] [[Github](https://github.c
 *Jaewoong Choi, Changyeon Yoon, Junho Lee, Jung Ho Park, Geonho Hwang, Myungjoo Kang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.06959)]
 
-**WarpedGANSpace: Finding non-linear RBF paths in GAN latent space.**<br>
+**A Latent Transformer for Disentangled Face Editing in Images and Videos.**<br>
+*Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Yao_A_Latent_Transformer_for_Disentangled_Face_Editing_in_Images_and_ICCV_2021_paper.html)] [[Github](https://github.com/InterDigitalInc/latent-transformer)]
+
+
+**Toward a Visual Concept Vocabulary for GAN Latent Space.**<br>
+*Sarah Schwettmann, Evan Hernandez, David Bau, Samuel Klein, Jacob Andreas, Antonio Torralba.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Schwettmann_Toward_a_Visual_Concept_Vocabulary_for_GAN_Latent_Space_ICCV_2021_paper.html)] [[Project](https://visualvocab.csail.mit.edu/)]
+
+**WarpedGANSpace: Finding Non-linear RBF Paths in GAN Latent Space.**<br>
 *Christos Tzelepis, Georgios Tzimiropoulos, Ioannis Patras.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2109.13357)] [[Github](https://github.com/chi0tzp/WarpedGANSpace)]
 
@@ -426,6 +439,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03272)]
 **Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
 *Jialu Huang, Jing Liao, Sam Kwong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
+
+**Identity-Guided Face Generation with Multi-modal Contour Conditions.**<br>
+*Qingyan Bai, Weihao Xia, Fei Yin, Yujiu Yang.*<br>
+Submitted to ICASSP 2022. [[PDF]()]
 
 **Constrained Graphic Layout Generation via Latent Optimization.**<br>
 *Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
