@@ -23,9 +23,9 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
 
 ## inverted pretrained model
 
-**Alias-Free GAN: Alias-Free Generative Adversarial Networks.**<br>
+**StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.github.io/alias-free-gan)] [[Github](https://github.com/NVlabs/alias-free-gan)] [[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch)]
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.github.io/alias-free-gan)] [[Github](https://github.com/NVlabs/stylegan3)] [[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch)]
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
@@ -46,6 +46,11 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 ## inversion method
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
+
+**Real Image Inversion via Segments.**<br>
+*David Futschik, Michal Lukáč, Eli Shechtman, Daniel Sýkora.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.06269)]
+
 
 **High-Fidelity GAN Inversion for Image Attribute Editing.**<br>
 *Tengfei Wang, Yong Zhang, Yanbo Fan, Jue Wang, Qifeng Chen.*<br>
@@ -327,7 +332,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.06959)]
 *Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
 ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Yao_A_Latent_Transformer_for_Disentangled_Face_Editing_in_Images_and_ICCV_2021_paper.html)] [[Github](https://github.com/InterDigitalInc/latent-transformer)]
 
-
 **Toward a Visual Concept Vocabulary for GAN Latent Space.**<br>
 *Sarah Schwettmann, Evan Hernandez, David Bau, Samuel Klein, Jacob Andreas, Antonio Torralba.*<br>
 ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Schwettmann_Toward_a_Visual_Concept_Vocabulary_for_GAN_Latent_Space_ICCV_2021_paper.html)] [[Project](https://visualvocab.csail.mit.edu/)]
@@ -370,7 +374,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2007.06600)] [[Github](https://github.co
 
 **L2M-GAN: Learning To Manipulate Latent Space Semantics for Facial Attribute Editing.**<br>
 *Guoxing Yang, Nanyi Fei, Mingyu Ding, Guangzhen Liu, Zhiwu Lu, Tao Xiang.*<br>
-CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_L2M-GAN_Learning_To_Manipulate_Latent_Space_Semantics_for_Facial_Attribute_CVPR_2021_paper.html)]
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_L2M-GAN_Learning_To_Manipulate_Latent_Space_Semantics_for_Facial_Attribute_CVPR_2021_paper.html)] [[Unofficial Pytorch](https://github.com/songquanpeng/L2M-GAN)]
 
 **MoCoGAN-HD: A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
 *Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
@@ -442,7 +446,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
 
 **Identity-Guided Face Generation with Multi-modal Contour Conditions.**<br>
 *Qingyan Bai, Weihao Xia, Fei Yin, Yujiu Yang.*<br>
-Submitted to ICASSP 2022. [[PDF]()]
+Submitted to ICASSP 2022. [[PDF](https://arxiv.org/abs/2110.04854)]
 
 **Constrained Graphic Layout Generation via Latent Optimization.**<br>
 *Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
