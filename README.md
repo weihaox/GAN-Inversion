@@ -47,6 +47,10 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
+**HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing.**<br>
+*Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.15666)] [[Project](http://yuval-alaluf.github.io/hyperstyle/)] [[Github](https://github.com/yuval-alaluf/hyperstyle)]
+
 **StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.**<br>
 *Min Jin Chong, Hsin-Ying Lee, David Forsyth.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.01619)] [[Github](https://github.com/mchong6/SOAT)]
@@ -54,7 +58,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2111.01619)] [[Github](https://github.c
 **StyleAlign: Analysis and Applications of Aligned StyleGAN Models.**<br>
 *Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2110.11323)]
-
 
 **Real Image Inversion via Segments.**<br>
 *David Futschik, Michal Lukáč, Eli Shechtman, Daniel Sýkora.*<br>
@@ -312,6 +315,11 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
 
+**Optimizing Latent Space Directions For GAN-based Local Image Editing.**<br>
+*Ehsan Pajouheshgar, Tong Zhang, Sabine Süsstrunk.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.12583)]
+
+
 **LARGE: Latent-Based Regression through GAN Semantics.**<br>
 *Yotam Nitzan, Rinon Gal, Ofir Brenner, Daniel Cohen-Or.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.11186)] [[Github](https://github.com/YotamNitzan/LARGE)] [[Project](https://yotamnitzan.github.io/LARGE)]
@@ -327,6 +335,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.06959)]
 **Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
 *Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10132)]
+
+**Exploratory Search of GANs with Contextual Bandits.**<br> 
+*Ivan Kropotov, Alan Medlar, Dorota Glowacka.*<br> 
+CIKM 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3482103)]
 
 **LowRankGAN: Low-Rank Subspaces in GANs.**<br> 
 *Jiapeng Zhu, Ruili Feng, Yujun Shen, Deli Zhao, Zhengjun Zha, Jingren Zhou, Qifeng Chen.*<br> 
@@ -555,6 +567,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06490)] [[Github](https://github.co
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://repurposegans.github.io/)] [[Github](https://github.com/bryandlee/repurpose-gan)]
 
 ### 3D
+
+**StylePart: Image-based Shape Part Manipulation.**<br>
+*I-Chao Shen, Li-Wen Su, Yu-Ting Wu, Bing-Yu Chen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.10520)]
 
 **GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
 *[Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
