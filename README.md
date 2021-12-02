@@ -47,6 +47,10 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
+**HyperInverter: Improving StyleGAN Inversion via Hypernetwork.**<br>
+*Tan M. Dinh, Anh Tuan Tran, Rang Nguyen, Binh-Son Hua.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.00719)] [[Project](https://di-mi-ta.github.io/HyperInverter/)]
+
 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing.**<br>
 *Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.15666)] [[Project](http://yuval-alaluf.github.io/hyperstyle/)] [[Github](https://github.com/yuval-alaluf/hyperstyle)]
