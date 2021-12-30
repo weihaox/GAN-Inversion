@@ -432,6 +432,14 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ### image generation and manipulation
 
+**Sound-Guided Semantic Image Manipulation.**<br>
+*Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.00007)]
+
+**SpaceEdit: Learning a Unified Editing Space for Open-Domain Image Editing.**<br>
+*Jing Shi, Ning Xu, Haitian Zheng, Alex Smith, Jiebo Luo, Chenliang Xu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.00180)]
+
 **DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing.**<br>
 *Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2109.10737)] [[Github](https://github.com/phycvgan/DyStyle)]
@@ -528,6 +536,10 @@ ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12368
 
 ### image restoration
 
+**LTT-GAN: Looking Through Turbulence by Inverting GANs.**<br> 
+*[Kangfu Mei](https://kfmei.page/), [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/).*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.02379)] [[Project](https://kfmei.page/LTT-GAN/)]
+
 **StyleGAN-induced Data-driven Regularization for Inverse Problems.**<br> 
 *Arthur Conmy, Subhadip Mukherjee, Carola-Bibiane Schönlieb.*<br> 
 Submitted to ICASSP 2022. [[PDF](https://arxiv.org/abs/2110.03814)]
@@ -585,7 +597,7 @@ ICLR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.00844)] [[Github](https://gi
 CVPR 2021. [[PDF](https://arxiv.org/abs/2106.11423)]
 
 **Unsupervised 3D Shape Completion through GAN-Inversion.**<br>
-*Junzhe Zhang, Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
+*[Junzhe Zhang](https://junzhezhang.github.io/), Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
 
 **OSTeC: One-Shot Texture Completion.**<br>
