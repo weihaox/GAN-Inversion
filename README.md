@@ -61,7 +61,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2111.01619)] [[Github](https://github.c
 
 **StyleAlign: Analysis and Applications of Aligned StyleGAN Models.**<br>
 *Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2110.11323)]
+ICLR 2022. [[PDF](https://arxiv.org/abs/2110.11323)]
 
 **Real Image Inversion via Segments.**<br>
 *David Futschik, Michal Lukáč, Eli Shechtman, Daniel Sýkora.*<br>
@@ -78,6 +78,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07224)]
 **Semantic and Geometric Unfolding of StyleGAN Latent Space.**<br>
 *Mustafa Shukor, Xu Yao, Bharath Bhushan Damodaran, Pierre Hellier.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.04481)]
+
+<!-- **Force-in-domain GAN inversion.**<br>
+*Guangjie Leng, Yekun Zhu, Zhi-Qin John Xu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.06050)] -->
 
 **Pivotal Tuning for Latent-based Editing of Real Images.**<br>
 *Daniel Roich, Ron Mokady, Amit H. Bermano, Daniel Cohen-Or.*<br>
@@ -150,6 +154,10 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)] [[Github](https://g
 **Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**<br>
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
+
+**High Fidelity GAN Inversion via Prior Multi-Subspace Feature Composition.**<br> 
+*Guanyue Li, Qianfen Jiao, Sheng Qian, Si Wu, au-San Wong.*<br> 
+AAAI 2021. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/17017)]
 
 **Ensembling with Deep Generative Views.**<br> 
 *Lucy Chai, Jun-Yan Zhu, Eli Shechtman, Phillip Isola, Richard Zhang.*<br> 
@@ -319,10 +327,17 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
 
+**Latent Image Animator: Learning to animate image via latent space navigation.**<br>
+*Yaohui Wang, Di Yang, Francois Bremond, Antitza Dantcheva.*<br>
+ICLR 2022. [[PDF](https://openreview.net/forum?id=7r6kDq0mK_)]
+
+**Rayleigh EigenDirections (REDs): GAN latent space traversals for multidimensional features.**<br>
+*Guha Balakrishnan, Raghudeep Gadde, Aleix Martinez, Pietro Perona.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2201.10423.pdf)]
+
 **Optimizing Latent Space Directions For GAN-based Local Image Editing.**<br>
 *Ehsan Pajouheshgar, Tong Zhang, Sabine Süsstrunk.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.12583)]
-
 
 **LARGE: Latent-Based Regression through GAN Semantics.**<br>
 *Yotam Nitzan, Rinon Gal, Ofir Brenner, Daniel Cohen-Or.*<br>
@@ -334,7 +349,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07437)] [[Github](https://github.c
 
 **Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs.**<br>
 *Jaewoong Choi, Changyeon Yoon, Junho Lee, Jung Ho Park, Geonho Hwang, Myungjoo Kang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.06959)]
+ICLR 2022. [[PDF](https://arxiv.org/abs/2106.06959)]
 
 **Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
 *Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
@@ -450,7 +465,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyench
 
 **InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
 *Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0527.github.io/infinityGAN/)]
+ICLR 2022. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0527.github.io/infinityGAN/)]
 
 **Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
 *Yuki Endo, Yoshihiro Kanamori.*<br>
@@ -565,6 +580,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.03808)] [[Github](https://github.co
 arxiv 2019. [[PDF](https://arxiv.org/abs/1906.11880)] [[Project](http://www.vision.huji.ac.il/style-image-prior/)] [[Github](https://github.com/avivga/style-image-prior)]
 
 ### image understanding
+
+**Finding an Unsupervised Image Segmenter in each of your Deep Generative Models.**<br> 
+*Luke Melas-Kyriazi, Christian Rupprecht, Iro Laina, Andrea Vedaldi.*<br>
+ICLR 2022. [[PDF](https://openreview.net/forum?id=Ug-bgjgSlKV)]
 
 **Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP.**<br>
 *Daniil Pakhomov, Sanchit Hira, Narayani Wagle, Kemar E. Green, Nassir Navab.*<br>
