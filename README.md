@@ -23,6 +23,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
 
 ## inverted pretrained model
 
+**StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets.**<br>
+*Axel Sauer, Katja Schwarz, Andreas Geiger.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.00273)] [[Project](https://sites.google.com/view/stylegan-xl/)]
+
 **StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.github.io/alias-free-gan)] [[Github](https://github.com/NVlabs/stylegan3)] [[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch)]
@@ -46,6 +50,10 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 ## inversion method
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
+
+**Feature-Style Encoder for Style-Based GAN Inversion.**<br>
+*Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.02183)]
 
 **HyperInverter: Improving StyleGAN Inversion via Hypernetwork.**<br>
 *Tan M. Dinh, Anh Tuan Tran, Rang Nguyen, Binh-Son Hua.*<br>
@@ -216,7 +224,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2005.07728)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.06529)]
 
 **PIE: Portrait Image Embedding for Semantic Control.**<br> 
-*[A. Tewari](http://people.mpi-inf.mpg.de/~atewari/), M. Elgharib, M. BR, F. Bernard, H-P. Seidel, P. P‌érez, M. Zollhöfer, C.Theobalt.*<br> 
+*[A. Tewari](http://people.mpi-inf.mpg.de/~atewari/), M. Elgharib, M. BR, F. Bernard, H-P. Seidel, P. P‌érez, M. Zollhöfer, C.Theobalt.*<br>
 TOG 2020. [[PDF](http://gvv.mpi-inf.mpg.de/projects/PIE/data/paper.pdf)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PIE/)]
 
 **Understanding the Role of Individual Units in a Deep Neural Network.**<br>
@@ -367,10 +375,6 @@ NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.04488)] [[Github](https://github
 *Weili Nie, Arash Vahdat, Anima Anandkumar.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2110.10873)]
 
-**A Latent Transformer for Disentangled and Identity-Preserving Face Editing.**<br>
-*Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
-ICCV 2021. [[PDF](https://arxiv.org/abs/2106.11895)] [[Github](https://github.com/InterDigitalInc/Latent-Transformer)]
-
 **A Latent Transformer for Disentangled Face Editing in Images and Videos.**<br>
 *Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
 ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Yao_A_Latent_Transformer_for_Disentangled_Face_Editing_in_Images_and_ICCV_2021_paper.html)] [[ArXiV](https://arxiv.org/abs/2106.11895)] [[Github](https://github.com/InterDigitalInc/latent-transformer)]
@@ -446,6 +450,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 ## application
 
 ### image generation and manipulation
+
+**FEAT: Face Editing with Attention.**<br>
+*Xianxu Hou, Linlin Shen, Or Patashnik, Daniel Cohen-Or, Hui Huang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2202.02713)]
 
 **Sound-Guided Semantic Image Manipulation.**<br>
 *Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim.*<br>
