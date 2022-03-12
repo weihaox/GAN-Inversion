@@ -51,6 +51,10 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
+**Third Time's the Charm? Image and Video Editing with StyleGAN3.**<br>
+*Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2201.13433)] [[Project](https://yuval-alaluf.github.io/stylegan3-editing/)] [[Github](https://github.com/yuval-alaluf/stylegan3-editing)]
+
 **Feature-Style Encoder for Style-Based GAN Inversion.**<br>
 *Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.02183)]
@@ -61,7 +65,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2112.00719)] [[Project](https://di-mi-t
 
 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing.**<br>
 *Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2111.15666)] [[Project](http://yuval-alaluf.github.io/hyperstyle/)] [[Github](https://github.com/yuval-alaluf/hyperstyle)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15666)] [[Project](http://yuval-alaluf.github.io/hyperstyle/)] [[Github](https://github.com/yuval-alaluf/hyperstyle)]
 
 **StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.**<br>
 *Min Jin Chong, Hsin-Ying Lee, David Forsyth.*<br>
@@ -331,9 +335,27 @@ NeurIPS 2016 Workshop. [[PDF](https://arxiv.org/abs/1611.05644)]
 *Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros.*<br>
 ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
+## 3D GANs inverson
+
+**Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation.**<br>
+*Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
+
+**Unsupervised 3D Shape Completion through GAN-Inversion.**<br>
+*[Junzhe Zhang](https://junzhezhang.github.io/), Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
+
 ## latent space navigation
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
+
+**Region-Based Semantic Factorization in GANs.**<br>
+*Jiapeng Zhu, Yujun Shen, Yinghao Xu, Deli Zhao, Qifeng Chen.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.09649)]
+
+**Multi-level Latent Space Structuring for Generative Control.**<br>
+*[Oren Katzir](https://orenkatzir.github.io/), Vicky Perepelook, Dani Lischinski, Daniel Cohen-Or.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.05910)]
 
 **Latent Image Animator: Learning to animate image via latent space navigation.**<br>
 *Yaohui Wang, Di Yang, Francois Bremond, Antitza Dantcheva.*<br>
@@ -451,6 +473,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ### image generation and manipulation
 
+**Latent to Latent: A Learned Mapper for Identity Preserving Editing of Multiple.**<br>
+*Siavash Khodadadeh, Shabnam Ghadar, Saeid Motiian, Wei-An Lin, Ladislau Bölöni, Ratheesh Kalarot.*<br>
+WACV 2022. [[PDF](https://openaccess.thecvf.com/content/WACV2022/html/Khodadadeh_Latent_to_Latent_A_Learned_Mapper_for_Identity_Preserving_Editing_WACV_2022_paper.html)]
+
 **FEAT: Face Editing with Attention.**<br>
 *Xianxu Hou, Linlin Shen, Or Patashnik, Daniel Cohen-Or, Hui Huang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2202.02713)]
@@ -469,7 +495,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2109.10737)] [[Github](https://github.c
 
 **In&Out: Diverse Image Outpainting via GAN Inversion.**<br>
 *Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
 
 **InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
 *Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
@@ -558,6 +584,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
 
 ### image restoration
+
+**Time-Travel Rephotography.**<br>
+*[Xuan Luo](https://time-travel-rephotography.github.io/), [Xuaner Zhang](https://people.eecs.berkeley.edu/~cecilia77/), [Paul Yoo](https://www.linkedin.com/in/paul-yoo-768a3715b), [Ricardo Martin-Brualla](http://www.ricardomartinbrualla.com/), [Jason Lawrence](http://jasonlawrence.info/), [Steven M. Seitz](https://homes.cs.washington.edu/~seitz/).*<br>
+SIGGRAPH Asia 2021 (TOG). [[PDF](https://arxiv.org/abs/2012.12261)] [[Project](https://time-travel-rephotography.github.io/)] [[Github](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io)]
 
 **LTT-GAN: Looking Through Turbulence by Inverting GANs.**<br> 
 *[Kangfu Mei](https://kfmei.page/), [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/).*<br> 
