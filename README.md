@@ -23,6 +23,8 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
 
 ## inverted pretrained model
 
+### 2D GANs
+
 **StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets.**<br>
 *Axel Sauer, Katja Schwarz, Andreas Geiger.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.00273)] [[Project](https://sites.google.com/view/stylegan-xl/)]
@@ -47,9 +49,31 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.04948)] [[Offical TF](https://githu
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
 ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://github.com/tkarras/progressive_growing_of_gans)]
 
+### 3D-aware GANs
+
+**EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks.**<br>
+*[Eric R. Chan](https://ericryanchan.github.io/), [Connor Z. Lin](https://connorzlin.com/), [Matthew A. Chan](https://matthew-a-chan.github.io/), [Koki Nagano](https://luminohope.org/), [Boxiao Pan](https://cs.stanford.edu/~bxpan/), [Shalini De Mello](https://research.nvidia.com/person/shalini-gupta), [Orazio Gallo](https://oraziogallo.github.io/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Jonathan Tremblay](https://research.nvidia.com/person/jonathan-tremblay), [Sameh Khamis](https://www.samehkhamis.com/), [Tero Karras](https://research.nvidia.com/person/tero-karras), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.07945)] [[Project](https://matthew-a-chan.github.io/EG3D)]
+
+**StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis.**<br>
+*[Jiatao Gu](http://jiataogu.me/), [Lingjie Liu](https://lingjie0206.github.io/), [Peng Wang](https://totoro97.github.io/about.html), [Christian Theobalt](http://people.mpi-inf.mpg.de/~theobalt/).*<br>
+ICLR 2022. [[PDF](https://arxiv.org/abs/2110.08985)] [[Project](http://jiataogu.me/style_nerf/)]
+
+**StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation.**<br>
+*[Roy Or-El](https://homes.cs.washington.edu/~royorel/), [Xuan Luo](https://roxanneluo.github.io/), Mengyi Shan, Eli Shechtman, Jeong Joon Park, Ira Kemelmacher-Shlizerman.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.11427)] [[Project](https://stylesdf.github.io/)] [[Github](https://github.com/royorel/StyleSDF)]
+
+**pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis.**<br>
+*[Eric R. Chan](https://ericryanchan.github.io/), [Marco Monteiro](https://marcoamonteiro.github.io/pi-GAN-website/), [Petr Kellnhofer](https://kellnhofer.xyz/), [Jiajun Wu](https://jiajunwu.com/), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoamonteiro.github.io/pi-GAN-website/)] [[Github](https://github.com/lucidrains/pi-GAN-pytorch)]
+
 ## inversion method
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
+
+**High-fidelity GAN Inversion with Padding Space.**<br>
+*[Qingyan Bai](https://ezioby.github.io/padinv/), Yinghao Xu, Jiapeng Zhu, Weihao Xia, Yujiu Yang, Yujun Shen.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.11105)] [[Project](https://github.com/EzioBy/padinv)] [[Github](https://github.com/EzioBy/padinv)]
 
 **Style Transformer for Image Inversion and Editing.**<br>
 *Xueqi Hu, Qiusheng Huang, Zhengyi Shi, Siyuan Li, Changxin Gao, Li Sun, Qingli Li.*<br>
@@ -70,6 +94,10 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15666)] [[Project](http://yuval-ala
 **StyleAlign: Analysis and Applications of Aligned StyleGAN Models.**<br>
 *Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski.*<br>
 ICLR 2022. [[PDF](https://arxiv.org/abs/2110.11323)]
+
+**Solving Inverse Problems with NerfGANs.**<br>
+*Giannis Daras, Wen-Sheng Chu, Abhishek Kumar, Dmitry Lagun, Alexandros G. Dimakis.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2112.09061)]
 
 **Third Time's the Charm? Image and Video Editing with StyleGAN3.**<br>
 *Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or.*<br>
@@ -104,8 +132,8 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14230)] [[Github](https://github.c
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.07661)] [[Github](https://github.com/wty-ustc/StyleGAN-Inversion-Baseline)] [[Project](https://wty-ustc.github.io/inversion/)]
 
 **LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions.**<br> 
-*Oğuz Kaan Yüksel, Enis Simsar, Ezgi Gülperi Er, Pinar Yanardag.*<br> 
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00820)] [[Github](https://github.com/catlab-team/latentclr)]
+*Oğuz Kaan Yüksel, [Enis Simsar](https://enis.dev), Ezgi Gülperi Er, Pinar Yanardag.*<br> 
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.00820)] [[Github](https://github.com/catlab-team/latentclr)]
 
 **GAN-Control: Explicitly Controllable GANs.**<br>
 *Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni.*<br>
@@ -138,7 +166,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01758)]
 **Improving Inversion and Generation Diversity in StyleGAN using a Gaussianized Latent Space.**<br>
 *[Jonas Wulff](http://people.csail.mit.edu/jwulff/), Antonio Torralba.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.06529)]
-
 
 **Explaining in Style: Training a GAN to explain a classifier in StyleSpace.**<br> 
 *Oran Lang, Yossi Gandelsman, Michal Yarom, Yoav Wald, Gal Elidan, Avinatan Hassidim, William T. Freeman, Phillip Isola, Amir Globerson, Michal Irani, Inbar Mosseri.*<br> 
@@ -343,8 +370,8 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezh
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
 
 **Fantastic Style Channels and Where to Find Them: A Submodular Framework for Discovering Diverse Directions in GANs.**<br>
-*Enis Simsar, Umut Kocasari, Ezgi Gülperi Er, Pinar Yanardag.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.08516)] [[Demo](https://catlab-team.github.io/styleatlas/classes/FFHQ/)]
+*[Enis Simsar](https://enis.dev/), [Umut Kocasari](https://catlab-team.github.io/), [Ezgi Gülperi Er](https://catlab-team.github.io/), [Pinar Yanardag](https://pinguar.org/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.08516)] [[Project](https://catlab-team.github.io/fantasticstyles/)] [[Demo](https://catlab-team.github.io/styleatlas/classes/FFHQ/)]
 
 **Region-Based Semantic Factorization in GANs.**<br>
 *Jiapeng Zhu, Yujun Shen, Yinghao Xu, Deli Zhao, Qifeng Chen.*<br>
@@ -469,6 +496,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 ## application
 
 ### image generation and manipulation
+
+**Attribute Group Editing for Reliable Few-shot Image Generation.**<br>
+*Guanqi Ding, Xinzhe Han, Shuhui Wang, Shuzhe Wu, Xin Jin, Dandan Tu, Qingming Huang.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.08422)] [[Github](https://github.com/UniBester/AGE)]
 
 **InsetGAN for Full-Body Image Generation.**<br>
 *[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
