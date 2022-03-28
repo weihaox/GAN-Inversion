@@ -357,6 +357,10 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ## 3D GANs inverson
 
+**3D GAN Inversion for Controllable Portrait Image Animation.**<br>
+*[Connor Z. Lin](https://connorzlin.com/), David B. Lindell, Eric R. Chan, [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.13441)] [[Project](https://www.computationalimaging.org/publications/3dganinversion/)]
+
 **Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation.**<br>
 *Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
