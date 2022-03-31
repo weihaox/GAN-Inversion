@@ -1,0 +1,785 @@
+% @STRING{CVPR = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}}
+% @STRING{ICCV = {IEEE International Conference on Computer Vision (ICCV)}}
+% @STRING{ECCV = {European Conference on Computer Vision (ECCV)}}
+% @STRING{ICCP = {IEEE International Conference on Computational Photography (ICCP)}}
+% @STRING{CVPRW = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshop}}
+% @STRING{ICCVW = {IEEE International Conference on Computer Vision (ICCV) Workshop}}
+% @STRING{ECCVW = {European Conference on Computer Vision (ECCV) Workshop}}
+% @STRING{ICLR = {International Conference on Learning Representations (ICLR)}}
+% @STRING{DV = {International Conference on 3D Vision (3DV)}}
+% @STRING{CORL = {Conference on Robot Learning (CoRL)}}
+% @STRING{MM = {ACM International Conference on Multimedia (MM)}}
+
+% @STRING{IJCV = {International Journal of Computer Vision (IJCV)}}
+% @STRING{TIP = {IEEE Transactions on Image Processing (TIP)}}
+% @STRING{TVCG = {IEEE Transactions on Visualization and Computer Graphics (TVCG)}}
+% @STRING{PAMI = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)}}
+% @STRING{NIPS = {Conference on Neural Information Processing Systems (NeurIPS)}}
+% @STRING{ICML = {International Conference on Machine Learning (ICML)}}
+% @STRING{SIG = {ACM SIGGRAPH}}
+% @STRING{SIGA = {ACM SIGGRAPH Asia}}
+% @STRING{TOG = {ACM Transactions on Graphics (TOG)}}
+% @STRING{EGSR = {Eurographics Symposium on Rendering (EGSR)}}
+% @STRING{ICM = {Proceedings of the International Congress of Mathematicians (ICM)}}
+% @STRING{AISTATS = {Artificial Intelligence and Statistics}}
+
+@STRING{CVPR = {CVPR}}
+@STRING{ICCV = {ICCV}}
+@STRING{ECCV = {ECCV}}
+@STRING{ICCP = {ICCP}}
+@STRING{CVPRW = {CVPR Workshop}}
+@STRING{ICCVW = {ICCV Workshop}}
+@STRING{ECCVW = {ECCV Workshop}}
+@STRING{ICLR = {ICLR}}
+@STRING{DV = {3DV}}
+@STRING{CORL = {CoRL}}
+@STRING{MM = {MM}}
+@STRING{NeurIPS = {NeurIPS}}
+@STRING{ICML = {ICML}}
+@STRING{BMVC = {BMVC}}
+@STRING{AAAI = {AAAI}}
+@STRING{IJCAI = {IJCAI}}
+
+@STRING{IJCV = {IJCV}}
+@STRING{TIP = {TIP}}
+@STRING{TVCG = {TVCG}}
+@STRING{PAMI = {TPAMI}}
+@STRING{SIG = {SIGGRAPH}}
+@STRING{SIGA = {SIGGRAPH Asia}}
+@STRING{TOG = {TOG}}
+@STRING{EGSR = {EGSR}}
+@STRING{CVIU = {CVIU}}
+
+% survey
+@article{xia2021survey,
+  author  = {Xia, Weihao and Zhang, Yulun and Yang, Yujiu and Xue, Jing-Hao and Zhou, Bolei and Yang, Ming-Hsuan},
+  title   = {GAN Inversion: A Survey},
+  journal = {arXiv preprint arXiv: 2101.05278},
+  year={2021}
+  }
+
+% gan models
+@InProceedings{karras2019style,
+  author    = {Karras, Tero and Laine, Samuli and Aila, Timo},
+  title     = {A style-based generator architecture for generative adversarial networks},
+  booktitle = {CVPR},
+  year      = {2019},
+  pages     = {4401--4410}
+}
+
+@inproceedings{karras2020analyzing,
+  title={Analyzing and improving the image quality of {StyleGAN}},
+  author={Karras, Tero and Laine, Samuli and Aittala, Miika and Hellsten, Janne and Lehtinen, Jaakko and Aila, Timo},
+  booktitle={CVPR},
+  year={2020}
+}
+
+@inproceedings{Karras2020ada,
+  title     = {Training Generative Adversarial Networks with Limited Data},
+  author    = {Tero Karras and Miika Aittala and Janne Hellsten and Samuli Laine and Jaakko Lehtinen and Timo Aila},
+  booktitle = {NeurIPS},
+  year      = {2020}
+}
+
+@inproceedings{gu2021stylenerf,
+    title={{StyleNeRF}: A Style-based {3D}-Aware Generator for High-resolution Image Synthesis}, 
+    author={Jiatao Gu and Lingjie Liu and Peng Wang and Christian Theobalt},
+    booktitle={ICLR},
+    year={2022},
+}
+
+@inproceedings{chan2021pi,
+  title={pi-{GAN}: Periodic implicit generative adversarial networks for 3d-aware image synthesis},
+  author={Chan, Eric R and Monteiro, Marco and Kellnhofer, Petr and Wu, Jiajun and Wetzstein, Gordon},
+  booktitle={CVPR},
+  year={2021}
+}
+
+
+@inproceedings{Karras2021free,
+  author = {Tero Karras and Miika Aittala and Samuli Laine and Erik H\"{a}rk\"{o}nen and Janne Hellsten and Jaakko Lehtinen and Timo Aila},
+  title = {Alias-Free Generative Adversarial Networks},
+  booktitle = {NeurIPS},
+  year = {2021}
+}
+
+% inversion methods and latent editing techniques     
+@inproceedings{wang2021high,
+  title={High-Fidelity GAN Inversion for Image Attribute Editing},
+  author={Wang, Tengfei and Zhang, Yong and Fan, Yanbo and Wang, Jue and Chen, Qifeng},
+  booktitle = {CVPR},
+  year={2022}
+}
+
+@article{bai2022high,
+  title   = {High-fidelity GAN Inversion with Padding Space},
+  author  = {Bai, Qingyan and Xu, Yinghao and Zhu, Jiapeng and Xia, Weihao and Yang, Yujiu and Shen, Yujun},
+  journal = {arXiv preprint arXiv:2203.11105},
+  year    = {2022}
+}
+
+@article{zhu2019disentangled,
+  title={Disentangled inference for {GAN}s with latently invertible autoencoder},
+  author={Zhu, Jiapeng and Zhao, Deli and Zhang, Bo and Zhou, Bolei},
+  journal={IJCV},
+  year={2022}
+}
+
+@article{roich2021pivotal,
+  title={Pivotal Tuning for Latent-based Editing of Real Images},
+  author={Roich, Daniel and Mokady, Ron and Bermano, Amit H and Cohen-Or, Daniel},
+  journal={arXiv preprint arXiv:2106.05744},
+  year={2021}
+}
+
+@inproceedings{hu2022style,
+  title={Style Transformer for Image Inversion and Editing},
+  author={Hu, Xueqi and Huang, Qiusheng and Shi, Zhengyi and Li, Siyuan and Gao, Changxin and Sun, Li and Li, Qingli},
+  booktitle={CVPR},
+  year={2022}
+}
+
+@inproceedings{dinh2021hyperinverter,
+  title={HyperInverter: Improving StyleGAN Inversion via Hypernetwork},
+  author={Dinh, Tan M and Tran, Anh Tuan and Nguyen, Rang and Hua, Binh-Son},
+  booktitle={CVPR},
+  year={2022}
+}
+
+@inproceedings{alaluf2021hyperstyle,
+    title={HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing},
+    author={Yuval Alaluf and Omer Tov and Ron Mokady and Rinon Gal and Amit H. Bermano},
+    booktitle={CVPR},
+    year={2022},
+}
+
+
+@inproceedings{xu2021continuity,
+  title={From Continuity to Editability: Inverting {GANs} with Consecutive Images},
+  author={Xu, Yangyang and Du, Yong and Xiao, Wenpeng and Xu, Xuemiao and He, Shengfeng},
+  booktitle={ICCV},
+  year={2021}
+}
+
+@inproceedings{abdal2019image2stylegan,
+  title={{Image2StyleGAN}: How to embed images into the {StyleGAN} latent space?},
+  author={Abdal, Rameen and Qin, Yipeng and Wonka, Peter},
+  booktitle={ICCV},
+  year={2019}
+}
+
+@inproceedings{abdal2020image2stylegan2,
+  title={{Image2StyleGAN++}: How to Edit the Embedded Images?},
+  author={Abdal, Rameen and Qin, Yipeng and Wonka, Peter},
+  booktitle={CVPR},
+  year={2020}
+}
+@inproceedings{huh2020transforming,
+  title={Transforming and Projecting Images into Class-conditional Generative Networks},
+  author={Huh, Minyoung and Zhang, Richard and Zhu, Jun-Yan and Paris, Sylvain and Hertzmann, Aaron},
+  booktitle={ECCV},
+  year={2020}
+}
+
+@inproceedings{han2021IALS,
+    title={Disentangled Face Attribute Editing via Instance-Aware Latent Space Search},
+    author={Han, Yuxuan and Yang, Jiaolong and Fu, Ying},
+    booktitle={IJCAI},
+    year={2021}
+}
+
+@inproceedings{chai2021ensembling,
+  title={Ensembling with Deep Generative Views.},
+  author={Chai, Lucy and Zhu, Jun-Yan and Shechtman, Eli and Isola, Phillip and Zhang, Richard},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@inproceedings{menon2020pulse,
+  author    = {Sachit Menon and
+               Alexandru Damian and
+               Shijia Hu and
+               Nikhil Ravi and
+               Cynthia Rudin},
+  title     = {{PULSE:} Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models},
+  booktitle = {CVPR},
+  pages     = {2434--2442},
+  year      = {2020}
+}
+
+@inproceedings{lang2021explaining,
+  title={Explaining in Style: Training a {GAN} to explain a classifier in StyleSpace},
+  author={Lang, Oran and Gandelsman, Yossi and Yarom, Michal and Wald, Yoav and Elidan, Gal and Hassidim, Avinatan and Freeman, William T and Isola, Phillip and Globerson, Amir and Irani, Michal and others},
+  booktitle={ICCV},
+  year={2021}
+}
+
+@inproceedings{alaluf2021restyle,
+    title={{ReStyle}: A Residual-Based {StyleGAN} Encoder via Iterative Refinement},
+    author={Yuval Alaluf and Or Patashnik and Daniel Cohen-Or},
+    year={2021},
+    booktitle={ICCV}
+}
+
+@inproceedings{creswell2016inverting,
+  title={Inverting the generator of a generative adversarial network},
+  author={Creswell, Antonia and Bharath, Anil Anthony},
+  booktitle={NeurIPS Workshop},
+  year={2016}
+}
+
+@article{creswell2018inverting,
+  author    = {Creswell, Antonia and Bharath, Anil Anthony},
+  title     = {Inverting the generator of a generative adversarial network},
+  journal = {TNNLS},
+  year      = {2018}
+}
+
+@article{zhu2020improved,
+  title={Improved {StyleGAN} Embedding: Where are the Good Latents?},
+  author={Zhu, Peihao and Abdal, Rameen and Qin, Yipeng and Femiani, John and Wonka, Peter},
+  journal={arXiv preprint arXiv:2012.09036},
+  year={2020}
+}
+
+@article{wei2021simpleinversion,
+  title={{E2Style}: Improve the Efficiency and Effectiveness of {StyleGAN} Inversion},
+  author={Wei, Tianyi and Chen, Dongdong and Zhou, Wenbo and Liao, Jing and Zhang, Weiming and Yuan, Lu and Hua, Gang and Yu, Nenghai},
+  journal={arXiv preprint arXiv:2104.07661},
+  year={2021}
+}
+
+@article{lu2020discovery,
+  title={Unsupervised Discovery of Disentangled Manifolds in {GANs}},
+  author={Yu-Ding Lu and Hsin-Ying Lee and Hung-Yu Tseng and Ming-Hsuan Yang},
+  journal={arXiv preprint arXiv:2011.11842},
+  year={2020}
+ }
+
+@article{bau2020role,
+  author = {Bau, David and Zhu, Jun-Yan and Strobelt, Hendrik and Lapedriza, Agata and Zhou, Bolei and Torralba, Antonio},
+  title = {Understanding the role of individual units in a deep neural network},
+  year = {2020},
+  journal = {National Academy of Sciences}
+}
+
+@inproceedings{Lin2020LaDDer,
+  title={{LaDDer}: Latent Data Distribution Modelling with a Generative Prior},
+  author={Shuyu Lin and Ronald Clark},
+  booktitle={BMVC},
+  year={2020}
+}
+
+@inproceedings{wu2020stylespace,
+  title={{StyleSpace} Analysis: Disentangled Controls for {StyleGAN} Image Generation},
+  author={Zongze Wu and Dani Lischinski and Eli Shechtman},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@article{guan2020faster,
+  title     = {Collaborative Learning for Faster {StyleGAN} Embedding},
+  author    = {Shanyan Guan and Ying Tai and Bingbing Ni and Feida  Zhu and Feiyue Huang and Xiaokang Yang},
+  journal    = {arXiv preprint arXiv:2007.01758},
+  year      = {2020}
+}
+
+@inproceedings{cherepkov2020navigating,
+  title     = {Navigating the {GAN} Parameter Space for Semantic Image Editing},
+  author    = {Anton Cherepkov and Andrey Voynov and Artem Babenko},
+  booktitle    = {CVPR},
+  year      = {2021}
+}
+
+@inproceedings{richardson2020encoding,
+  title={Encoding in Style: a {StyleGAN} Encoder for Image-to-Image Translation},
+  author={Richardson, Elad and Alaluf, Yuval and Patashnik, Or and Nitzan, Yotam and Azar, Yaniv and Shapiro, Stav and Cohen-Or, Daniel},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@article{li2020latent,
+  title     = {Interpreting the Latent Space of {GANs} via Correlation Analysis for Controllable Concept Manipulation},
+  author    = {Ziqiang Li and Rentuo Tao and Hongjing Niu and Bin  Li},
+  journal    = {arXiv preprint arXiv:2006.10132},
+  year      = {2020}
+}
+
+@article{voynov2020latent,
+  title     = {Unsupervised Discovery of Interpretable Directions in the {GAN} Latent Space},
+  author    = {Andrey Voynov and Artem Babenko},
+  journal    = {ICML},
+  year      = {2020},
+}
+
+@article{anirudh2020MimicGAN,
+author = {Rushil Anirudh and Jayaraman J. Thiagarajan and Bhavya Kailkhura and Peer{-}Timo Bremer},
+title = {{MimicGAN}: Robust Projection onto Image Manifolds with Corruption Mimicking},
+journal = {IJCV},
+volume = {128},
+number = {10},
+pages = {2459--2477},
+year  = {2020}
+}
+
+@inproceedings{shen2021closedform,
+  title   = {Closed-Form Factorization of Latent Semantics in {GANs}},
+  author  = {Shen, Yujun and Zhou, Bolei},
+  booktitle = {CVPR},
+  year    = {2021}
+}
+
+@inproceedings{wang2021hijack,
+  title={{Hijack-GAN}: Unintended-Use of Pretrained, Black-Box {GANs}},
+  author={Wang, Hui-Po and Yu, Ning and Fritz, Mario},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@inproceedings{esser2020invertible,
+  title={A Disentangling Invertible Interpretation Network for Explaining Latent Representations},
+  author={Esser, Patrick and Rombach, Robin and Ommer, Bj{\"o}rn},
+  booktitle={CVPR},
+  year={2020}
+}
+
+@inproceedings{kang2021gan,
+  title={{GAN} Inversion for Out-of-Range Images with Geometric Transformations},
+  author={Kang, Kyoungkook and Kim, Seongtae and Cho, Sunghyun},
+  booktitle={ICCV},
+  year={2021}
+}
+
+@inproceedings{tzelepis2021warpedganspace,
+  title={{WarpedGANSpace}: Finding non-linear {RBF} paths in {GAN} latent space},
+  author={Tzelepis, Christos and Tzimiropoulos, Georgios and Patras, Ioannis},
+  booktitle={ICCV},
+  pages={6393--6402},
+  year={2021}
+}
+
+@inproceedings{choi2021not,
+  title={Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of {GANs}},
+  author={Choi, Jaewoong and Yoon, Changyeon and Lee, Junho and Park, Jung Ho and Hwang, Geonho and Kang, Myungjoo},
+  booktitle={ICLR},
+  year={2022}
+}
+
+@inproceedings{zhu2021lowrankgan,
+  title     = {Low-Rank Subspaces in {GANs}},
+  author    = {Zhu, Jiapeng and Feng, Ruili and Shen, Yujun and Zhao, Deli and Zha, Zhengjun and Zhou, Jingren and Chen, Qifeng},
+  booktitle = {NeurIPS},
+  year      = {2021}
+}
+
+@inproceedings{wei2021orthogonal,
+  title={Orthogonal {Jacobian} Regularization for Unsupervised Disentanglement in Image Generation},
+  author={Wei, Yuxiang and Shi, Yupeng and Liu, Xiao and Ji, Zhilong and Gao, Yuan and Wu, Zhongqin and Zuo, Wangmeng},
+  booktitle={ICCV},
+  year={2021}
+}
+
+@article{alaluf2021only,
+  title={Only a Matter of Style: Age Transformation Using a Style-Based Regression Model},
+  author={Alaluf, Yuval and Patashnik, Or and Cohen-Or, Daniel},
+  journal={TOG},
+  year={2021}
+}
+
+@article{tov2021designing,
+  title={Designing an Encoder for {StyleGAN} Image Manipulation},
+  author={Tov, Omer and Alaluf, Yuval and Nitzan, Yotam and Patashnik, Or and Cohen-Or, Daniel},
+  journal={TOG},
+  year={2021}
+}
+
+@inproceedings{bau2019gandissect,
+ title={{GAN} Dissection: Visualizing and Understanding Generative Adversarial Networks},
+ author={Bau, David and Zhu, Jun-Yan and Strobelt, Hendrik and Zhou, Bolei and Tenenbaum, Joshua B. and Freeman, William T. and Torralba, Antonio},
+ booktitle={ICLR},
+ year={2019}
+}
+
+@inproceedings{xu2021ghfeat,
+  title   = {Generative Hierarchical Features from Synthesizing Images},
+  author  = {Xu, Yinghao and Shen, Yujun and Zhu, Jiapeng and Yang, Ceyuan and Zhou, Bolei},
+  booktitle = {CVPR},
+  year    = {2021}
+}
+
+@inproceedings{bau2019seeing,
+  title={Seeing what a {GAN} cannot generate},
+  author={Bau, David and Zhu, Jun-Yan and Wulff, Jonas and Peebles, William and Strobelt, Hendrik and Zhou, Bolei and Torralba, Antonio},
+  booktitle={ICCV},
+  pages={4502--4511},
+  year={2019}
+}
+@inproceedings{zhu2016generative,
+	title={Generative visual manipulation on the natural image manifold},
+	author={Zhu, Jun-Yan and Kr{\"a}henb{\"u}hl, Philipp and Shechtman, Eli and Efros, Alexei A},
+	booktitle={ECCV},
+	year={2016}
+}
+@inproceedings{bau2020rewriting,
+	title={Rewriting a Deep Generative Model},
+	author={David Bau and Steven Liu and Tongzhou Wang and Jun-Yan Zhu and Antonio Torralba},
+	booktitle={ECCV},
+	year={2020}
+}
+
+@inproceedings{zhu2020indomain,
+  title={In-domain {GAN} inversion for real image editing},
+  author={Zhu, Jiapeng and Shen, Yujun and Zhao, Deli and Zhou, Bolei},
+  booktitle={ECCV},
+  year={2020}
+}
+
+@inproceedings{tewari2020stylerig,
+  title = {{StyleRig}: Rigging {StyleGAN} for {3D} Control over Portrait Images},
+  author={Tewari, Ayush and Elgharib, Mohamed and Bharaj, Gaurav and Bernard, Florian  and Seidel, Hans-Peter and P{\'e}rez, Patrick and Z{\"o}llhofer, Michael and Theobalt, Christian},   
+  booktitle = {CVPR},
+  year = {2020},
+}
+
+@inproceedings{daras2020your,
+  title={Your local {GAN}: Designing two dimensional local attention mechanisms for generative models},
+  author={Daras, Giannis and Odena, Augustus and Zhang, Han and Dimakis, Alexandros G},
+  booktitle={CVPR},
+  pages={14531--14539},
+  year={2020}
+}
+
+@inproceedings{lei2019inverting,
+  title={Inverting Deep Generative models, One layer at a time},
+  author={Lei, Qi and Jalal, Ajil and Dhillon, Inderjit S and Dimakis, Alexandros G},
+  booktitle={NeurIPS},
+  year={2019}
+}
+
+@article{fetty2020latent,
+  title={Latent space manipulation for high-resolution medical image synthesis via the {StyleGAN}},
+  author={Fetty, Lukas and Bylund, Mikael and Kuess, Peter and Heilemann, Gerd and Nyholm, Tufve and Georg, Dietmar and L{\"o}fstedt, Tommy},
+  journal={Zeitschrift f{\"u}r Medizinische Physik},
+  volume={30},
+  number={4},
+  pages={305--314},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@inproceedings{nurit2021steerability,
+  title={{GAN} Steerability without optimization},
+  author={Nurit, Spingarn and Ron, Banner and Tomer, Michaeli},
+  booktitle={ICLR},
+  year={2021}
+}
+
+@inproceedings{chai2021using,
+  title={Using Latent Space Regression to Analyze and Leverage Compositionality in {GANs}},
+  author={Lucy Chai and Jonas Wulff and Phillip Isola},
+  booktitle={ICLR},
+  year={2021}
+}
+
+@inproceedings{zhuang2021enjoy,
+  title={Enjoy Your Editing: Controllable {GANs} for Image Editing via Latent Space Navigation},
+  author={Zhuang, Peiye and Koyejo, Oluwasanmi and Schwing, Alexander G},
+  booktitle={ICLR},
+  year={2021}
+}
+
+@inproceedings{bau2019inverting,
+  title={Inverting layers of a large generator},
+  author={Bau, David and Zhu, Jun-Yan and Wulff, Jonas and Peebles, William and Strobelt, Hendrik and Zhou, Bolei and Torralba, Antonio},
+  booktitle={ICLR Workshop},
+  volume={2},
+  number={3},
+  pages={4},
+  year={2019}
+}
+
+@inproceedings{perarnau2016invertible,
+  title={Invertible conditional {GANs} for image editing},
+  author={Perarnau, Guim and Van De Weijer, Joost and Raducanu, Bogdan and {\'A}lvarez, Jose M},
+  booktitle={NeurIPS Workshop},
+  year={2016}
+}
+
+@inproceedings{gu2020image,
+	title={Image Processing Using Multi-Code {GAN} Prior},
+	author={Gu, Jinjin and Shen, Yujun and Zhou, Bolei},
+	booktitle={CVPR},
+	year={2020}
+}
+
+@inproceedings{collins2020uncovering,
+	title={Editing in Style: Uncovering the Local Semantics of {GANs}},
+	author={Edo, Collins and Raja, Bala and Bob, Price and Sabine, Süsstrunk},
+	booktitle={CVPR},
+	year={2020}
+}
+
+@inproceedings{eric2020GANSpace,
+	title={{GANSpace}: Discovering Interpretable {GAN} Controls},
+	author={Erik, Härkönen and Aaron, Hertzmann and Jaakko, Lehtinen and Sylvain, Paris},
+	booktitle={NeurIPS},
+	year={2020}
+}
+
+@article{nitzan2020harness,
+	title={Face Identity Disentanglement via Latent Space Mapping},
+	author={Yotam Nitzan and Amit Bermano and Yangyan Li and Daniel Cohen-Or},
+	journal={TOG},
+	year={2020}
+}
+
+@inproceedings{viazovetskyi2020distillation,
+	title={{StyleGAN2} Distillation for Feed-forward Image Manipulation},
+	author={Yuri, Viazovetskyi and Vladimir, Ivashkin ang Evgeny, Kashin},
+	booktitle={ECCV},
+	year={2020}
+}
+
+@article{yang2019semantic,
+	title={Semantic hierarchy emerges in deep generative representations for scene synthesis},
+	author={Yang, Ceyuan and Shen, Yujun and Zhou, Bolei},
+	journal={arXiv preprint arXiv:1911.09267},
+	year={2019}
+}
+
+@inproceedings{zhu2021mind,
+  title={Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks},
+  author={Zhu, Peihao and Abdal, Rameen and Femiani, John and Wonka, Peter},
+  booktitle={ICLR},
+  year={2022}
+}
+
+@article{yang2021genda,
+  title   = {One-Shot Generative Domain Adaptation},
+  author  = {Yang, Ceyuan and Shen, Yujun and Zhang, Zhiyi and Xu, Yinghao and Zhu, Jiapeng and Wu, Zhirong and Zhou, Bolei},
+  journal = {arXiv preprint arXiv:2111.09876},
+  year    = {2021}
+}
+
+@article{gal2021clip,
+  title={{StyleGAN-NADA}: {CLIP}-Guided Domain Adaptation of Image Generators},
+  author={Gal, Rinon and Patashnik, Or and Maron, Haggai and Chechik, Gal and Cohen-Or, Daniel},
+  journal={arXiv preprint arXiv:2108.00946},
+  year={2021}
+}
+
+@article{abdal2020styleflow,
+	title={{StyleFlow}: Attribute-conditioned Exploration of {StyleGAN}-Generated Images using Conditional Continuous Normalizing Flows},
+	author={Abdal, Rameen and Zhu, Peihao and Mitra, Niloy and Wonka, Peter},
+	journal={TOG},
+	year={2021}
+}
+
+@inproceedings{jahanian2020steerability,
+	title={On the ''steerability" of generative adversarial networks},
+	author={Jahanian, Ali and Chai, Lucy and Isola, Phillip},
+	booktitle={ICLR},
+	year={2020}
+}
+
+@inproceedings{goetschalckx2019ganalyze,
+	title={Ganalyze: Toward visual definitions of cognitive image properties},
+	author={Goetschalckx, Lore and Andonian, Alex and Oliva, Aude and Isola, Phillip},
+	booktitle={ICCV},
+	year={2019}
+}
+
+
+@inproceedings{shen2020interpreting,
+  title={Interpreting the latent space of {GANs} for semantic face editing},
+  author={Shen, Yujun and Gu, Jinjin and Tang, Xiaoou and Zhou, Bolei},
+  booktitle={CVPR},
+  year={2020}
+}
+
+% applications
+@article{bai2021identity,
+  title={Identity-Guided Face Generation with Multi-modal Contour Conditions},
+  author={Bai, Qingyan and Xia, Weihao and Yin, Fei and Yang, Yujiu},
+  journal={arXiv preprint arXiv:2110.04854},
+  year={2021}
+}
+
+@inproceedings{xia2021tedigan,
+  author    = {Xia, Weihao and Yang, Yujiu and Xue, Jing-Hao and Wu, Baoyuan},
+  title     = {{TediGAN}: Text-Guided Diverse Image Generation and Manipulation},
+  booktitle={CVPR},
+  pages={2256--2265},
+  year={2021}
+}
+
+
+@article{xia2021open,
+  title={Towards Open-World Text-Guided Face Image Generation and Manipulation},
+  author={Xia, Weihao and Yang, Yujiu and Xue, Jing-Hao and Wu, Baoyuan},
+  journal={arxiv preprint arxiv: 2104.08910},
+  year={2021}
+}
+
+
+@inproceedings{patashnik2021styleclip,
+  title={{StyleCLIP}: Text-Driven Manipulation of {StyleGAN} Imagery}, 
+  author={Or Patashnik and Zongze Wu and Eli Shechtman and Daniel Cohen-Or and Dani Lischinski},
+  booktitle={ICCV},
+  year={2021}
+}
+
+@inproceedings{lee2021sound,
+  title={Sound-Guided Semantic Image Manipulation},
+  author={Lee, Seung Hyun and Roh, Wonseok and Byeon, Wonmin and Yoon, Sang Ho and Kim, Chan Young and Kim, Jinkyu and Kim, Sangpil},
+  booktitle = {CVPR},
+  year={2022}
+}
+
+
+@article{tewari2020pie,
+  title = {PIE: Portrait Image Embedding for Semantic Control},
+  author={Tewari, Ayush and Elgharib, Mohamed and BR, Mallikarjun and Bernard, Florian  and Seidel, Hans-Peter and P{\'e}rez, Patrick and Z{\"o}llhofer, Michael and Theobalt, Christian},    
+  journal = {TOG},
+  volume = {39},
+  number = {6},
+  month = {December},
+  year = {2020}
+}
+
+@inproceedings{pan2020exploiting,
+	title={Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation},
+	author={Pan, Xingang and Zhan, Xiaohang and Dai, Bo and Lin, Dahua and Loy, Chen Change and Luo, Ping},
+	booktitle={ECCV},
+	year={2020}
+}
+
+@inproceedings{pan2020gan2shape,
+  title   = {Do {2D} {GANs} Know {3D} Shape? Unsupervised {3D} Shape Reconstruction from {2D} Image {GANs}},
+  author  = {Pan, Xingang and Dai, Bo and Liu, Ziwei and Loy, Chen Change and Luo, Ping},
+  booktitle = {ICLR},
+  year    = {2021}
+}
+
+@inproceedings{zhang2021unsupervised,
+  title = {Unsupervised {3D} Shape Completion through {GAN} Inversion},
+  author = {Zhang, Junzhe and Chen, Xinyi and Cai, Zhongang and Pan, Liang and Zhao, Haiyu 
+  and Yi, Shuai and Yeo, Chai Kiat and Dai, Bo and Loy, Chen Change},
+  booktitle = {CVPR},
+  year = {2021}
+}
+
+@inproceedings{abdal2021labels4free,
+  title={{Labels4Free}: Unsupervised Segmentation using {StyleGAN}}, 
+  author={Rameen Abdal and Peihao Zhu and Niloy Mitra and Peter Wonka},
+  booktitle={ICCV},
+  year={2021}
+}
+
+@inproceedings{cheng2021InOut,
+  author    = {Cheng, Yen-Chi and Lin, Chieh Hubert and Lee, Hsin-Ying and Ren, Jian and Tulyakov, Sergey and Yang, Ming-Hsuan}, 
+  title     = {In\&Out: Diverse Image Outpainting via {GAN} Inversion},
+  booktitle    = {CVPR},
+  year      = {2022}
+}
+
+@inproceedings{lin2021infinity,
+   title={{InfinityGAN}: Towards Infinite-Resolution Image Synthesis},
+   author={Lin, Chieh Hubert and Cheng, Yen-Chi and Lee, Hsin-Ying and Tulyakov, Sergey and Yang, Ming-Hsuan},
+   booktitle={ICLR},
+   year={2022}
+}
+
+@inproceedings{saha2021LOHO,
+  title={{LOHO}: Latent Optimization of Hairstyles via Orthogonalization},
+  author={Saha, Rohit and Duke, Brendan and Shkurti, Florian and Taylor, Graham and Aarabi, Parham},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@inproceedings{zhu2021megafs,
+  title={One Shot Face Swapping on Megapixels},
+  author={Zhu, Yuhao and Li, Qi and Wang, Jian and Xu, Chengzhong and Sun, Zhenan},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@inproceedings{Tritrong2021RepurposeGAN,
+  author = {Tritrong, Nontawat and Rewatbowornwong, Pitchaporn and Suwajanakorn, Supasorn},
+  title = {Repurposing {GANs} for One-shot Semantic Part Segmentation},
+  booktitle = {CVPR}, 
+  year = {2021},
+}
+
+@inproceedings{logacheva2020video,
+  author = {Logacheva, Elizaveta and
+            Suvorov, Roman and
+            Khomenko, Oleg and
+            Mashikhin, Anton and
+            Lempitsky, Victor
+  },
+  title = {DeepLandscape: Adversarial Modeling of Landscape Videos},
+  booktitle = {ECCV},
+  pages={256--272},
+  year = {2020},
+}
+
+% datasets
+@inproceedings{liu2015faceattributes,
+ title = {Deep Learning Face Attributes in the Wild},
+ author = {Liu, Ziwei and Luo, Ping and Wang, Xiaogang and Tang, Xiaoou},
+ booktitle = {ICCV},
+ year = {2015} 
+}
+
+@article{russakovsky2015imagenet,
+  author = {Olga Russakovsky and Jia Deng and Hao Su and Jonathan Krause and Sanjeev Satheesh and Sean Ma and Zhiheng Huang and Andrej Karpathy and Aditya Khosla and Michael Bernstein and Alexander C. Berg and Li Fei-Fei},
+  title = {{ImageNet Large Scale Visual Recognition Challenge}},
+  year = {2015},
+  journal = {IJCV}
+}
+
+@article{yu2015lsun,
+  Author = {Yu, Fisher and Zhang, Yinda and Song, Shuran and Seff, Ari and Xiao, Jianxiong},
+  Title = {LSUN: Construction of a Large-scale Image Dataset using Deep Learning with Humans in the Loop},
+  Journal = {arXiv preprint arXiv:1506.03365},
+  Year = {2015}
+}
+
+@InProceedings{deng2009imagenet,
+  author       = {Deng, Jia and Dong, Wei and Socher, Richard and Li, Li-Jia and Li, Kai and Fei-Fei, Li},
+  title        = {Imagenet: A large-scale hierarchical image database},
+  booktitle    = {CVPR},
+  year         = {2009},
+  pages        = {248--255},
+}
+
+@article{xiao2017fashion,
+  title={Fashion-mnist: a novel image dataset for benchmarking machine learning algorithms},
+  author={Xiao, Han and Rasul, Kashif and Vollgraf, Roland},
+  journal={arXiv preprint arXiv:1708.07747},
+  year={2017}
+}
+
+@inproceedings{liu2016deepfashion,
+  title={Deepfashion: Powering robust clothes recognition and retrieval with rich annotations},
+  author={Liu, Ziwei and Luo, Ping and Qiu, Shi and Wang, Xiaogang and Tang, Xiaoou},
+  booktitle={CVPR},
+  pages={1096--1104},
+  year={2016}
+}
+@inproceedings{Ge2019DeepFashion2,
+  author = {Yuying Ge and Ruimao Zhang and Lingyun Wu and Xiaogang Wang and Xiaoou Tang and Ping Luo},
+  title={A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images},
+  booktitle={CVPR},
+  year={2019}
+}
+
+% metrics
+@inproceedings{zhang2018unreasonable,
+  title={The unreasonable effectiveness of deep features as a perceptual metric},
+  author={Zhang, Richard and Isola, Phillip and Efros, Alexei A and Shechtman, Eli and Wang, Oliver},
+  booktitle={CVPR},
+  pages={586--595},
+  year={2018}
+}
