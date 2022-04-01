@@ -26,8 +26,8 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
 ### 2D GANs
 
 **StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets.**<br>
-*Axel Sauer, Katja Schwarz, Andreas Geiger.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.00273)] [[Project](https://sites.google.com/view/stylegan-xl/)]
+*[Axel Sauer](https://axelsauer.com/), [Katja Schwarz](https://katjaschwarz.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.00273)] [[Project](https://sites.google.com/view/stylegan-xl/)] [[Github](https://github.com/autonomousvision/stylegan_xl)]
 
 **Self-Distilled StyleGAN: Towards Generation from Internet Photos.**<br>
 *[Ron Mokady](https://rmokady.github.io/), Michal Yarom, Omer Tov, Oran Lang, Daniel Cohen-Or, Tali Dekel, Michal Irani, Inbar Mosseri.*<br>
