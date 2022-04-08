@@ -409,9 +409,9 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2111.12583)]
 *Yotam Nitzan, Rinon Gal, Ofir Brenner, Daniel Cohen-Or.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.11186)] [[Github](https://github.com/YotamNitzan/LARGE)] [[Project](https://yotamnitzan.github.io/LARGE)]
 
-**StyleFusion: A Generative Model for Disentangling Spatial Segments.**<br>
+**StyleFusion: Disentangling Spatial Segments in StyleGAN-Generated Images.**<br>
 *Omer Kafri, Or Patashnik, Yuval Alaluf, Daniel Cohen-Or.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07437)] [[Github](https://github.com/OmerKafri/StyleFusion)]
+TOG 2022. [[PDF](https://arxiv.org/abs/2107.07437)] [[Github](https://github.com/OmerKafri/StyleFusion)]
 
 **Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs.**<br>
 *Jaewoong Choi, Changyeon Yoon, Junho Lee, Jung Ho Park, Geonho Hwang, Myungjoo Kang.*<br>
@@ -633,6 +633,14 @@ ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12368
 
 ### image restoration
 
+**Escaping Data Scarcity for High-Resolution Heterogeneous Face Hallucination.**<br>
+*Yiqun Mei, Pengfei Guo, Vishal M. Patel.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/pdf/2203.16669)]
+
+**Towards High-Fidelity Face Self-Occlusion Recovery via Multi-View Residual-Based GAN Inversion.**<br>
+*Jinsong Chen, Hu Han, Shiguang Shan.*<br>
+AAAI 2022. [[PDF](https://www.aaai.org/AAAI22Papers/AAAI-2208.ChenJ.pdf)]
+
 **Time-Travel Rephotography.**<br>
 *[Xuan Luo](https://time-travel-rephotography.github.io/), [Xuaner Zhang](https://people.eecs.berkeley.edu/~cecilia77/), [Paul Yoo](https://www.linkedin.com/in/paul-yoo-768a3715b), [Ricardo Martin-Brualla](http://www.ricardomartinbrualla.com/), [Jason Lawrence](http://jasonlawrence.info/), [Steven M. Seitz](https://homes.cs.washington.edu/~seitz/).*<br>
 SIGGRAPH Asia 2021 (TOG). [[PDF](https://arxiv.org/abs/2012.12261)] [[Project](https://time-travel-rephotography.github.io/)] [[Github](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io)]
@@ -640,10 +648,6 @@ SIGGRAPH Asia 2021 (TOG). [[PDF](https://arxiv.org/abs/2012.12261)] [[Project](h
 **LTT-GAN: Looking Through Turbulence by Inverting GANs.**<br> 
 *[Kangfu Mei](https://kfmei.page/), [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/).*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.02379)] [[Project](https://kfmei.page/LTT-GAN/)]
-
-**StyleGAN-induced Data-driven Regularization for Inverse Problems.**<br> 
-*Arthur Conmy, Subhadip Mukherjee, Carola-Bibiane Schönlieb.*<br> 
-Submitted to ICASSP 2022. [[PDF](https://arxiv.org/abs/2110.03814)]
 
 **GPEN: GAN Prior Embedded Network for Blind Face Restoration in the Wild.**<br>
 *Tao Yang, Peiran Ren, Xuansong Xie, Lei Zhang.*<br>
