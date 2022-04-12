@@ -509,6 +509,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ### image generation and manipulation
 
+**HairMapper: Removing Hair from Portraits Using GANs.**<br>
+*[Yiqian Wu](https://onethousandwu.com/), [Yong-Liang Yang](http://www.yongliangyang.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin).*<br>
+CVPR 2022. [[PDF](http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf)] [[Project](http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm)] [[Github](https://github.com/oneThousand1000/non-hair-FFHQ/blob/main)] [[Non-hair-FFHQ Data](https://github.com/oneThousand1000/non-hair-FFHQ)]
+
 **Attribute Group Editing for Reliable Few-shot Image Generation.**<br>
 *Guanqi Ding, Xinzhe Han, Shuhui Wang, Shuzhe Wu, Xin Jin, Dandan Tu, Qingming Huang.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.08422)] [[Github](https://github.com/UniBester/AGE)]
