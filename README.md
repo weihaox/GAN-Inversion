@@ -395,7 +395,7 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.05910)]
 
 **Latent Image Animator: Learning to animate image via latent space navigation.**<br>
 *Yaohui Wang, Di Yang, Francois Bremond, Antitza Dantcheva.*<br>
-ICLR 2022. [[PDF](https://openreview.net/forum?id=7r6kDq0mK_)] [[Project](https://wyhsirius.github.io/LIA-project)]
+ICLR 2022. [[PDF](https://openreview.net/forum?id=7r6kDq0mK_)] [[Project](https://wyhsirius.github.io/LIA-project)] [[Github](https://github.com/wyhsirius/LIA)]
 
 **Rayleigh EigenDirections (REDs): GAN latent space traversals for multidimensional features.**<br>
 *Guha Balakrishnan, Raghudeep Gadde, Aleix Martinez, Pietro Perona.*<br>
@@ -507,7 +507,15 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ## application
 
-### image generation and manipulation
+### image and video generation and manipulation
+
+**Sound-Guided Semantic Video Generation.**<br>
+*Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Jihyun Bae, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.09273)] 
+
+**Sound-Guided Semantic Image Manipulation.**<br>
+*Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.00007)]
 
 **HairMapper: Removing Hair from Portraits Using GANs.**<br>
 *[Yiqian Wu](https://onethousandwu.com/), [Yong-Liang Yang](http://www.yongliangyang.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin).*<br>
@@ -519,11 +527,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.08422)] [[Github](https://github.co
 
 **InsetGAN for Full-Body Image Generation.**<br>
 *[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07200)] [[Project](http://afruehstueck.github.io/insetgan)]
-
-**Sound-Guided Semantic Image Manipulation.**<br>
-*Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2112.00007)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07200)] [[Project](http://afruehstueck.github.io/insetgan)] [[Unofficial](https://github.com/stylegan-human/StyleGAN-Human/blob/main/insetgan.py)]
 
 **SpaceEdit: Learning a Unified Editing Space for Open-Domain Image Editing.**<br>
 *[Jing Shi](https://www.cs.rochester.edu/u/jshi31/), [Ning Xu](https://sites.google.com/view/ningxu/), [Haitian Zheng](https://www.cs.rochester.edu/u/hzheng15/haitian_homepage/index.html), Alex Smith, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/), [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).*<br>
