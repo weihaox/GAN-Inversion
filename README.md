@@ -135,9 +135,9 @@ arxiv 2021. [[PDF](https://arxiv.org/pdf/2106.05744.pdf)] [[Github](https://gith
 *Heyi Li, Jinlong Liu, Yunzhi Bai, Huayan Wang, Klaus Mueller.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14230)] [[Github](https://github.com/AnonSubm2021/TransStyleGAN)]
 
-**A Simple Baseline for StyleGAN Inversion.**<br> 
+**E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion.**<br> 
 *Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Weiming Zhang, Lu Yuan, Gang Hua, Nenghai Yu.*<br> 
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.07661)] [[Github](https://github.com/wty-ustc/StyleGAN-Inversion-Baseline)] [[Project](https://wty-ustc.github.io/inversion/)]
+TIP 2022. [[PDF](https://arxiv.org/abs/2104.07661)] [[Project](https://wty-ustc.github.io/inversion/)] [[Github](https://github.com/wty-ustc/StyleGAN-Inversion-Baseline)] 
 
 **LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions.**<br> 
 *Oğuz Kaan Yüksel, [Enis Simsar](https://enis.dev), Ezgi Gülperi Er, Pinar Yanardag.*<br> 
@@ -148,8 +148,12 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2104.00820)] [[Github](https://github.co
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02477)]
 
 **Improved StyleGAN Embedding: Where are the Good Latents?**<br>
-*Peihao Zhu, Rameen Abdal, [Yipeng Qin](http://yipengqin.github.io/), [Peter Wonka](http://peterwonka.net/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09036)]
+*[Peihao Zhu](https://github.com/ZPdesu),
+[Rameen Abdal](https://github.com/RameenAbdal),
+[Yipeng Qin](https://scholar.google.com/citations?user=ojgWPpgAAAAJ&hl=en),
+[John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ&hl=en),
+[Peter Wonka](http://peterwonka.net/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09036)] [[Github](https://github.com/ZPdesu/II2S)]
 
 **Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
 *Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
@@ -212,7 +216,7 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)] [[Github](https://g
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
 
 **High Fidelity GAN Inversion via Prior Multi-Subspace Feature Composition.**<br> 
-*Guanyue Li, Qianfen Jiao, Sheng Qian, Si Wu, au-San Wong.*<br> 
+*Guanyue Li, Qianfen Jiao, Sheng Qian, Si Wu, Hau-San Wong.*<br> 
 AAAI 2021. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/17017)]
 
 **Ensembling with Deep Generative Views.**<br> 
@@ -393,11 +397,7 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.09649)]
 *[Oren Katzir](https://orenkatzir.github.io/), Vicky Perepelook, Dani Lischinski, Daniel Cohen-Or.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.05910)]
 
-**Latent Image Animator: Learning to animate image via latent space navigation.**<br>
-*Yaohui Wang, Di Yang, Francois Bremond, Antitza Dantcheva.*<br>
-ICLR 2022. [[PDF](https://openreview.net/forum?id=7r6kDq0mK_)] [[Project](https://wyhsirius.github.io/LIA-project)] [[Github](https://github.com/wyhsirius/LIA)]
-
-**Rayleigh EigenDirections (REDs): GAN latent space traversals for multidimensional features.**<br>
+**Rayleigh EigenDirections (REDs): GAN Latent Space Traversals for Multidimensional Features.**<br>
 *Guha Balakrishnan, Raghudeep Gadde, Aleix Martinez, Pietro Perona.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2201.10423.pdf)]
 
@@ -406,8 +406,16 @@ arxiv 2021. [[PDF](https://arxiv.org/pdf/2201.10423.pdf)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.12583)]
 
 **LARGE: Latent-Based Regression through GAN Semantics.**<br>
-*Yotam Nitzan, Rinon Gal, Ofir Brenner, Daniel Cohen-Or.*<br>
+*[Yotam Nitzan](https://yotamnitzan.github.io), [Rinon Gal](https://rinongal.github.io/), [Ofir Brenner](https://scholar.google.com/citations?user=iLLlWr8AAAAJ), [Daniel Cohen-Or](https://danielcohenor.com/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.11186)] [[Github](https://github.com/YotamNitzan/LARGE)] [[Project](https://yotamnitzan.github.io/LARGE)]
+
+**Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
+*Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10132)]
+
+**Latent Image Animator: Learning to Animate Image via Latent Space Navigation.**<br>
+*Yaohui Wang, Di Yang, Francois Bremond, Antitza Dantcheva.*<br>
+ICLR 2022. [[PDF](https://openreview.net/forum?id=7r6kDq0mK_)] [[Project](https://wyhsirius.github.io/LIA-project)] [[Github](https://github.com/wyhsirius/LIA)]
 
 **StyleFusion: Disentangling Spatial Segments in StyleGAN-Generated Images.**<br>
 *Omer Kafri, Or Patashnik, Yuval Alaluf, Daniel Cohen-Or.*<br>
@@ -416,10 +424,6 @@ TOG 2022. [[PDF](https://arxiv.org/abs/2107.07437)] [[Github](https://github.com
 **Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs.**<br>
 *Jaewoong Choi, Changyeon Yoon, Junho Lee, Jung Ho Park, Geonho Hwang, Myungjoo Kang.*<br>
 ICLR 2022. [[PDF](https://arxiv.org/abs/2106.06959)]
-
-**Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
-*Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10132)]
 
 **Exploratory Search of GANs with Contextual Bandits.**<br> 
 *Ivan Kropotov, Alan Medlar, Dorota Glowacka.*<br> 
@@ -444,6 +448,10 @@ ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Schwettman
 **WarpedGANSpace: Finding Non-linear RBF Paths in GAN Latent Space.**<br>
 *Christos Tzelepis, Georgios Tzimiropoulos, Ioannis Patras.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2109.13357)] [[Github](https://github.com/chi0tzp/WarpedGANSpace)]
+
+**Latent Transformations via NeuralODEs for GAN-based Image Editing.**<br>
+*Valentin Khrulkov, Leyla Mirvakhabova, Ivan Oseledets, Artem Babenko.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Khrulkov_Latent_Transformations_via_NeuralODEs_for_GAN-Based_Image_Editing_ICCV_2021_paper.pdf)] [[Github](https://github.com/KhrulkovV/nonlinear-image-editing)]
 
 **OroJaR: Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation.**<br>
 *Yuxiang Wei, Yupeng Shi, Xiao Liu, Zhilong Ji, Yuan Gao, Zhongqin Wu, Wangmeng Zuo.*<br>
@@ -485,13 +493,13 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)] [[Github](https://
 *Nurit Spingarn-Eliezer, Ron Banner, Tomer Michaeli.*<br>
 ICLR 2021. [[OpenReview](https://openreview.net/forum?id=zDy_nQCXiIj)] [[PDF](https://arxiv.org/abs/2012.05328)]
 
-**GANSpace: Discovering Interpretable GAN Controls.**<br>
-*Erik Härkönen, Aaron Hertzmann, Jaakko Lehtinen, Sylvain Paris.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2004.02546)] [[Github](https://github.com/harskish/ganspace)]
-
 **On the "steerability" of generative adversarial networks.**<br>
 *Ali Jahanian, Lucy Chai, Phillip Isola.*<br>
 ICLR 2020. [[PDF](https://arxiv.org/abs/1907.07171)] [[Project](https://ali-design.github.io/gan_steerability/)]
+
+**GANSpace: Discovering Interpretable GAN Controls.**<br>
+*Erik Härkönen, Aaron Hertzmann, Jaakko Lehtinen, Sylvain Paris.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2004.02546)] [[Github](https://github.com/harskish/ganspace)]
 
 **Interpreting the Latent Space of GANs for Semantic Face Editing.**<br>
 *[Yujun Shen](http://shenyujun.github.io/), [Jinjin Gu](http://www.jasongt.com/), [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Bolei Zhou](http://bzhou.ie.cuhk.edu.hk/).*<br>
@@ -512,6 +520,34 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 **Sound-Guided Semantic Video Generation.**<br>
 *Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Jihyun Bae, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.09273)] 
+
+**FEAT: Face Editing with Attention.**<br>
+*Xianxu Hou, Linlin Shen, Or Patashnik, Daniel Cohen-Or, Hui Huang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2202.02713)]
+
+**DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing.**<br>
+*Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2109.10737)] [[Github](https://github.com/phycvgan/DyStyle)]
+
+**Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
+*Yuki Endo, Yoshihiro Kanamori.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
+
+**Heredity-aware Child Face Image Generation with Latent Space Disentanglement.**<br>
+*Xiao Cui, Wengang Zhou, Yang Hu, Weilun Wang, Houqiang Li.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2108.11080)]
+
+**Unsupervised Image Transformation Learning via Generative Adversarial Networks.**<br>
+*Kaiwen Zha, Yujun Shen, Bolei Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07751)] [[Project](https://genforce.github.io/trgan)]
+
+**Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
+*Jialu Huang, Jing Liao, Sam Kwong.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
+
+**Identity-Guided Face Generation with Multi-modal Contour Conditions.**<br>
+*Qingyan Bai, Weihao Xia, Fei Yin, Yujiu Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.04854)]
 
 **Sound-Guided Semantic Image Manipulation.**<br>
 *Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim.*<br>
@@ -548,34 +584,6 @@ WACV 2022. [[PDF](https://openaccess.thecvf.com/content/WACV2022/html/Khodadadeh
 **StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN.**<br>
 *[Gereon Fox](https://www.mpi-inf.mpg.de/~gfox/), [Ayush Tewari](https://www.mpi-inf.mpg.de/~atewari/), Mohamed Elgharib, [Christian Theobalt](http://gvv.mpi-inf.mpg.de/).*<br>
 BMVC 2021 (Oral). [[PDF](https://arxiv.org/abs/2107.07224)]
-
-**FEAT: Face Editing with Attention.**<br>
-*Xianxu Hou, Linlin Shen, Or Patashnik, Daniel Cohen-Or, Hui Huang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2202.02713)]
-
-**DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing.**<br>
-*Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2109.10737)] [[Github](https://github.com/phycvgan/DyStyle)]
-
-**Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
-*Yuki Endo, Yoshihiro Kanamori.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
-
-**Heredity-aware Child Face Image Generation with Latent Space Disentanglement.**<br>
-*Xiao Cui, Wengang Zhou, Yang Hu, Weilun Wang, Houqiang Li.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2108.11080)]
-
-**Unsupervised Image Transformation Learning via Generative Adversarial Networks.**<br>
-*Kaiwen Zha, Yujun Shen, Bolei Zhou.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07751)] [[Project](https://genforce.github.io/trgan)]
-
-**Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
-*Jialu Huang, Jing Liao, Sam Kwong.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
-
-**Identity-Guided Face Generation with Multi-modal Contour Conditions.**<br>
-*Qingyan Bai, Weihao Xia, Fei Yin, Yujiu Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2110.04854)]
 
 **Constrained Graphic Layout Generation via Latent Optimization.**<br>
 *Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
@@ -653,10 +661,6 @@ AAAI 2022. [[PDF](https://www.aaai.org/AAAI22Papers/AAAI-2208.ChenJ.pdf)]
 *[Xuan Luo](https://time-travel-rephotography.github.io/), [Xuaner Zhang](https://people.eecs.berkeley.edu/~cecilia77/), [Paul Yoo](https://www.linkedin.com/in/paul-yoo-768a3715b), [Ricardo Martin-Brualla](http://www.ricardomartinbrualla.com/), [Jason Lawrence](http://jasonlawrence.info/), [Steven M. Seitz](https://homes.cs.washington.edu/~seitz/).*<br>
 SIGGRAPH Asia 2021 (TOG). [[PDF](https://arxiv.org/abs/2012.12261)] [[Project](https://time-travel-rephotography.github.io/)] [[Github](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io)]
 
-**LTT-GAN: Looking Through Turbulence by Inverting GANs.**<br> 
-*[Kangfu Mei](https://kfmei.page/), [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/).*<br> 
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.02379)] [[Project](https://kfmei.page/LTT-GAN/)]
-
 **GPEN: GAN Prior Embedded Network for Blind Face Restoration in the Wild.**<br>
 *Tao Yang, Peiran Ren, Xuansong Xie, Lei Zhang.*<br>
 CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_GAN_Prior_Embedded_Network_for_Blind_Face_Restoration_in_the_CVPR_2021_paper.pdf)] [[Github](https://github.com/)]
@@ -673,19 +677,23 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2101.04061)] [[Project](https://xinntao.
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.03808)] [[Github](https://github.com/adamian98/pulse)]
 
+**LTT-GAN: Looking Through Turbulence by Inverting GANs.**<br> 
+*[Kangfu Mei](https://kfmei.page/), [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/).*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.02379)] [[Project](https://kfmei.page/LTT-GAN/)]
+
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](http://www.cs.huji.ac.il/~avivga), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1906.11880)] [[Project](http://www.vision.huji.ac.il/style-image-prior/)] [[Github](https://github.com/avivga/style-image-prior)]
 
 ### image understanding
 
-**Finding an Unsupervised Image Segmenter in each of your Deep Generative Models.**<br> 
-*Luke Melas-Kyriazi, Christian Rupprecht, Iro Laina, Andrea Vedaldi.*<br>
-ICLR 2022. [[PDF](https://openreview.net/forum?id=Ug-bgjgSlKV)]
-
 **Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP.**<br>
 *Daniil Pakhomov, Sanchit Hira, Narayani Wagle, Kemar E. Green, Nassir Navab.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.12518.pdf)] [[Project](https://segmentation-in-style.github.io/)] [[Github](https://github.com/warmspringwinds/segmentation_in_style)]
+
+**Finding an Unsupervised Image Segmenter in each of your Deep Generative Models.**<br> 
+*Luke Melas-Kyriazi, Christian Rupprecht, Iro Laina, Andrea Vedaldi.*<br>
+ICLR 2022. [[PDF](https://openreview.net/forum?id=Ug-bgjgSlKV)]
 
 **Labels4Free: Unsupervised Segmentation using StyleGAN.**<br>
 *[Rameen Abdal](https://scholar.google.com/citations?user=kEQimk0AAAAJ&hl=en), [Peihao Zhu](https://scholar.google.com/citations?user=Gn8URq0AAAAJ&hl=en), [Niloy Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Peter Wonka](http://peterwonka.net/).*<br>
@@ -701,13 +709,13 @@ CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://r
 
 ### 3D
 
-**CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs.**<br>
-*[Jiteng Mu](https://jitengmu.github.io/), Shalini De Mello, Zhiding Yu, Nuno Vasconcelos, Xiaolong Wang, Jan Kautz, Sifei Liu.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2203.16521)] [[Project](https://jitengmu.github.io/CoordGAN/)]
-
 **StylePart: Image-based Shape Part Manipulation.**<br>
 *I-Chao Shen, Li-Wen Su, Yu-Ting Wu, Bing-Yu Chen.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.10520)]
+
+**CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs.**<br>
+*[Jiteng Mu](https://jitengmu.github.io/), Shalini De Mello, Zhiding Yu, Nuno Vasconcelos, Xiaolong Wang, Jan Kautz, Sifei Liu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.16521)] [[Project](https://jitengmu.github.io/CoordGAN/)]
 
 **GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
 *[Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
