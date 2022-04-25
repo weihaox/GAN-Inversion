@@ -33,6 +33,10 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.00273)] [[Project](https://sites.g
 *[Ron Mokady](https://rmokady.github.io/), Michal Yarom, Omer Tov, Oran Lang, Daniel Cohen-Or, Tali Dekel, Michal Irani, Inbar Mosseri.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.12211)] [[Project](https://self-distilled-stylegan.github.io/)] [[Github](https://github.com/self-distilled-stylegan/self-distilled-internet-photos)]
 
+**Ensembling Off-the-shelf Models for GAN Training.**<br>
+[Nupur Kumari](https://nupurkmr9.github.io/), [Richard Zhang](https://richzhang.github.io/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/)<br>
+CVPR 2022. [[PDF](https://arxiv.org/pdf/2112.09130.pdf)] [[Project](https://www.cs.cmu.edu/~vision-aided-gan/)] [[Github](https://github.com/nupurkmr9/vision-aided-gan)]
+
 **StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.github.io/alias-free-gan)] [[Github](https://github.com/NVlabs/stylegan3)] [[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch)]
