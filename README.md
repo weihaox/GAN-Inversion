@@ -405,13 +405,13 @@ arxiv 2021. [[PDF](https://arxiv.org/pdf/2201.10423.pdf)]
 *Ehsan Pajouheshgar, Tong Zhang, Sabine Süsstrunk.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.12583)]
 
-**LARGE: Latent-Based Regression through GAN Semantics.**<br>
-*[Yotam Nitzan](https://yotamnitzan.github.io), [Rinon Gal](https://rinongal.github.io/), [Ofir Brenner](https://scholar.google.com/citations?user=iLLlWr8AAAAJ), [Daniel Cohen-Or](https://danielcohenor.com/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.11186)] [[Github](https://github.com/YotamNitzan/LARGE)] [[Project](https://yotamnitzan.github.io/LARGE)]
-
 **Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
 *Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10132)]
+
+**LARGE: Latent-Based Regression through GAN Semantics.**<br>
+*[Yotam Nitzan](https://yotamnitzan.github.io), [Rinon Gal](https://rinongal.github.io/), [Ofir Brenner](https://scholar.google.com/citations?user=iLLlWr8AAAAJ), [Daniel Cohen-Or](https://danielcohenor.com/).*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2107.11186)] [[Github](https://github.com/YotamNitzan/LARGE)] [[Project](https://yotamnitzan.github.io/LARGE)]
 
 **Latent Image Animator: Learning to Animate Image via Latent Space Navigation.**<br>
 *Yaohui Wang, Di Yang, Francois Bremond, Antitza Dantcheva.*<br>
@@ -552,6 +552,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2110.04854)]
 **Sound-Guided Semantic Image Manipulation.**<br>
 *Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2112.00007)]
+
+**HairCLIP: Design Your Hair by Text and Reference Image.**<br>
+*Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Zhentao Tan, Lu Yuan, Weiming Zhang, Nenghai Yu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.05142)] [[Github](https://github.com/wty-ustc/HairCLIP)]
 
 **HairMapper: Removing Hair from Portraits Using GANs.**<br>
 *[Yiqian Wu](https://onethousandwu.com/), [Yong-Liang Yang](http://www.yongliangyang.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin).*<br>
