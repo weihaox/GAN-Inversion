@@ -79,14 +79,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoamo
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
-**Encode-in-Style: Latent-based Video Encoding using StyleGAN2.**<br>
-*[Trevine Oorloff](https://trevineoorloff.github.io/), [Yaser Yacoob](https://www.umiacs.umd.edu/people/yaser).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.14512)] [[Project](https://trevineoorloff.github.io/Encode-in-Style.io/)] [[Github](https://github.com/trevineoorloff/Encode-in-Style)]
-
-**High-fidelity GAN Inversion with Padding Space.**<br>
-*[Qingyan Bai](https://ezioby.github.io/padinv/), Yinghao Xu, Jiapeng Zhu, Weihao Xia, Yujiu Yang, Yujun Shen.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.11105)] [[Project](https://github.com/EzioBy/padinv)] [[Github](https://github.com/EzioBy/padinv)]
-
 **Style Transformer for Image Inversion and Editing.**<br>
 *Xueqi Hu, Qiusheng Huang, Zhengyi Shi, Siyuan Li, Changxin Gao, Li Sun, Qingli Li.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.07932)] [[Github](https://github.com/sapphire497/style-transformer)]
@@ -106,6 +98,18 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15666)] [[Project](http://yuval-ala
 **StyleAlign: Analysis and Applications of Aligned StyleGAN Models.**<br>
 *Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski.*<br>
 ICLR 2022. [[PDF](https://arxiv.org/abs/2110.11323)]
+
+**Expanding the Latent Space of StyleGAN for Real Face Editing.**<br>
+*Yin Yu, Ghasedi Kamran, Wu HsiangTao, Yang Jiaolong, Tong Xi, Fu Yun.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.12530)]
+
+**Encode-in-Style: Latent-based Video Encoding using StyleGAN2.**<br>
+*[Trevine Oorloff](https://trevineoorloff.github.io/), [Yaser Yacoob](https://www.umiacs.umd.edu/people/yaser).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.14512)] [[Project](https://trevineoorloff.github.io/Encode-in-Style.io/)] [[Github](https://github.com/trevineoorloff/Encode-in-Style)]
+
+**High-fidelity GAN Inversion with Padding Space.**<br>
+*[Qingyan Bai](https://ezioby.github.io/padinv/), Yinghao Xu, Jiapeng Zhu, Weihao Xia, Yujiu Yang, Yujun Shen.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.11105)] [[Project](https://github.com/EzioBy/padinv)] [[Github](https://github.com/EzioBy/padinv)]
 
 **Solving Inverse Problems with NerfGANs.**<br>
 *Giannis Daras, Wen-Sheng Chu, Abhishek Kumar, Dmitry Lagun, Alexandros G. Dimakis.*<br>
