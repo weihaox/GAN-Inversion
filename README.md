@@ -27,7 +27,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
 
 **StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets.**<br>
 *[Axel Sauer](https://axelsauer.com/), [Katja Schwarz](https://katjaschwarz.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.00273)] [[Project](https://sites.google.com/view/stylegan-xl/)] [[Github](https://github.com/autonomousvision/stylegan_xl)]
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2202.00273)] [[Project](https://sites.google.com/view/stylegan-xl/)] [[Github](https://github.com/autonomousvision/stylegan_xl)]
 
 **Self-Distilled StyleGAN: Towards Generation from Internet Photos.**<br>
 *[Ron Mokady](https://rmokady.github.io/), Michal Yarom, Omer Tov, Oran Lang, Daniel Cohen-Or, Tali Dekel, Michal Irani, Inbar Mosseri.*<br>
@@ -94,6 +94,10 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2112.00719)] [[Project](https://di-mi-ta
 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing.**<br>
 *Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15666)] [[Project](http://yuval-alaluf.github.io/hyperstyle/)] [[Github](https://github.com/yuval-alaluf/hyperstyle)]
+
+**Overparameterization Improves StyleGAN Inversion.**<br>
+*Yohan Poirier-Ginter, Alexandre Lessard, Ryan Smith, Jean-François Lalonde.*<br>
+CVPR 2022 Workshop on AI for Content Creation. [[PDF](https://arxiv.org/abs/2205.06304)] [[Github](https://lvsn.github.io/OverparamStyleGAN/)]
 
 **StyleAlign: Analysis and Applications of Aligned StyleGAN Models.**<br>
 *Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski.*<br>
@@ -416,6 +420,18 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2111.12583)]
 **Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
 *Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10132)]
+
+**Tensor Component Analysis for Interpreting the Latent Space of GANs.**<br>
+*[James Oldfield](https://james-oldfield.github.io/), Markos Georgopoulos, Yannis Panagakis, Mihalis A. Nicolaou, Ioannis Patras.*<br>
+BMVC 2021. [[PDF](https://arxiv.org/abs/2111.11736)] [[Project](http://eecs.qmul.ac.uk/~jo001/TCA-latent-space/)] [[Github](https://github.com/james-oldfield/TCA-latent-space)]
+
+**Tensor-based Subspace Factorization for StyleGAN.**<br>
+*Rene Haas, Stella Graßhof and Sami S. Brandt.*<br>
+FG 2021. [[PDF](https://arxiv.org/abs/2111.04554)]
+
+**Tensor-based Emotion Editing in the StyleGAN Latent Space.**<br>
+*René Haas, Stella Graßhof, Sami S. Brandt.*<br>
+CVPR 2022 Workshop on AI for Content Creation Workshop. [[PDF](https://arxiv.org/pdf/2205.06102.pdf)]
 
 **LARGE: Latent-Based Regression through GAN Semantics.**<br>
 *[Yotam Nitzan](https://yotamnitzan.github.io), [Rinon Gal](https://rinongal.github.io/), [Ofir Brenner](https://scholar.google.com/citations?user=iLLlWr8AAAAJ), [Daniel Cohen-Or](https://danielcohenor.com/).*<br>
