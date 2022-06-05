@@ -1,25 +1,60 @@
-# <p align=center>`awesome gan-inversion`</p>
+<!-- # <p align=center>`awesome gan-inversion`</p>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+-->
+<br />
+<p align="center">
+  <h1 align="center">GAN Inversion: A Survey</h1>
+  <p align="center">
+    TPAMI, 2022
+    <br />
+    <a href=""><strong>Weihao Xia</strong></a>
+    ·
+    <a href="http://yulunzhang.com/"><strong>Yulun Zhang</strong></a>
+    ·
+    <a href="https://sites.google.com/view/iigroup-thu/about"><strong>Yujiu Yang</strong></a>
+    ·
+    <a href="http://www.homepages.ucl.ac.uk/~ucakjxu/"><strong>Jing-Hao Xue</strong></a>
+    ·
+    <a href="https://boleizhou.github.io/"><strong>Bolei Zhou</strong></a>
+    ·
+    <a href="https://faculty.ucmerced.edu/mhyang/"><strong>Ming-Hsuan Yang</strong></a>
+  </p>
 
-This repo is a collection of resources on GAN inversion, as a supplement for our [survey](https://arxiv.org/abs/2101.05278).
+  <p align="center">
+    <a href='https://arxiv.org/abs/2101.05278'>
+      <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='Paper PDF'>
+    </a>
+    <a href='https://github.com/weihaox/awesome-gan-inversion' style='padding-left: 0.5rem;'>
+      <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
+    </a>
+  </p>
+</p>
+<br />
 
-## survey
+This repo is a collection of resources on GAN inversion, as a supplement for our [survey](https://arxiv.org/abs/2101.05278).  If you find any work missing or have any suggestions (papers, implementations and other resources), feel free to [pull requests](https://github.com/weihaox/awesome-gan-inversion/pulls).
 
-**GAN Inversion: A Survey.**<br>
-*Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
-<details>
+<details style="margin-left:3%;">
   <summary>citation</summary>
-  <pre><code>@article{xia2021survey,
+  <pre><code class="language-bib" style="font-size: 0.9rem;" id="citation">@article{xia2022gan,
     author  = {Xia, Weihao and Zhang, Yulun and Yang, Yujiu and Xue, Jing-Hao and Zhou, Bolei and Yang, Ming-Hsuan},
     title   = {GAN Inversion: A Survey},
-    journal = {arXiv preprint arXiv: 2101.05278},
-    year={2021}
+    journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+    year={2022}
   }
 </code></pre>
-</details>
+</details> 
+
+<details><summary>Table of Contents</summary><p>
+
+- [inverted pretrained model](#inverted-pretrained-model)
+- [inversion method](#inversion-method)
+- [latent space navigation](#latent-space-navigation)
+- [application](#application)
+- [acknowledgement](#acknowledgement)
+
+</p></details><p></p>
 
 ## inverted pretrained model
 
@@ -78,6 +113,8 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoamo
 ## inversion method
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
+
+### 2D GAN inversion
 
 **Style Transformer for Image Inversion and Editing.**<br>
 *Xueqi Hu, Qiusheng Huang, Zhengyi Shi, Siyuan Li, Changxin Gao, Li Sun, Qingli Li.*<br>
@@ -160,11 +197,7 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2104.00820)] [[Github](https://github.co
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02477)]
 
 **Improved StyleGAN Embedding: Where are the Good Latents?**<br>
-*[Peihao Zhu](https://github.com/ZPdesu),
-[Rameen Abdal](https://github.com/RameenAbdal),
-[Yipeng Qin](https://scholar.google.com/citations?user=ojgWPpgAAAAJ&hl=en),
-[John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ&hl=en),
-[Peter Wonka](http://peterwonka.net/).*<br>
+*[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [Yipeng Qin](https://scholar.google.com/citations?user=ojgWPpgAAAAJ&hl=en), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09036)] [[Github](https://github.com/ZPdesu/II2S)]
 
 **Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
@@ -379,7 +412,7 @@ NeurIPS 2016 Workshop. [[PDF](https://arxiv.org/abs/1611.05644)]
 *Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros.*<br>
 ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
-## 3D GANs inverson
+### 3D GAN inverson
 
 **3D GAN Inversion for Controllable Portrait Image Animation.**<br>
 *[Connor Z. Lin](https://connorzlin.com/), David B. Lindell, Eric R. Chan, [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
@@ -393,6 +426,8 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 *[Junzhe Zhang](https://junzhezhang.github.io/), Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
 
+<p width="100%" align="right"><a href="#">🔝</a></p>
+
 ## latent space navigation
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
@@ -403,11 +438,15 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2203.08516)] [[Project](https://catlab-
 
 **Region-Based Semantic Factorization in GANs.**<br>
 *Jiapeng Zhu, Yujun Shen, Yinghao Xu, Deli Zhao, Qifeng Chen.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.09649)]
+ICML 2022. [[PDF](https://arxiv.org/abs/2202.09649)] [[Github](https://github.com/zhujiapeng/resefa)]
 
 **Multi-level Latent Space Structuring for Generative Control.**<br>
 *[Oren Katzir](https://orenkatzir.github.io/), Vicky Perepelook, Dani Lischinski, Daniel Cohen-Or.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.05910)]
+
+**CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions.**<br>
+*Rameen Abdal, Peihao Zhu, John Femiani, Niloy J. Mitra, Peter Wonka.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.05219)] [[Github](https://github.com/RameenAbdal/CLIP2StyleGAN)]
 
 **Rayleigh EigenDirections (REDs): GAN Latent Space Traversals for Multidimensional Features.**<br>
 *Guha Balakrishnan, Raghudeep Gadde, Aleix Martinez, Pietro Perona.*<br>
@@ -537,6 +576,8 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1910.11626)] [[PDF](http://ganseeing.csa
 *Andrey Voynov, Artem Babenko.*<br>
 ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.com/anvoynov/GANLatentDiscovery)]
 
+<p width="100%" align="right"><a href="#">🔝</a></p>
+
 ## application
 
 ### image and video generation and manipulation
@@ -657,7 +698,7 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github
 
 **StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators.**<br>
 *[Rinon Gal](https://rinongal.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Haggai Maron](https://haggaim.github.io/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2108.00946)] [[Project](https://stylegan-nada.github.io/)] [[Github](https://github.com/rinongal/StyleGAN-nada)]
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2108.00946)] [[Project](https://stylegan-nada.github.io/)] [[Github](https://github.com/rinongal/StyleGAN-nada)]
 
 **Paint by Word.**<br>
 *David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
@@ -790,3 +831,15 @@ IEEE Symposium on Security & Privacy (S&P) 2021. [[PDF](https://arxiv.org/abs/21
 ## acknowledgement
 
 Thanks for the constructive comments from anonymous reviewers and feedback from [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Andrey Voynov](https://github.com/anvoynov), and [Rushil Anirudh](https://rushila.com/).
+
+If you find this repo or our paper is helpful for your research, please consider to cite:
+
+```bibtex
+@article{xia2022gan,
+    author  = {Xia, Weihao and Zhang, Yulun and Yang, Yujiu and Xue, Jing-Hao and Zhou, Bolei and Yang, Ming-Hsuan},
+    title   = {GAN Inversion: A Survey},
+    journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+    year={2022}
+  }
+```
+<p width="100%" align="right"><a href="#">🔝</a></p>
