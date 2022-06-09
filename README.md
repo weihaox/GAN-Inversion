@@ -30,7 +30,7 @@
     <a href='https://github.com/weihaox/awesome-gan-inversion' style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
     </a>
-    <a href='https://www.youtube.com/watch?v=R58qEGHqww8' style='padding-left: 0.5rem;'>
+    <a href='https://ieeexplore.ieee.org/document/9792208' style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/TPAMI-PDF-red?style=flat&logoColor=red' alt='TPAMI PDF'>
     </a>
   </p>
