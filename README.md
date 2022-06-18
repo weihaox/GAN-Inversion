@@ -70,7 +70,7 @@ SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2202.00273)] [[Project](https://site
 
 **Self-Distilled StyleGAN: Towards Generation from Internet Photos.**<br>
 *[Ron Mokady](https://rmokady.github.io/), Michal Yarom, Omer Tov, Oran Lang, Daniel Cohen-Or, Tali Dekel, Michal Irani, Inbar Mosseri.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.12211)] [[Project](https://self-distilled-stylegan.github.io/)] [[Github](https://github.com/self-distilled-stylegan/self-distilled-internet-photos)]
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2202.12211)] [[Project](https://self-distilled-stylegan.github.io/)] [[Github](https://github.com/self-distilled-stylegan/self-distilled-internet-photos)]
 
 **Ensembling Off-the-shelf Models for GAN Training.**<br>
 [Nupur Kumari](https://nupurkmr9.github.io/), [Richard Zhang](https://richzhang.github.io/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/)<br>
@@ -121,8 +121,8 @@ This part contatins generatal inversion methods, while methods in the next *appl
 ### 2D GAN inversion
 
 **Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing.**<br>
-*Gaurav Parmar, Yijun Li, Jingwan Lu, Richard Zhang, Jun-Yan Zhu, Krishna Kumar Singh.*<br>
-CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Parmar_Spatially-Adaptive_Multilayer_Selection_for_GAN_Inversion_and_Editing_CVPR_2022_paper.pdf)]
+*[Gaurav Parmar](https://gauravparmar.com/), [Yijun Li](https://yijunmaverick.github.io/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/), [Richard Zhang](http://richzhang.github.io/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/).*<br>
+CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Parmar_Spatially-Adaptive_Multilayer_Selection_for_GAN_Inversion_and_Editing_CVPR_2022_paper.pdf)] [[Project](https://www.cs.cmu.edu/~SAMInversion)] [[Github](https://github.com/adobe-research/sam_inversion)]
 
 **Style Transformer for Image Inversion and Editing.**<br>
 *Xueqi Hu, Qiusheng Huang, Zhengyi Shi, Siyuan Li, Changxin Gao, Li Sun, Qingli Li.*<br>
@@ -440,6 +440,10 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezh
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
 
+**CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions.**<br>
+*Rameen Abdal, Peihao Zhu, John Femiani, Niloy J. Mitra, Peter Wonka.*<br>
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2112.05219)] [[Github](https://github.com/RameenAbdal/CLIP2StyleGAN)]
+
 **Region-Based Semantic Factorization in GANs.**<br>
 *Jiapeng Zhu, Yujun Shen, Yinghao Xu, Deli Zhao, Qifeng Chen.*<br>
 ICML 2022. [[PDF](https://arxiv.org/abs/2202.09649)] [[Github](https://github.com/zhujiapeng/resefa)]
@@ -487,10 +491,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2206.00048)] [[Github](https://github.c
 **Multi-level Latent Space Structuring for Generative Control.**<br>
 *[Oren Katzir](https://orenkatzir.github.io/), Vicky Perepelook, Dani Lischinski, Daniel Cohen-Or.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.05910)]
-
-**CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions.**<br>
-*Rameen Abdal, Peihao Zhu, John Femiani, Niloy J. Mitra, Peter Wonka.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.05219)] [[Github](https://github.com/RameenAbdal/CLIP2StyleGAN)]
 
 **Rayleigh EigenDirections (REDs): GAN Latent Space Traversals for Multidimensional Features.**<br>
 *Guha Balakrishnan, Raghudeep Gadde, Aleix Martinez, Pietro Perona.*<br>
@@ -637,6 +637,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
 **Identity-Guided Face Generation with Multi-modal Contour Conditions.**<br>
 *Qingyan Bai, Weihao Xia, Fei Yin, Yujiu Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2110.04854)]
+
+**Self-Conditioned Generative Adversarial Networks for Image Editing.**<br>
+*Yunzhe Liu, Rinon Gal, Amit H. Bermano, Baoquan Chen, Daniel Cohen-Or.*<br>
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2202.04040)] [[Project](https://github.com/yzliu567/sc-gan)]
+
+**SphericGAN: Semi-Supervised Hyper-Spherical Generative Adversarial Networks for Fine-Grained Image Synthesis.**<br>
+*Tianyi Chen, Yunfei Zhang, Xiaoyang Huo, Si Wu, Yong Xu, Hau San Wong.*<br>
+CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_SphericGAN_Semi-Supervised_Hyper-Spherical_Generative_Adversarial_Networks_for_Fine-Grained_Image_Synthesis_CVPR_2022_paper.html)]
+
+**Face Image Retrieval With Attribute Manipulation.**<br>
+*[Alireza Zaeemzadeh](https://zaeemzadeh.com/), Shabnam Ghadar, Baldo Faieta, Zhe Lin, Nazanin Rahnavard, Mubarak Shah, Ratheesh Kalarot.*<br>
+CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Zaeemzadeh_Face_Image_Retrieval_With_Attribute_Manipulation_ICCV_2021_paper.html)]
 
 **Sound-Guided Semantic Image Manipulation.**<br>
 *Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim.*<br>
