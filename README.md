@@ -606,6 +606,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ### image and video generation and manipulation
 
+**Temporally Consistent Semantic Video Editing.**<br>
+*[Yiran Xu](https://twizwei.github.io/), [Badour AlBahar](https://badouralbahar.github.io/), [Jia-Bin Huang](https://jbhuang0604.github.io/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/pdf/2206.10590.pdf)] [[Project](https://video-edit-gan.github.io/)] 
+
 **Sound-Guided Semantic Video Generation.**<br>
 *Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Jihyun Bae, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.09273)] 
@@ -705,6 +709,10 @@ TOG 2021. [[PDF](http://www.cad.zju.edu.cn/home/jin/sig2021/paper46.pdf)] [[Proj
 **SAM: Only a Matter of Style-Age Transformation Using a Style-Based Regression Model.**<br>
 *Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
 TOG 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
+
+**Barbershop: GAN-based Image Compositing using Segmentation Masks.**<br>
+*[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
+SIGGRAPH Asia 2021. [[PDF](https://arxiv.org/abs/2106.01505)] [[Project](https://zpdesu.github.io/Barbershop/)] [[Github](https://github.com/ZPdesu/Barbershop)]
 
 **Exploring Adversarial Fake Images on Face Manifold.**<br>
 *Dongze Li, Wei Wang, Hongxing Fan, Jing Dong.*<br>
