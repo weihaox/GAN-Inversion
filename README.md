@@ -148,13 +148,25 @@ CVPR 2022 Workshop on AI for Content Creation. [[PDF](https://arxiv.org/abs/2205
 *Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski.*<br>
 ICLR 2022. [[PDF](https://arxiv.org/abs/2110.11323)]
 
+**Semantic Unfolding of StyleGAN Latent Space.**<br>
+*Mustafa Shukor, Xu Yao, Bharath Bushan Damodaran, Pierre Hellier.*<br>
+ICIP 2022. [[PDF](https://arxiv.org/abs/2206.14892)]
+
+**Video2StyleGAN: Encoding Video in Latent Space for Manipulation.**<br>
+*Jiyang Yu, Jingen Liu, Jing Huang, Wei Zhang, Tao Mei.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.13078)]
+
+**Editing Out-of-domain GAN Inversion via Differential Activations.**<br>
+*Haorui Song, Yong Du, Tianyi Xiang, Junyu Dong, Jing Qin, Shengfeng He*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.08134)] [[Github](https://github.com/HaoruiSong622/Editing-Out-of-Domain)]
+
 **Expanding the Latent Space of StyleGAN for Real Face Editing.**<br>
 *Yin Yu, Ghasedi Kamran, Wu HsiangTao, Yang Jiaolong, Tong Xi, Fu Yun.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.12530)]
 
 **Encode-in-Style: Latent-based Video Encoding using StyleGAN2.**<br>
 *[Trevine Oorloff](https://trevineoorloff.github.io/), [Yaser Yacoob](https://www.umiacs.umd.edu/people/yaser).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.14512)] [[Project](https://trevineoorloff.github.io/Encode-in-Style.io/)] [[Github](https://github.com/trevineoorloff/Encode-in-Style)]
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.14512)] [[Project](https://trevineoorloff.github.io/Encode-in-Style.io/)] [[Github](https://github.com/trevineoorloff/Encode-in-Style)] [[Data](https://trevineoorloff.github.io/Encode-in-Style.io/)]
 
 **High-fidelity GAN Inversion with Padding Space.**<br>
 *[Qingyan Bai](https://ezioby.github.io/padinv/), Yinghao Xu, Jiapeng Zhu, Weihao Xia, Yujiu Yang, Yujun Shen.*<br>
@@ -170,7 +182,7 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2201.13433)] [[Project](https://yuval-a
 
 **Feature-Style Encoder for Style-Based GAN Inversion.**<br>
 *Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.02183)]
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.02183)] [[Github](https://github.com/InterDigitalInc/FeatureStyleEncoder)]
 
 **StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.**<br>
 *Min Jin Chong, Hsin-Ying Lee, David Forsyth.*<br>
@@ -224,6 +236,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01758)]
 *[Jonas Wulff](http://people.csail.mit.edu/jwulff/), Antonio Torralba.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.06529)]
 
+**From Continuity to Editability: Inverting GANs with Consecutive Images.**<br>
+*[Yangyang Xu](https://qingyang-xu.github.io/), [Yong Du](https://www.csyongdu.com/), Wenpeng Xiao, Xuemiao Xu and [Shengfeng He](hengfenghe.com).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2107.13812)] [[Github](https://github.com/Qingyang-Xu/InvertingGANs_with_ConsecutiveImgs)]
+
 **Explaining in Style: Training a GAN to explain a classifier in StyleSpace.**<br> 
 *Oran Lang, Yossi Gandelsman, Michal Yarom, Yoav Wald, Gal Elidan, Avinatan Hassidim, William T. Freeman, Phillip Isola, Amir Globerson, Michal Irani, Inbar Mosseri.*<br> 
 ICCV 2021. [[PDF](https://arxiv.org/abs/2104.13369)] [[Project](https://explaining-in-style.github.io/)]
@@ -231,10 +247,6 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2104.13369)] [[Project](https://explaini
 **BDInvert: GAN Inversion for Out-of-Range Images with Geometric Transformations.**<br>
 *[Kyoungkook Kang](https://kkang831.github.io/), Seongtae Kim, [Sunghyun Cho](https://www.scho.pe.kr/).*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2108.08998)] [[Project](https://kkang831.github.io/publication/ICCV_2021_BDInvert/)]
-
-**From Continuity to Editability: Inverting GANs with Consecutive Images.**<br>
-*[Yangyang Xu](https://qingyang-xu.github.io/), [Yong Du](https://www.csyongdu.com/), Wenpeng Xiao, Xuemiao Xu and [Shengfeng He](hengfenghe.com).*<br>
-ICCV 2021. [[PDF](https://arxiv.org/abs/2107.13812)] [[Github](https://github.com/Qingyang-Xu/InvertingGANs_with_ConsecutiveImgs)]
 
 **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement.**<br> 
 *[Yuval Alaluf](https://yuval-alaluf.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br> 
@@ -608,11 +620,15 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 **Temporally Consistent Semantic Video Editing.**<br>
 *[Yiran Xu](https://twizwei.github.io/), [Badour AlBahar](https://badouralbahar.github.io/), [Jia-Bin Huang](https://jbhuang0604.github.io/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/pdf/2206.10590.pdf)] [[Project](https://video-edit-gan.github.io/)] 
+ECCV 2022. [[PDF](https://arxiv.org/pdf/2206.10590.pdf)] [[Project](https://video-edit-gan.github.io/)] 
 
 **Sound-Guided Semantic Video Generation.**<br>
 *Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Jihyun Bae, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2204.09273)] 
+ECCV 2022. [[PDF](https://arxiv.org/abs/2204.09273)] [[Project](https://kuai-lab.github.io/eccv2022sound/)] [[Github]()]
+
+**Stitch it in Time: GAN-Based Facial Editing of Real Videos.**<br>
+*Rotem Tzaban, Ron Mokady, Rinon Gal, Amit H. Bermano, Daniel Cohen-Or.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2201.08361)] [[Project](https://stitch-time.github.io/)] [[Github](https://github.com/rotemtzaban/STIT)]
 
 **FEAT: Face Editing with Attention.**<br>
 *Xianxu Hou, Linlin Shen, Or Patashnik, Daniel Cohen-Or, Hui Huang.*<br>
@@ -638,9 +654,13 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07751)] [[Project](https://genforc
 *Jialu Huang, Jing Liao, Sam Kwong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
 
+**SD-GAN: Semantic Decomposition for Face Image Synthesis with Discrete Attribute.**<br>
+*Zhou Kangneng, Zhu Xiaobin, Gao Daiheng, Lee Kai, Li Xinjie, Yin Xu-Cheng.*<br>
+ACM MM 2022. [[PDF](https://arxiv.org/abs/2207.05300)]
+
 **Identity-Guided Face Generation with Multi-modal Contour Conditions.**<br>
 *Qingyan Bai, Weihao Xia, Fei Yin, Yujiu Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2110.04854)]
+ICIP 2022. [[PDF](https://arxiv.org/abs/2110.04854)]
 
 **Self-Conditioned Generative Adversarial Networks for Image Editing.**<br>
 *Yunzhe Liu, Rinon Gal, Amit H. Bermano, Baoquan Chen, Daniel Cohen-Or.*<br>
@@ -866,7 +886,11 @@ Human Vision and Electronic Imaging 2021. [[PDF](https://whitneylab.berkeley.edu
 *Gagandeep B. Daroach, Josiah A. Yoder, Kenneth A. Iczkowski, Peter S. LaViolette.*<br>
 BIOIMAGING 2021. [[PDF](https://www.scitepress.org/Papers/2021/103939/103939.pdf)]
 
-### security
+### compression and security
+
+**Video Coding Using Learned Latent GAN Compression.**<br>
+*Mustafa Shukor, Bharath Bhushan Damodaran, Xu Yao, Pierre Hellier.*<br>
+ACM Multimedia 2022. [[PDF](https://arxiv.org/abs/2207.04324)]
 
 **Differentially Private Imaging via Latent Space Manipulation.**<br>
 *Tao Li, Chris Clifton.*<br>
