@@ -120,6 +120,14 @@ This part contatins generatal inversion methods, while methods in the next *appl
 
 ### 2D GAN inversion
 
+**Chunkmogrify: Real image inversion via Segments.**<br>
+*[David Futschik](https://dcgi.fel.cvut.cz/people/futscdav), [Michal Lukáč](https://research.adobe.com/person/michal-lukac/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Daniel Sýkora](https://dcgi.fel.cvut.cz/home/sykorad/).*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2110.06269)] [[Github](https://github.com/futscdav/Chunkmogrify)]
+
+**Cycle Encoding of a StyleGAN Encoder for Improved Reconstruction and Editability.**<br>
+*Xudong Mao, Liujuan Cao, Aurele Tohokantche Gnanha, Zhenguo Yang, Qing Li, Rongrong Ji.*<br>
+ACM MM 2022. [[PDF](https://arxiv.org/abs/2207.09367)] [[Github](https://github.com/xudonmao/CycleEncoding)]
+
 **Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing.**<br>
 *[Gaurav Parmar](https://gauravparmar.com/), [Yijun Li](https://yijunmaverick.github.io/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/), [Richard Zhang](http://richzhang.github.io/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/).*<br>
 CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Parmar_Spatially-Adaptive_Multilayer_Selection_for_GAN_Inversion_and_Editing_CVPR_2022_paper.pdf)] [[Project](https://www.cs.cmu.edu/~SAMInversion)] [[Github](https://github.com/adobe-research/sam_inversion)]
@@ -187,10 +195,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.02183)] [[Github](https://github.c
 **StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.**<br>
 *Min Jin Chong, Hsin-Ying Lee, David Forsyth.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.01619)] [[Github](https://github.com/mchong6/SOAT)]
-
-**Real Image Inversion via Segments.**<br>
-*David Futschik, Michal Lukáč, Eli Shechtman, Daniel Sýkora.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2110.06269)]
 
 **Semantic and Geometric Unfolding of StyleGAN Latent Space.**<br>
 *Mustafa Shukor, Xu Yao, Bharath Bhushan Damodaran, Pierre Hellier.*<br>
@@ -478,7 +482,7 @@ CVPR 2022 Workshops. [[PDF](https://openaccess.thecvf.com/content/CVPR2022W/CVFA
 
 **Rank in Style: A Ranking-Based Approach To Find Interpretable Directions.**<br>
 *Umut Kocasari, Kerem Zaman, Mert Tiftikci, Enis Simsar, Pinar Yanardag.*<br>
-CVPR 2022 Workshops. [[PDF](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Kocasari_Rank_in_Style_A_Ranking-Based_Approach_To_Find_Interpretable_Directions_CVPRW_2022_paper.html]
+CVPR 2022 Workshops. [[PDF](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Kocasari_Rank_in_Style_A_Ranking-Based_Approach_To_Find_Interpretable_Directions_CVPRW_2022_paper.html)]
 
 **LARGE: Latent-Based Regression through GAN Semantics.**<br>
 *[Yotam Nitzan](https://yotamnitzan.github.io), [Rinon Gal](https://rinongal.github.io/), [Ofir Brenner](https://scholar.google.com/citations?user=iLLlWr8AAAAJ), [Daniel Cohen-Or](https://danielcohenor.com/).*<br>
@@ -488,17 +492,17 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2107.11186)] [[Github](https://github.co
 *Omer Kafri, Or Patashnik, Yuval Alaluf, Daniel Cohen-Or.*<br>
 TOG 2022. [[PDF](https://arxiv.org/abs/2107.07437)] [[Github](https://github.com/OmerKafri/StyleFusion)]
 
-**PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs.**<br>
-*James Oldfield, Christos Tzelepis, Yannis Panagakis, Mihalis A. Nicolaou, Ioannis Patras.*<br>
+**Fantastic Style Channels and Where to Find Them: A Submodular Framework for Discovering Diverse Directions in GANs.**<br>
+*[Enis Simsar](https://enis.dev/), [Umut Kocasari](https://catlab-team.github.io/), [Ezgi Gülperi Er](https://catlab-team.github.io/), [Pinar Yanardag](https://pinguar.org/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.08516)] [[Project](https://catlab-team.github.io/fantasticstyles/)] [[Demo](https://catlab-team.github.io/styleatlas/classes/FFHQ/)]
 
 **Analyzing the Latent Space of GAN through Local Dimension Estimation.**<br>
-*Jaewoong Choi, Geonho Hwang, Hyunsoo Cho, Myungjoo Kang*<br>
+*Jaewoong Choi, Geonho Hwang, Hyunsoo Cho, Myungjoo Kang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2205.13182)]
 
-**Fantastic Style Channels and Where to Find Them: A Submodular Framework for Discovering Diverse Directions in GANs.**<br>
-*[Enis Simsar](https://enis.dev/), [Umut Kocasari](https://catlab-team.github.io/), [Ezgi Gülperi Er](https://catlab-team.github.io/), [Pinar Yanardag](https://pinguar.org/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2206.00048)] [[Github](https://github.com/james-oldfield/PandA)] 
+**PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs.**<br>
+*James Oldfield, Christos Tzelepis, Yannis Panagakis, Mihalis A. Nicolaou, Ioannis Patras.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.00048)] [[Project](http://eecs.qmul.ac.uk/~jo001/PandA/)] [[Github](https://github.com/james-oldfield/PandA)] 
 
 **Multi-level Latent Space Structuring for Generative Control.**<br>
 *[Oren Katzir](https://orenkatzir.github.io/), Vicky Perepelook, Dani Lischinski, Daniel Cohen-Or.*<br>
@@ -618,6 +622,14 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ### image and video generation and manipulation
 
+**Generative Multiplane Images: Making a 2D GAN 3D-Aware.**<br>
+*[Xiaoming Zhao](https://xiaoming-zhao.com/), [Fangchang Ma](https://fangchangma.github.io/), [David Güera](https://scholar.google.com/citations?user=bckYvFkAAAAJ&hl=en), [Zhile Ren](https://jrenzhile.com/), [Alexander G. Schwing](https://www.alexander-schwing.de/), [Alex Colburn](https://www.colburn.org/).*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10642)] [[Project](https://xiaoming-zhao.github.io/projects/gmpi/)] [[Github](https://github.com/apple/ml-gmpi)]
+
+**Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis.**<br>
+*Jeong-gi Kwak, Yuanming Li, Dongsik Yoon, Donghyeon Kim, David Han, Hanseok Ko.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10257)] [[Project](https://jgkwak95.github.io/surfgan/)]
+
 **Temporally Consistent Semantic Video Editing.**<br>
 *[Yiran Xu](https://twizwei.github.io/), [Badour AlBahar](https://badouralbahar.github.io/), [Jia-Bin Huang](https://jbhuang0604.github.io/).*<br>
 ECCV 2022. [[PDF](https://arxiv.org/pdf/2206.10590.pdf)] [[Project](https://video-edit-gan.github.io/)] 
@@ -625,6 +637,10 @@ ECCV 2022. [[PDF](https://arxiv.org/pdf/2206.10590.pdf)] [[Project](https://vide
 **Sound-Guided Semantic Video Generation.**<br>
 *Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Jihyun Bae, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2204.09273)] [[Project](https://kuai-lab.github.io/eccv2022sound/)] [[Github]()]
+
+**Everything is There in Latent Space: Attribute Editing and Attribute Style Manipulation by StyleGAN Latent Space Exploration.**<br>
+*Rishubh Parihar, Ankit Dhiman, Tejan Karmali, R. Venkatesh Babu.*<br>
+ACM MM 2022. [[PDF](https://arxiv.org/abs/2207.09855)] [[Project](https://sites.google.com/view/flamelatentediting)]
 
 **Stitch it in Time: GAN-Based Facial Editing of Real Videos.**<br>
 *Rotem Tzaban, Ron Mokady, Rinon Gal, Amit H. Bermano, Daniel Cohen-Or.*<br>
@@ -810,6 +826,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2101.04061)] [[Project](https://xinntao.
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.03808)] [[Github](https://github.com/adamian98/pulse)]
 
+**Semantic uncertainty intervals for disentangled latent spaces.**<br> 
+*Swami Sankaranarayanan, Anastasios N. Angelopoulos, Stephen Bates, Yaniv Romano, Phillip Isola.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2207.10074)] [[Github](https://github.com/swamiviv/generative_semantic_uncertainty)]
+
 **LTT-GAN: Looking Through Turbulence by Inverting GANs.**<br> 
 *[Kangfu Mei](https://kfmei.page/), [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/).*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.02379)] [[Project](https://kfmei.page/LTT-GAN/)]
@@ -841,6 +861,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06490)] [[Github](https://github.co
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://repurposegans.github.io/)] [[Github](https://github.com/bryandlee/repurpose-gan)]
 
 ### 3D
+
+**Monocular 3D Object Reconstruction with GAN Inversion.**<br>
+*Junzhe Zhang, Daxuan Ren, Zhongang Cai, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10061)] [[Project](https://www.mmlab-ntu.com/project/meshinversion/)] [[Github](https://github.com/junzhezhang/mesh-inversion)]
 
 **StylePart: Image-based Shape Part Manipulation.**<br>
 *I-Chao Shen, Li-Wen Su, Yu-Ting Wu, Bing-Yu Chen.*<br>
