@@ -642,34 +642,6 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2204.09273)] [[Project](https://kuai-lab
 *Rishubh Parihar, Ankit Dhiman, Tejan Karmali, R. Venkatesh Babu.*<br>
 ACM MM 2022. [[PDF](https://arxiv.org/abs/2207.09855)] [[Project](https://sites.google.com/view/flamelatentediting)]
 
-**Stitch it in Time: GAN-Based Facial Editing of Real Videos.**<br>
-*Rotem Tzaban, Ron Mokady, Rinon Gal, Amit H. Bermano, Daniel Cohen-Or.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2201.08361)] [[Project](https://stitch-time.github.io/)] [[Github](https://github.com/rotemtzaban/STIT)]
-
-**FEAT: Face Editing with Attention.**<br>
-*Xianxu Hou, Linlin Shen, Or Patashnik, Daniel Cohen-Or, Hui Huang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2202.02713)]
-
-**DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing.**<br>
-*Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2109.10737)] [[Github](https://github.com/phycvgan/DyStyle)]
-
-**Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
-*Yuki Endo, Yoshihiro Kanamori.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
-
-**Heredity-aware Child Face Image Generation with Latent Space Disentanglement.**<br>
-*Xiao Cui, Wengang Zhou, Yang Hu, Weilun Wang, Houqiang Li.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2108.11080)]
-
-**Unsupervised Image Transformation Learning via Generative Adversarial Networks.**<br>
-*Kaiwen Zha, Yujun Shen, Bolei Zhou.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07751)] [[Project](https://genforce.github.io/trgan)]
-
-**Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
-*Jialu Huang, Jing Liao, Sam Kwong.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
-
 **SD-GAN: Semantic Decomposition for Face Image Synthesis with Discrete Attribute.**<br>
 *Zhou Kangneng, Zhu Xiaobin, Gao Daiheng, Lee Kai, Li Xinjie, Yin Xu-Cheng.*<br>
 ACM MM 2022. [[PDF](https://arxiv.org/abs/2207.05300)]
@@ -773,6 +745,42 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.co
 **DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
+
+**Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
+*Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.09446)]
+
+**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.**<br>
+*Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.09446)] [[Project](https://textual-inversion.github.io/)] [[Github](https://github.com/rinongal/textual_inversion)]
+
+**Stitch it in Time: GAN-Based Facial Editing of Real Videos.**<br>
+*Rotem Tzaban, Ron Mokady, Rinon Gal, Amit H. Bermano, Daniel Cohen-Or.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2201.08361)] [[Project](https://stitch-time.github.io/)] [[Github](https://github.com/rotemtzaban/STIT)]
+
+**FEAT: Face Editing with Attention.**<br>
+*Xianxu Hou, Linlin Shen, Or Patashnik, Daniel Cohen-Or, Hui Huang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2202.02713)]
+
+**DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing.**<br>
+*Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2109.10737)] [[Github](https://github.com/phycvgan/DyStyle)]
+
+**Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
+*Yuki Endo, Yoshihiro Kanamori.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
+
+**Heredity-aware Child Face Image Generation with Latent Space Disentanglement.**<br>
+*Xiao Cui, Wengang Zhou, Yang Hu, Weilun Wang, Houqiang Li.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2108.11080)]
+
+**Unsupervised Image Transformation Learning via Generative Adversarial Networks.**<br>
+*Kaiwen Zha, Yujun Shen, Bolei Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07751)] [[Project](https://genforce.github.io/trgan)]
+
+**Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
+*Jialu Huang, Jing Liao, Sam Kwong.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
 
 ### multimodal learning
 
