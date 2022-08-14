@@ -10,9 +10,9 @@
   <p align="center">
     TPAMI, 2022
     <br />
-    <a href=""><strong>Weihao Xia</strong></a>
+    <a href="https://xiaweihao.com/"><strong>Weihao Xia</strong></a>
     ·
-    <a href="http://yulunzhang.com/"><strong>Yulun Zhang</strong></a>
+    <a href="https://yulunzhang.com/"><strong>Yulun Zhang</strong></a>
     ·
     <a href="https://sites.google.com/view/iigroup-thu/about"><strong>Yujiu Yang</strong></a>
     ·
@@ -456,6 +456,10 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezh
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
 
+**Hierarchical Semantic Regularization of Latent Spaces in StyleGANs.**<br>
+*Tejan Karmali, Rishubh Parihar, Susmit Agrawal, Harsh Rangwani, Varun Jampani, Maneesh Singh, R. Venkatesh Babu.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03764)] [[Project](https://sites.google.com/view/hsr-eccv22/)] 
+ 
 **CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions.**<br>
 *Rameen Abdal, Peihao Zhu, John Femiani, Niloy J. Mitra, Peter Wonka.*<br>
 SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2112.05219)] [[Github](https://github.com/RameenAbdal/CLIP2StyleGAN)]
