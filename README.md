@@ -2,7 +2,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox) 
+![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox.awesome-gan-inversion) 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox)  -->
 
 <br />
 <p align="center">
@@ -124,6 +125,10 @@ This part contatins generatal inversion methods, while methods in the next *appl
 *[David Futschik](https://dcgi.fel.cvut.cz/people/futscdav), [Michal Lukáč](https://research.adobe.com/person/michal-lukac/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Daniel Sýkora](https://dcgi.fel.cvut.cz/home/sykorad/).*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2110.06269)] [[Github](https://github.com/futscdav/Chunkmogrify)]
 
+**Third Time's the Charm? Image and Video Editing with StyleGAN3.**<br>
+*Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or.*<br>
+Advances in Image Manipulation Workshop, ECCV 2022. [[PDF](https://arxiv.org/abs/2201.13433)] [[Project](https://yuval-alaluf.github.io/stylegan3-editing/)] [[Github](https://github.com/yuval-alaluf/stylegan3-editing)]
+
 **Cycle Encoding of a StyleGAN Encoder for Improved Reconstruction and Editability.**<br>
 *Xudong Mao, Liujuan Cao, Aurele Tohokantche Gnanha, Zhenguo Yang, Qing Li, Rongrong Ji.*<br>
 ACM MM 2022. [[PDF](https://arxiv.org/abs/2207.09367)] [[Github](https://github.com/xudonmao/CycleEncoding)]
@@ -183,10 +188,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2203.11105)] [[Project](https://github.
 **Solving Inverse Problems with NerfGANs.**<br>
 *Giannis Daras, Wen-Sheng Chu, Abhishek Kumar, Dmitry Lagun, Alexandros G. Dimakis.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2112.09061)]
-
-**Third Time's the Charm? Image and Video Editing with StyleGAN3.**<br>
-*Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2201.13433)] [[Project](https://yuval-alaluf.github.io/stylegan3-editing/)] [[Github](https://github.com/yuval-alaluf/stylegan3-editing)]
 
 **Feature-Style Encoder for Style-Based GAN Inversion.**<br>
 *Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
@@ -626,6 +627,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ### image and video generation and manipulation
 
+**3D-FM GAN: Towards 3D-Controllable Face Manipulation.**<br>
+*[Yuchen Liu](https://lychenyoko.github.io/), Zhixin Shu, Yijun Li, Zhe Lin, Richard Zhang, and Sun-Yuan Kung.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2208.11257)] [[Project](https://lychenyoko.github.io/3D-FM-GAN-Webpage/)]
+
 **Generative Multiplane Images: Making a 2D GAN 3D-Aware.**<br>
 *[Xiaoming Zhao](https://xiaoming-zhao.com/), [Fangchang Ma](https://fangchangma.github.io/), [David Güera](https://scholar.google.com/citations?user=bckYvFkAAAAJ&hl=en), [Zhile Ren](https://jrenzhile.com/), [Alexander G. Schwing](https://www.alexander-schwing.de/), [Alex Colburn](https://www.colburn.org/).*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10642)] [[Project](https://xiaoming-zhao.github.io/projects/gmpi/)] [[Github](https://github.com/apple/ml-gmpi)]
@@ -661,10 +666,6 @@ SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2202.04040)] [[Project](https://gith
 **SphericGAN: Semi-Supervised Hyper-Spherical Generative Adversarial Networks for Fine-Grained Image Synthesis.**<br>
 *Tianyi Chen, Yunfei Zhang, Xiaoyang Huo, Si Wu, Yong Xu, Hau San Wong.*<br>
 CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_SphericGAN_Semi-Supervised_Hyper-Spherical_Generative_Adversarial_Networks_for_Fine-Grained_Image_Synthesis_CVPR_2022_paper.html)]
-
-**Face Image Retrieval With Attribute Manipulation.**<br>
-*[Alireza Zaeemzadeh](https://zaeemzadeh.com/), Shabnam Ghadar, Baldo Faieta, Zhe Lin, Nazanin Rahnavard, Mubarak Shah, Ratheesh Kalarot.*<br>
-CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Zaeemzadeh_Face_Image_Retrieval_With_Attribute_Manipulation_ICCV_2021_paper.html)]
 
 **Sound-Guided Semantic Image Manipulation.**<br>
 *Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim.*<br>
@@ -710,6 +711,10 @@ BMVC 2021 (Oral). [[PDF](https://arxiv.org/abs/2107.07224)]
 *Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.00871)] [[Github](https://github.com/ktrk115/const_layout)]
 
+**Face Image Retrieval With Attribute Manipulation.**<br>
+*[Alireza Zaeemzadeh](https://zaeemzadeh.com/), Shabnam Ghadar, Baldo Faieta, Zhe Lin, Nazanin Rahnavard, Mubarak Shah, Ratheesh Kalarot.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Zaeemzadeh_Face_Image_Retrieval_With_Attribute_Manipulation_ICCV_2021_paper.html)]
+
 **StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation.**<br>
 *Wongjong Jang, Gwangjin Ju, [Yucheol Jung](https://ycjung.info/), [Jiaolong Yang](http://jlyang.org/), [Xin Tong](https://www.microsoft.com/en-us/research/people/xtong/), [Seungyong Lee](http://phome.postech.ac.kr/~leesy/).*<br>
 TOG 2021. [[PDF](https://arxiv.org/pdf/2107.04331.pdf)] [[Github](https://github.com/PeterZhouSZ/StyleCariGAN)]
@@ -749,6 +754,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.co
 **DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
+
+**Robust Sound-Guided Image Manipulation.**<br>
+*Seung Hyun Lee, Chanyoung Kim, Wonmin Byeon, Gyeongrok Oh, Jooyoung Lee, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2208.14114)]
 
 **Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
 *Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
@@ -809,6 +818,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
 
 ### image restoration
+
+**High-Fidelity Image Inpainting with GAN Inversion.**<br>
+*Yongsheng Yu, Libo Zhang, Heng Fan, Tiejian Luo.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/pdf/2203.16669)]
 
 **Escaping Data Scarcity for High-Resolution Heterogeneous Face Hallucination.**<br>
 *Yiqun Mei, Pengfei Guo, Vishal M. Patel.*<br>
