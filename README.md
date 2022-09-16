@@ -457,6 +457,10 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezh
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
 
+**Exploring Gradient-based Multi-directional Controls in GANs.**<br>
+*Zikun Chen, Ruowei Jiang, Brendan Duke, Han Zhao, Parham Aarabi.*<br>
+ECCV 2022 (oral). [[PDF](https://arxiv.org/abs/2209.00698)] [[Project](https://github.com/zikuncshelly/GradCtrl)] 
+
 **Hierarchical Semantic Regularization of Latent Spaces in StyleGANs.**<br>
 *Tejan Karmali, Rishubh Parihar, Susmit Agrawal, Harsh Rangwani, Varun Jampani, Maneesh Singh, R. Venkatesh Babu.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03764)] [[Project](https://sites.google.com/view/hsr-eccv22/)] 
@@ -627,6 +631,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ### image and video generation and manipulation
 
+**Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models.**<br>
+*Chen Henry Wu, Saman Motamed, Shaunak Srivastava, Fernando De la Torre.*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2209.06970)] [[Github](https://github.com/ChenWu98/Generative-Visual-Prompt)]
+
 **3D-FM GAN: Towards 3D-Controllable Face Manipulation.**<br>
 *[Yuchen Liu](https://lychenyoko.github.io/), Zhixin Shu, Yijun Li, Zhe Lin, Richard Zhang, and Sun-Yuan Kung.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2208.11257)] [[Project](https://lychenyoko.github.io/3D-FM-GAN-Webpage/)]
@@ -754,6 +762,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.co
 **DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
+
+**Generalized One-shot Domain Adaption of Generative Adversarial Networks.**<br>
+*Zicheng Zhang, Yinglu Liu, Congying Han, Tiande Guo, Ting Yao, Tao Mei.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.03665)]
 
 **Robust Sound-Guided Image Manipulation.**<br>
 *Seung Hyun Lee, Chanyoung Kim, Wonmin Byeon, Gyeongrok Oh, Jooyoung Lee, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim.*<br>
