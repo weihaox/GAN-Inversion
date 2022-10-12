@@ -2,8 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox.awesome-gan-inversion) 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox)  -->
+![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox/awesome-gan-inversion) 
 
 <br />
 <p align="center">
@@ -121,9 +120,21 @@ This part contatins generatal inversion methods, while methods in the next *appl
 
 ### 2D GAN inversion
 
+**IntereStyle: Encoding an Interest Region for Robust StyleGAN Inversion.**<br>
+*Seungjun Moon, GyeongMoon Park.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2209.10811)] 
+
+**High-fidelity GAN Inversion with Padding Space.**<br>
+*[Qingyan Bai](https://ezioby.github.io/padinv/), Yinghao Xu, Jiapeng Zhu, Weihao Xia, Yujiu Yang, Yujun Shen.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2203.11105)] [[Project](https://github.com/EzioBy/padinv)] [[Github](https://github.com/EzioBy/padinv)]
+
 **Chunkmogrify: Real image inversion via Segments.**<br>
 *[David Futschik](https://dcgi.fel.cvut.cz/people/futscdav), [Michal Lukáč](https://research.adobe.com/person/michal-lukac/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Daniel Sýkora](https://dcgi.fel.cvut.cz/home/sykorad/).*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2110.06269)] [[Github](https://github.com/futscdav/Chunkmogrify)]
+
+**Feature-Style Encoder for Style-Based GAN Inversion.**<br>
+*Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2202.02183)] [[Github](https://github.com/InterDigitalInc/FeatureStyleEncoder)]
 
 **Third Time's the Charm? Image and Video Editing with StyleGAN3.**<br>
 *Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or.*<br>
@@ -165,6 +176,14 @@ ICLR 2022. [[PDF](https://arxiv.org/abs/2110.11323)]
 *Mustafa Shukor, Xu Yao, Bharath Bushan Damodaran, Pierre Hellier.*<br>
 ICIP 2022. [[PDF](https://arxiv.org/abs/2206.14892)]
 
+**LSAP: Rethinking Inversion Fidelity, Perception and Editability in GAN Latent Space.**<br>
+*Cao Pu, Lu Yang, Dongxv Liu, Zhiwei Liu, Wenguan Wang, Shan Li, Qing Song.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.12746)]
+
+**Near Perfect GAN Inversion.**<br>
+*Qianli Feng, Viraj Shah, Raghudeep Gadde, Pietro Perona, Aleix Martinez.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.11833)]
+
 **Video2StyleGAN: Encoding Video in Latent Space for Manipulation.**<br>
 *Jiyang Yu, Jingen Liu, Jing Huang, Wei Zhang, Tao Mei.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2206.13078)]
@@ -181,17 +200,9 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2204.12530)]
 *[Trevine Oorloff](https://trevineoorloff.github.io/), [Yaser Yacoob](https://www.umiacs.umd.edu/people/yaser).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.14512)] [[Project](https://trevineoorloff.github.io/Encode-in-Style.io/)] [[Github](https://github.com/trevineoorloff/Encode-in-Style)] [[Data](https://trevineoorloff.github.io/Encode-in-Style.io/)]
 
-**High-fidelity GAN Inversion with Padding Space.**<br>
-*[Qingyan Bai](https://ezioby.github.io/padinv/), Yinghao Xu, Jiapeng Zhu, Weihao Xia, Yujiu Yang, Yujun Shen.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.11105)] [[Project](https://github.com/EzioBy/padinv)] [[Github](https://github.com/EzioBy/padinv)]
-
 **Solving Inverse Problems with NerfGANs.**<br>
 *Giannis Daras, Wen-Sheng Chu, Abhishek Kumar, Dmitry Lagun, Alexandros G. Dimakis.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2112.09061)]
-
-**Feature-Style Encoder for Style-Based GAN Inversion.**<br>
-*Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.02183)] [[Github](https://github.com/InterDigitalInc/FeatureStyleEncoder)]
 
 **StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.**<br>
 *Min Jin Chong, Hsin-Ying Lee, David Forsyth.*<br>
@@ -631,6 +642,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ### image and video generation and manipulation
 
+**DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing.**<br>
+*Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi.*<br>
+WACV 2023. [[PDF](https://arxiv.org/abs/2109.10737)] [[Github](https://github.com/phycvgan/DyStyle)]
+
 **Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models.**<br>
 *Chen Henry Wu, Saman Motamed, Shaunak Srivastava, Fernando De la Torre.*<br>
 NeurIPS 2022. [[PDF](https://arxiv.org/abs/2209.06970)] [[Github](https://github.com/ChenWu98/Generative-Visual-Prompt)]
@@ -786,10 +801,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2201.08361)] [[Project](https://stitch-
 **FEAT: Face Editing with Attention.**<br>
 *Xianxu Hou, Linlin Shen, Or Patashnik, Daniel Cohen-Or, Hui Huang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2202.02713)]
-
-**DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing.**<br>
-*Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2109.10737)] [[Github](https://github.com/phycvgan/DyStyle)]
 
 **Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
 *Yuki Endo, Yoshihiro Kanamori.*<br>
@@ -947,7 +958,11 @@ Human Vision and Electronic Imaging 2021. [[PDF](https://whitneylab.berkeley.edu
 *Gagandeep B. Daroach, Josiah A. Yoder, Kenneth A. Iczkowski, Peter S. LaViolette.*<br>
 BIOIMAGING 2021. [[PDF](https://www.scitepress.org/Papers/2021/103939/103939.pdf)]
 
-### compression and security
+### compression, fairness, and security
+
+**FairStyle: Debiasing StyleGAN2 with Style Channel Manipulations.**<br>
+*Cemre Karakas, Alara Dirik, Eylul Yalcinkaya, Pinar Yanardag.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.06240)] [[Project](https://catlab-team.github.io/fairstyle/)] [[Code](https://drive.google.com/drive/folders/1PW7w80ZKuLnjnxJNeNkYxXUFvVYi6I6H?usp=sharing)]
 
 **Video Coding Using Learned Latent GAN Compression.**<br>
 *Mustafa Shukor, Bharath Bhushan Damodaran, Xu Yao, Pierre Hellier.*<br>
