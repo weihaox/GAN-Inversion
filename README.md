@@ -120,6 +120,10 @@ This part contatins generatal inversion methods, while methods in the next *appl
 
 ### 2D GAN inversion
 
+**Editing Out-of-Domain GAN Inversion via Differential Activations.**<br>
+*Haorui Song, Yong Du, Tianyi Xiang, Junyu Dong, Jing Qin, Shengfeng He.*<br>
+ECCV 2022. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5504_ECCV_2022_paper.php)] [[Github](https://github.com/HaoruiSong622/Editing-Out-of-Domain)]
+
 **IntereStyle: Encoding an Interest Region for Robust StyleGAN Inversion.**<br>
 *Seungjun Moon, GyeongMoon Park.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2209.10811)] 
@@ -132,7 +136,7 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2203.11105)] [[Project](https://github.c
 *[David Futschik](https://dcgi.fel.cvut.cz/people/futscdav), [Michal Lukáč](https://research.adobe.com/person/michal-lukac/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Daniel Sýkora](https://dcgi.fel.cvut.cz/home/sykorad/).*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2110.06269)] [[Github](https://github.com/futscdav/Chunkmogrify)]
 
-**Feature-Style Encoder for Style-Based GAN Inversion.**<br>
+**A Style-Based GAN Encoder for High Fidelity Reconstruction of Images and Videos.**<br>
 *Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2202.02183)] [[Github](https://github.com/InterDigitalInc/FeatureStyleEncoder)]
 
@@ -175,6 +179,10 @@ ICLR 2022. [[PDF](https://arxiv.org/abs/2110.11323)]
 **Semantic Unfolding of StyleGAN Latent Space.**<br>
 *Mustafa Shukor, Xu Yao, Bharath Bushan Damodaran, Pierre Hellier.*<br>
 ICIP 2022. [[PDF](https://arxiv.org/abs/2206.14892)]
+
+**Learning a 3D-Aware Encoder for Style-based Generative Radiance Field .**<br>
+*Anonymous.*<br>
+ICLR 2023 Conference Blind Submission. [[PDF](https://openreview.net/forum?id=W4ub8fyCpED)]
 
 **LSAP: Rethinking Inversion Fidelity, Perception and Editability in GAN Latent Space.**<br>
 *Cao Pu, Lu Yang, Dongxv Liu, Zhiwei Liu, Wenguan Wang, Shan Li, Qing Song.*<br>
@@ -471,6 +479,10 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezh
 ## latent space navigation
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
+
+**Rayleigh EigenDirections (REDs): Nonlinear GAN Latent Space Traversals for Multidimensional Features.**<br>
+*Guha Balakrishnan, Raghudeep Gadde, Aleix Martinez, Pietro Perona.*<br>
+ECCV 2022. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7277_ECCV_2022_paper.php)]
 
 **Exploring Gradient-based Multi-directional Controls in GANs.**<br>
 *Zikun Chen, Ruowei Jiang, Brendan Duke, Han Zhao, Parham Aarabi.*<br>
