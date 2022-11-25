@@ -190,7 +190,7 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2209.12746)]
 
 **Near Perfect GAN Inversion.**<br>
 *Qianli Feng, Viraj Shah, Raghudeep Gadde, Pietro Perona, Aleix Martinez.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.11833)]
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.11833)] [[Slides](https://virajshah.com/assets/Near-perfect-GAN-inversion_feb22.pdf)]
 
 **Video2StyleGAN: Encoding Video in Latent Space for Manipulation.**<br>
 *Jiyang Yu, Jingen Liu, Jing Huang, Wei Zhang, Tao Mei.*<br>
@@ -657,6 +657,14 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 ## application
 
 ### image and video generation and manipulation
+
+**MultiStyleGAN: Multiple One-shot Face Stylizations using a Single GAN.**<br>
+*[Viraj Shah](https://virajshah.com/), [Svetlana Lazebnik](https://slazebni.cs.illinois.edu/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.04120)] [[Project](https://virajshah.com/multistyle)] [[Github](https://github.com/shahviraj/)]
+
+**JoJoGAN: One Shot Face Stylization.**<br>
+*Min Jin Chong, David Forsyth.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2112.11641)] [[Github](https://github.com/mchong6/JoJoGAN)]
 
 **DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing.**<br>
 *Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi.*<br>
