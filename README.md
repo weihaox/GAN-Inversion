@@ -458,17 +458,25 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ### 3D GAN inverson
 
-**3D GAN Inversion with Pose Optimization.**<br>
-*Jaehoon Ko, Kyusun Cho, Daewon Choi, Kwangrok Ryoo, Seungryong Kim.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2210.07301)] [[Project](https://ku-cvlab.github.io/INR-st/)]
+**High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization.**<br>
+*[Jiaxin Xie](https://jiaxinxie97.github.io/Jiaxin-Xie/), [Hao Ouyang](https://ken-ouyang.github.io/), [Jingtan Piao](https://ken-ouyang.github.io/HFGI3D/index.html), [Chenyang Lei](https://chenyanglei.github.io/), [Qifeng Chen](https://cqf.io/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2211.15662)] [[Project](https://ken-ouyang.github.io/HFGI3D/index.html)]
+
+**Learning Detailed Radiance Manifolds for High-Fidelity and 3D-Consistent Portrait Synthesis from Monocular Image.**<br>
+*Yu Deng, Baoyuan Wang, Heung-Yeung Shum.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2211.13901)] [[Project](https://yudeng.github.io/GRAMInverter/)]
 
 **3D GAN Inversion for Controllable Portrait Image Animation.**<br>
 *[Connor Z. Lin](https://connorzlin.com/), David B. Lindell, Eric R. Chan, [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.13441)] [[Project](https://www.computationalimaging.org/publications/3dganinversion/)]
+ECCV 2022 Workshop on Learning to Generate 3D Shapes and Scenes. [[PDF](https://arxiv.org/abs/2203.13441)] [[Project](https://www.computationalimaging.org/publications/3dganinversion/)]
+
+**3D GAN Inversion with Pose Optimization.**<br>
+*Jaehoon Ko, Kyusun Cho, Daewon Choi, Kwangrok Ryoo, Seungryong Kim.*<br>
+WACV 2023. [[PDF](https://arxiv.org/abs/2210.07301)] [[Project](https://3dgan-inversion.github.io/)]
 
 **Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation.**<br>
 *Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 
 **Unsupervised 3D Shape Completion through GAN-Inversion.**<br>
 *[Junzhe Zhang](https://junzhezhang.github.io/), Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
@@ -658,13 +666,9 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 
 ### image and video generation and manipulation
 
-**MultiStyleGAN: Multiple One-shot Face Stylizations using a Single GAN.**<br>
-*[Viraj Shah](https://virajshah.com/), [Svetlana Lazebnik](https://slazebni.cs.illinois.edu/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2210.04120)] [[Project](https://virajshah.com/multistyle)] [[Github](https://github.com/shahviraj/)]
-
-**JoJoGAN: One Shot Face Stylization.**<br>
-*Min Jin Chong, David Forsyth.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2112.11641)] [[Github](https://github.com/mchong6/JoJoGAN)]
+**Stitch it in Time: GAN-Based Facial Editing of Real Videos.**<br>
+*Rotem Tzaban, Ron Mokady, Rinon Gal, Amit H. Bermano, Daniel Cohen-Or.*<br>
+SIGGRAPH Asia, 2022. [[PDF](https://arxiv.org/abs/2201.08361)] [[Project](https://stitch-time.github.io/)] [[Github](https://github.com/rotemtzaban/STIT)]
 
 **DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing.**<br>
 *Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi.*<br>
@@ -798,6 +802,18 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03891)] [[Github](https://github.co
 *[Hyunsu Kim](https://github.com/blandocs), [Yunjey Choi](https://yunjey.github.io/), [Junho Kim](https://github.com/taki0112), [Sungjoo Yoo](http://cmalab.snu.ac.kr/), [Youngjung Uh](https://github.com/youngjung).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.com/naver-ai/StyleMapGAN)]
 
+**Delving StyleGAN Inversion for Image Editing: A Foundation Latent Space Viewpoint.**<br>
+*Hongyu Liu, Yibing Song, Qifeng Chen.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2211.11448)] [[Project](https://github.com/KumapowerLIU/CLCAE)]
+
+**MultiStyleGAN: Multiple One-shot Face Stylizations using a Single GAN.**<br>
+*[Viraj Shah](https://virajshah.com/), [Svetlana Lazebnik](https://slazebni.cs.illinois.edu/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.04120)] [[Project](https://virajshah.com/multistyle)] [[Github](https://github.com/shahviraj/)]
+
+**JoJoGAN: One Shot Face Stylization.**<br>
+*Min Jin Chong, David Forsyth.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2112.11641)] [[Github](https://github.com/mchong6/JoJoGAN)]
+
 **DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
@@ -817,10 +833,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2207.09446)]
 **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.**<br>
 *Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2207.09446)] [[Project](https://textual-inversion.github.io/)] [[Github](https://github.com/rinongal/textual_inversion)]
-
-**Stitch it in Time: GAN-Based Facial Editing of Real Videos.**<br>
-*Rotem Tzaban, Ron Mokady, Rinon Gal, Amit H. Bermano, Daniel Cohen-Or.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2201.08361)] [[Project](https://stitch-time.github.io/)] [[Github](https://github.com/rotemtzaban/STIT)]
 
 **FEAT: Face Editing with Attention.**<br>
 *Xianxu Hou, Linlin Shen, Or Patashnik, Daniel Cohen-Or, Hui Huang.*<br>
