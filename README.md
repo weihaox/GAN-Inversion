@@ -802,6 +802,19 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03891)] [[Github](https://github.co
 *[Hyunsu Kim](https://github.com/blandocs), [Yunjey Choi](https://yunjey.github.io/), [Junho Kim](https://github.com/taki0112), [Sungjoo Yoo](http://cmalab.snu.ac.kr/), [Youngjung Uh](https://github.com/youngjung).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.com/naver-ai/StyleMapGAN)]
 
+**NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation.**<br>
+*Yu Yin, Kamran Ghasedi, HsiangTao Wu, Jiaolong Yang, Xin Tong, Yun Fu.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.17235)]
+
+
+**Fine-Grained Face Swapping via Regional GAN Inversion.**<br>
+*Zhian Liu, Maomao Li, Yong Zhang, Cairong Wang, Qi Zhang, Jue Wang, Yongwei Nie.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.14068)] [[Project](http://e4s2022.github.io)]
+
+**Unsupervised Domain Adaptation GAN Inversion for Image Editing.**<br>
+*Siyu Xing, Chen Gong, Hewei Guo, Xiao-Yu Zhang, Xinwen Hou, Yu Liu.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.12123)]
+
 **Delving StyleGAN Inversion for Image Editing: A Foundation Latent Space Viewpoint.**<br>
 *Hongyu Liu, Yibing Song, Qifeng Chen.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2211.11448)] [[Project](https://github.com/KumapowerLIU/CLCAE)]
