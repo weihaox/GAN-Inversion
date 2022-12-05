@@ -458,6 +458,10 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ### 3D GAN inverson
 
+**LatentSwap3D: Semantic Edits on 3D Image GANs.**<br>
+*Enis Simsar, Alessio Tonioni, Evin Pınar Örnek, Federico Tombari.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2212.01381)]
+
 **High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization.**<br>
 *[Jiaxin Xie](https://jiaxinxie97.github.io/Jiaxin-Xie/), [Hao Ouyang](https://ken-ouyang.github.io/), [Jingtan Piao](https://ken-ouyang.github.io/HFGI3D/index.html), [Chenyang Lei](https://chenyanglei.github.io/), [Qifeng Chen](https://cqf.io/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2211.15662)] [[Project](https://ken-ouyang.github.io/HFGI3D/index.html)]
@@ -465,6 +469,10 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2211.15662)] [[Project](https://ken-ouy
 **Learning Detailed Radiance Manifolds for High-Fidelity and 3D-Consistent Portrait Synthesis from Monocular Image.**<br>
 *Yu Deng, Baoyuan Wang, Heung-Yeung Shum.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2211.13901)] [[Project](https://yudeng.github.io/GRAMInverter/)]
+
+**Learning a 3D-Aware Encoder for Style-based Generative Radiance Field.**<br>
+*Yu-Jhe Li, Tao Xu, Bichen Wu, Ningyuan Zheng, Xiaoliang Dai, Albert Pumarola, Peizhao Zhang, Peter Vajda, Kris M. Kitani.*<br> 
+2022. [[PDF](https://.net/forum?id=W4ub8fyCpED)]
 
 **3D GAN Inversion for Controllable Portrait Image Animation.**<br>
 *[Connor Z. Lin](https://connorzlin.com/), David B. Lindell, Eric R. Chan, [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
@@ -665,6 +673,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.co
 ## application
 
 ### image and video generation and manipulation
+
+**Dr.3D: Adapting 3D GANs to Artistic Drawings.**<br>
+*Wonjoon Jin, Nuri Ryu, Geonung Kim, Seung-Hwan Baek, Sunghyun Cho.*<br>
+SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/abs/2211.16798)] [[Project](https://jinwonjoon.github.io/dr3d/)] 
 
 **Stitch it in Time: GAN-Based Facial Editing of Real Videos.**<br>
 *Rotem Tzaban, Ron Mokady, Rinon Gal, Amit H. Bermano, Daniel Cohen-Or.*<br>
