@@ -118,6 +118,40 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoamo
 
 This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
 
+### 3D GAN inverson
+
+**LatentSwap3D: Semantic Edits on 3D Image GANs.**<br>
+*Enis Simsar, Alessio Tonioni, Evin Pınar Örnek, Federico Tombari.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2212.01381)]
+
+**High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization.**<br>
+*[Jiaxin Xie](https://jiaxinxie97.github.io/Jiaxin-Xie/), [Hao Ouyang](https://ken-ouyang.github.io/), [Jingtan Piao](https://ken-ouyang.github.io/HFGI3D/index.html), [Chenyang Lei](https://chenyanglei.github.io/), [Qifeng Chen](https://cqf.io/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2211.15662)] [[Project](https://ken-ouyang.github.io/HFGI3D/index.html)]
+
+**Learning Detailed Radiance Manifolds for High-Fidelity and 3D-Consistent Portrait Synthesis from Monocular Image.**<br>
+*Yu Deng, Baoyuan Wang, Heung-Yeung Shum.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2211.13901)] [[Project](https://yudeng.github.io/GRAMInverter/)]
+
+**Learning a 3D-Aware Encoder for Style-based Generative Radiance Field.**<br>
+*Yu-Jhe Li, Tao Xu, Bichen Wu, Ningyuan Zheng, Xiaoliang Dai, Albert Pumarola, Peizhao Zhang, Peter Vajda, Kris M. Kitani.*<br> 
+2022. [[PDF](https://.net/forum?id=W4ub8fyCpED)]
+
+**3D GAN Inversion for Controllable Portrait Image Animation.**<br>
+*[Connor Z. Lin](https://connorzlin.com/), David B. Lindell, Eric R. Chan, [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
+ECCV 2022 Workshop on Learning to Generate 3D Shapes and Scenes. [[PDF](https://arxiv.org/abs/2203.13441)] [[Project](https://www.computationalimaging.org/publications/3dganinversion/)]
+
+**3D GAN Inversion with Pose Optimization.**<br>
+*Jaehoon Ko, Kyusun Cho, Daewon Choi, Kwangrok Ryoo, Seungryong Kim.*<br>
+WACV 2023. [[PDF](https://arxiv.org/abs/2210.07301)] [[Project](https://3dgan-inversion.github.io/)]
+
+**Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation.**<br>
+*Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
+
+**Unsupervised 3D Shape Completion through GAN-Inversion.**<br>
+*[Junzhe Zhang](https://junzhezhang.github.io/), Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
+
 ### 2D GAN inversion
 
 **Editing Out-of-Domain GAN Inversion via Differential Activations.**<br>
@@ -455,40 +489,6 @@ NeurIPS 2016 Workshop. [[PDF](https://arxiv.org/abs/1611.05644)]
 **Generative Visual Manipulation on the Natural Image Manifold.**<br>
 *Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros.*<br>
 ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
-
-### 3D GAN inverson
-
-**LatentSwap3D: Semantic Edits on 3D Image GANs.**<br>
-*Enis Simsar, Alessio Tonioni, Evin Pınar Örnek, Federico Tombari.*<br> 
-arXiv 2022. [[PDF](https://arxiv.org/abs/2212.01381)]
-
-**High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization.**<br>
-*[Jiaxin Xie](https://jiaxinxie97.github.io/Jiaxin-Xie/), [Hao Ouyang](https://ken-ouyang.github.io/), [Jingtan Piao](https://ken-ouyang.github.io/HFGI3D/index.html), [Chenyang Lei](https://chenyanglei.github.io/), [Qifeng Chen](https://cqf.io/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2211.15662)] [[Project](https://ken-ouyang.github.io/HFGI3D/index.html)]
-
-**Learning Detailed Radiance Manifolds for High-Fidelity and 3D-Consistent Portrait Synthesis from Monocular Image.**<br>
-*Yu Deng, Baoyuan Wang, Heung-Yeung Shum.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2211.13901)] [[Project](https://yudeng.github.io/GRAMInverter/)]
-
-**Learning a 3D-Aware Encoder for Style-based Generative Radiance Field.**<br>
-*Yu-Jhe Li, Tao Xu, Bichen Wu, Ningyuan Zheng, Xiaoliang Dai, Albert Pumarola, Peizhao Zhang, Peter Vajda, Kris M. Kitani.*<br> 
-2022. [[PDF](https://.net/forum?id=W4ub8fyCpED)]
-
-**3D GAN Inversion for Controllable Portrait Image Animation.**<br>
-*[Connor Z. Lin](https://connorzlin.com/), David B. Lindell, Eric R. Chan, [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
-ECCV 2022 Workshop on Learning to Generate 3D Shapes and Scenes. [[PDF](https://arxiv.org/abs/2203.13441)] [[Project](https://www.computationalimaging.org/publications/3dganinversion/)]
-
-**3D GAN Inversion with Pose Optimization.**<br>
-*Jaehoon Ko, Kyusun Cho, Daewon Choi, Kwangrok Ryoo, Seungryong Kim.*<br>
-WACV 2023. [[PDF](https://arxiv.org/abs/2210.07301)] [[Project](https://3dgan-inversion.github.io/)]
-
-**Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation.**<br>
-*Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
-
-**Unsupervised 3D Shape Completion through GAN-Inversion.**<br>
-*[Junzhe Zhang](https://junzhezhang.github.io/), Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
 
 <p width="100%" align="right"><a href="#">🔝</a></p>
 
