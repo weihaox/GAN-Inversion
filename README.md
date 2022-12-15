@@ -120,6 +120,12 @@ This part contatins generatal inversion methods, while methods in the next *appl
 
 ### 3D GAN inverson
 
+**E3DGE: Self-Supervised Geometry-Aware Encoder for Style-based 3D GAN Inversion.**<br>
+*Yushi Lan, Xuyi Meng, Shuai Yang, Chen Change Loy, Bo Dai.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2212.07409)]
+[[Project](https://nirvanalan.github.io/projects/E3DGE/index.html)]
+[[Github](https://github.com/NIRVANALAN/E3DGE)]
+
 **LatentSwap3D: Semantic Edits on 3D Image GANs.**<br>
 *Enis Simsar, Alessio Tonioni, Evin Pınar Örnek, Federico Tombari.*<br> 
 arXiv 2022. [[PDF](https://arxiv.org/abs/2212.01381)]
