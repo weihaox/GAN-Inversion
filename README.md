@@ -159,6 +159,9 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
 
 ### 2D GAN inversion
+**Intra-Source Style Augmentation for Improved Domain Generalization (Masked Noise Encoder).**<br>
+*Yumeng Li, Dan Zhang, Margret Keuper, Anna Khoreva.*<br>
+WACV 2023. [[PDF](https://arxiv.org/pdf/2210.10175.pdf)]
 
 **Editing Out-of-Domain GAN Inversion via Differential Activations.**<br>
 *Haorui Song, Yong Du, Tianyi Xiang, Junyu Dong, Jing Qin, Shengfeng He.*<br>
