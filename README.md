@@ -224,6 +224,10 @@ ICIP 2022. [[PDF](https://arxiv.org/abs/2206.14892)]
 *Anonymous.*<br>
 ICLR 2023 Conference Blind Submission. [[PDF](https://openreview.net/forum?id=W4ub8fyCpED)]
 
+**Photo-Realistic Out-of-domain GAN inversion via Invertibility Decomposition.**<br>
+*Xin Yang, Xiaogang Xu, Yingcong Chen.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2212.09262)]
+
 **LSAP: Rethinking Inversion Fidelity, Perception and Editability in GAN Latent Space.**<br>
 *Cao Pu, Lu Yang, Dongxv Liu, Zhiwei Liu, Wenguan Wang, Shan Li, Qing Song.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2209.12746)]
