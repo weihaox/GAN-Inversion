@@ -132,7 +132,7 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2212.01381)]
 
 **High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization.**<br>
 *[Jiaxin Xie](https://jiaxinxie97.github.io/Jiaxin-Xie/), [Hao Ouyang](https://ken-ouyang.github.io/), [Jingtan Piao](https://ken-ouyang.github.io/HFGI3D/index.html), [Chenyang Lei](https://chenyanglei.github.io/), [Qifeng Chen](https://cqf.io/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2211.15662)] [[Project](https://ken-ouyang.github.io/HFGI3D/index.html)]
+arxiv 2022. [[PDF](https://arxiv.org/abs/2211.15662)] [[Project](https://ken-ouyang.github.io/HFGI3D/index.html)] [[Github](https://github.com/jiaxinxie97/HFGI3D/)]
 
 **Learning Detailed Radiance Manifolds for High-Fidelity and 3D-Consistent Portrait Synthesis from Monocular Image.**<br>
 *Yu Deng, Baoyuan Wang, Heung-Yeung Shum.*<br>
@@ -148,7 +148,7 @@ ECCV 2022 Workshop on Learning to Generate 3D Shapes and Scenes. [[PDF](https://
 
 **3D GAN Inversion with Pose Optimization.**<br>
 *Jaehoon Ko, Kyusun Cho, Daewon Choi, Kwangrok Ryoo, Seungryong Kim.*<br>
-WACV 2023. [[PDF](https://arxiv.org/abs/2210.07301)] [[Project](https://3dgan-inversion.github.io/)]
+WACV 2023. [[PDF](https://arxiv.org/abs/2210.07301)] [[Project](https://3dgan-inversion.github.io/)] [[Github](https://github.com/KU-CVLAB/3DGAN-Inversion)]
 
 **Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation.**<br>
 *Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool.*<br>
