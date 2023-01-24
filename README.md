@@ -159,6 +159,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
 
 ### 2D GAN inversion
+
 **Intra-Source Style Augmentation for Improved Domain Generalization (Masked Noise Encoder).**<br>
 *Yumeng Li, Dan Zhang, Margret Keuper, Anna Khoreva.*<br>
 WACV 2023. [[PDF](https://arxiv.org/pdf/2210.10175.pdf)]
@@ -231,6 +232,10 @@ ICLR 2023 Conference Blind Submission. [[PDF](https://openreview.net/forum?id=W4
 *Xin Yang, Xiaogang Xu, Yingcong Chen.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2212.09262)]
 
+**WaGI : Wavelet-based GAN Inversion for Preserving High-frequency Image Details.**<br>
+*Seung-Jun Moon, Chaewon Kim, Gyeong-Moon Park.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.09655)]
+
 **LSAP: Rethinking Inversion Fidelity, Perception and Editability in GAN Latent Space.**<br>
 *Cao Pu, Lu Yang, Dongxv Liu, Zhiwei Liu, Wenguan Wang, Shan Li, Qing Song.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2209.12746)]
@@ -242,10 +247,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.11833)] [[Slides](https://virajsha
 **Video2StyleGAN: Encoding Video in Latent Space for Manipulation.**<br>
 *Jiyang Yu, Jingen Liu, Jing Huang, Wei Zhang, Tao Mei.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2206.13078)]
-
-**Editing Out-of-domain GAN Inversion via Differential Activations.**<br>
-*Haorui Song, Yong Du, Tianyi Xiang, Junyu Dong, Jing Qin, Shengfeng He*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2207.08134)] [[Github](https://github.com/HaoruiSong622/Editing-Out-of-Domain)]
 
 **Expanding the Latent Space of StyleGAN for Real Face Editing.**<br>
 *Yin Yu, Ghasedi Kamran, Wu HsiangTao, Yang Jiaolong, Tong Xi, Fu Yun.*<br>
