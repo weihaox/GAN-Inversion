@@ -147,7 +147,7 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2211.13901)] [[Project](https://yudeng.
 ECCV 2022 Workshop on Learning to Generate 3D Shapes and Scenes. [[PDF](https://arxiv.org/abs/2203.13441)] [[Project](https://www.computationalimaging.org/publications/3dganinversion/)]
 
 **3D GAN Inversion with Pose Optimization.**<br>
-*Jaehoon Ko, Kyusun Cho, Daewon Choi, Kwangrok Ryoo, Seungryong Kim.*<br>
+*[Jaehoon Ko](https://scholar.google.com/citations?view_op=list_works&hl=en&user=ySBl-10AAAAJ), [Kyusun Cho](https://scholar.google.com/citations?user=ToQ-jEIAAAAJ&hl=en&oi=ao), [Daewon Choi](https://github.com/ChoiDae1), [Kwangrok Ryoo](https://cvlab.korea.ac.kr/members), [Seungryong Kim](https://cvlab.korea.ac.kr/members).*<br>
 WACV 2023. [[PDF](https://arxiv.org/abs/2210.07301)] [[Project](https://3dgan-inversion.github.io/)] [[Github](https://github.com/KU-CVLAB/3DGAN-Inversion)]
 
 **Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation.**<br>
@@ -228,6 +228,10 @@ ICIP 2022. [[PDF](https://arxiv.org/abs/2206.14892)]
 *Anonymous.*<br>
 ICLR 2023 Conference Blind Submission. [[PDF](https://openreview.net/forum?id=W4ub8fyCpED)]
 
+**What Decreases Editing Capability? Domain-Specific Hybrid Refinement for Improved GAN Inversion.**<br>
+*Pu Cao, Lu Yang, Dongxu Liu, Zhiwei Liu, Shan Li, Qing Song.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2301.12141)]
+
 **Photo-Realistic Out-of-domain GAN inversion via Invertibility Decomposition.**<br>
 *Xin Yang, Xiaogang Xu, Yingcong Chen.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2212.09262)]
@@ -236,9 +240,13 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2212.09262)]
 *Seung-Jun Moon, Chaewon Kim, Gyeong-Moon Park.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.09655)]
 
+**ReGANIE: Rectifying GAN Inversion Errors for Accurate Real Image Editing.**<br>
+*Bingchuan Li, Tianxiang Ma, Peng Zhang, Miao Hua, Wei Liu, Qian He, Zili Yi.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2301.13402)]
+
 **LSAP: Rethinking Inversion Fidelity, Perception and Editability in GAN Latent Space.**<br>
-*Cao Pu, Lu Yang, Dongxv Liu, Zhiwei Liu, Wenguan Wang, Shan Li, Qing Song.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2209.12746)]
+*[Cao Pu](https://github.com/caopulan/GANInverter), Lu Yang, Dongxv Liu, Zhiwei Liu, Wenguan Wang, Shan Li, Qing Song.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.12746)] [[Github](https://github.com/caopulan/GANInverter)]
 
 **Near Perfect GAN Inversion.**<br>
 *Qianli Feng, Viraj Shah, Raghudeep Gadde, Pietro Perona, Aleix Martinez.*<br>
@@ -740,6 +748,10 @@ ICIP 2022. [[PDF](https://arxiv.org/abs/2110.04854)]
 *Yunzhe Liu, Rinon Gal, Amit H. Bermano, Baoquan Chen, Daniel Cohen-Or.*<br>
 SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2202.04040)] [[Project](https://github.com/yzliu567/sc-gan)]
 
+**StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators.**<br>
+*[Rinon Gal](https://rinongal.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Haggai Maron](https://haggaim.github.io/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2108.00946)] [[Project](https://stylegan-nada.github.io/)] [[Github](https://github.com/rinongal/StyleGAN-nada)]
+
 **SphericGAN: Semi-Supervised Hyper-Spherical Generative Adversarial Networks for Fine-Grained Image Synthesis.**<br>
 *Tianyi Chen, Yunfei Zhang, Xiaoyang Huo, Si Wu, Yong Xu, Hau San Wong.*<br>
 CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_SphericGAN_Semi-Supervised_Hyper-Spherical_Generative_Adversarial_Networks_for_Fine-Grained_Image_Synthesis_CVPR_2022_paper.html)]
@@ -828,10 +840,29 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03891)] [[Github](https://github.co
 *[Hyunsu Kim](https://github.com/blandocs), [Yunjey Choi](https://yunjey.github.io/), [Junho Kim](https://github.com/taki0112), [Sungjoo Yoo](http://cmalab.snu.ac.kr/), [Youngjung Uh](https://github.com/youngjung).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.com/naver-ai/StyleMapGAN)]
 
+**CI-GAN: Cycle-Consistent Inverse GAN for Text-to-Image Synthesis.**<br>
+*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.01361)]
+
+**TediGAN: Text-Guided Diverse Image Generation and Manipulation.**<br>
+*Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ)] [[Github](https://github.com/weihaox/TediGAN)]
+
+**DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
+*yaxing wang, Lu Yu, Joost van de Weijer.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
+
+**DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
+*E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
+
+**In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition.**<br>
+*[Yiran Xu](https://twizwei.github.io/), [Zhixin Shu](https://zhixinshu.github.io/), [Cameron Smith](https://research.adobe.com/person/cameron-smith/), [Jia-Bin Huang](https://jbhuang0604.github.io/), [Seoung Wug Oh]().*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2302.04871)] [[Project](https://in-n-out-3d.github.io/)]
+
 **NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation.**<br>
 *Yu Yin, Kamran Ghasedi, HsiangTao Wu, Jiaolong Yang, Xin Tong, Yun Fu.*<br> 
 arXiv 2022. [[PDF](https://arxiv.org/abs/2211.17235)]
-
 
 **Fine-Grained Face Swapping via Regional GAN Inversion.**<br>
 *Zhian Liu, Maomao Li, Yong Zhang, Cairong Wang, Qi Zhang, Jue Wang, Yongwei Nie.*<br> 
@@ -853,9 +884,9 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2210.04120)] [[Project](https://virajsh
 *Min Jin Chong, David Forsyth.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2112.11641)] [[Github](https://github.com/mchong6/JoJoGAN)]
 
-**DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
-*yaxing wang, Lu Yu, Joost van de Weijer.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
+**Paint by Word.**<br>
+*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
 
 **Generalized One-shot Domain Adaption of Generative Adversarial Networks.**<br>
 *Zicheng Zhang, Yinglu Liu, Congying Han, Tiande Guo, Ting Yao, Tao Mei.*<br>
@@ -892,28 +923,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07751)] [[Project](https://genforc
 **Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
 *Jialu Huang, Jing Liao, Sam Kwong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
-
-### multimodal learning
-
-**StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators.**<br>
-*[Rinon Gal](https://rinongal.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Haggai Maron](https://haggaim.github.io/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
-SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2108.00946)] [[Project](https://stylegan-nada.github.io/)] [[Github](https://github.com/rinongal/StyleGAN-nada)]
-
-**Paint by Word.**<br>
-*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
-
-**CI-GAN: Cycle-Consistent Inverse GAN for Text-to-Image Synthesis.**<br>
-*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
-ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.01361)]
-
-**TediGAN: Text-Guided Diverse Image Generation and Manipulation.**<br>
-*Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ)] [[Github](https://github.com/weihaox/TediGAN)]
-
-**DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
-*E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
-ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
 
 ### image restoration
 
