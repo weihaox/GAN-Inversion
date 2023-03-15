@@ -53,9 +53,21 @@ This repo is a collection of resources on GAN inversion, as a supplement for our
 <details><summary>Table of Contents</summary><p>
 
 - [inverted pretrained model](#inverted-pretrained-model)
+  - [2D GANs](#2d-gans)
+  - [3D-aware GANs](#3d-aware-gans)
 - [inversion method](#inversion-method)
+  - [3D GAN inverson](#3d-gan-inverson)
+  - [2D GAN inversion](#2d-gan-inversion)
 - [latent space navigation](#latent-space-navigation)
 - [application](#application)
+  - [image and video generation and manipulation](#image-and-video-generation-and-manipulation)
+  - [image restoration](#image-restoration)
+  - [image understanding](#image-understanding)
+  - [recognition](#recognition)
+  - [3D](#3d)
+  - [compressed sensing](#compressed-sensing)
+  - [medical imaging](#medical-imaging)
+  - [compression, fairness, and security](#compression-fairness-and-security)
 - [acknowledgement](#acknowledgement)
 
 </p></details><p></p>
@@ -122,7 +134,7 @@ This part contatins generatal inversion methods, while methods in the next *appl
 
 **E3DGE: Self-Supervised Geometry-Aware Encoder for Style-based 3D GAN Inversion.**<br>
 *Yushi Lan, Xuyi Meng, Shuai Yang, Chen Change Loy, Bo Dai.*<br> 
-arXiv 2022. [[PDF](https://arxiv.org/abs/2212.07409)]
+CVPR 2023. [[PDF](https://arxiv.org/abs/2212.07409)]
 [[Project](https://nirvanalan.github.io/projects/E3DGE/index.html)]
 [[Github](https://github.com/NIRVANALAN/E3DGE)]
 
