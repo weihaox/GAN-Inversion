@@ -132,11 +132,19 @@ This part contatins generatal inversion methods, while methods in the next *appl
 
 ### 3D GAN inverson
 
+**Learning Detailed Radiance Manifolds for High-Fidelity and 3D-Consistent Portrait Synthesis from Monocular Image.**<br>
+*Yu Deng, Baoyuan Wang, Heung-Yeung Shum.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.13901)] [[Project](https://yudeng.github.io/GRAMInverter/)]
+
 **E3DGE: Self-Supervised Geometry-Aware Encoder for Style-based 3D GAN Inversion.**<br>
 *Yushi Lan, Xuyi Meng, Shuai Yang, Chen Change Loy, Bo Dai.*<br> 
 CVPR 2023. [[PDF](https://arxiv.org/abs/2212.07409)]
 [[Project](https://nirvanalan.github.io/projects/E3DGE/index.html)]
 [[Github](https://github.com/NIRVANALAN/E3DGE)]
+
+**TriPlaneNet: An Encoder for EG3D Inversion.**<br>
+*Ananta R. Bhattarai, Matthias Nießner, Artem Sevastopolsky.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.13497)] [[Project](https://anantarb.github.io/triplanenet)]
 
 **LatentSwap3D: Semantic Edits on 3D Image GANs.**<br>
 *Enis Simsar, Alessio Tonioni, Evin Pınar Örnek, Federico Tombari.*<br> 
@@ -145,10 +153,6 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2212.01381)]
 **High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization.**<br>
 *[Jiaxin Xie](https://jiaxinxie97.github.io/Jiaxin-Xie/), [Hao Ouyang](https://ken-ouyang.github.io/), [Jingtan Piao](https://ken-ouyang.github.io/HFGI3D/index.html), [Chenyang Lei](https://chenyanglei.github.io/), [Qifeng Chen](https://cqf.io/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2211.15662)] [[Project](https://ken-ouyang.github.io/HFGI3D/index.html)] [[Github](https://github.com/jiaxinxie97/HFGI3D/)]
-
-**Learning Detailed Radiance Manifolds for High-Fidelity and 3D-Consistent Portrait Synthesis from Monocular Image.**<br>
-*Yu Deng, Baoyuan Wang, Heung-Yeung Shum.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2211.13901)] [[Project](https://yudeng.github.io/GRAMInverter/)]
 
 **Learning a 3D-Aware Encoder for Style-based Generative Radiance Field.**<br>
 *Yu-Jhe Li, Tao Xu, Bichen Wu, Ningyuan Zheng, Xiaoliang Dai, Albert Pumarola, Peizhao Zhang, Peter Vajda, Kris M. Kitani.*<br> 
@@ -867,6 +871,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github
 **DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
 *E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
+
+**One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2.**<br>
+*[Trevine Oorloff](https://trevineoorloff.github.io/), [Yaser Yacoob](https://www.umiacs.umd.edu/people/yaser).*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2302.07848)] [[Project](https://trevineoorloff.github.io/FaceVideoReenactment_HybridLatents.io/)]
 
 **In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition.**<br>
 *[Yiran Xu](https://twizwei.github.io/), [Zhixin Shu](https://zhixinshu.github.io/), [Cameron Smith](https://research.adobe.com/person/cameron-smith/), [Jia-Bin Huang](https://jbhuang0604.github.io/), [Seoung Wug Oh]().*<br> 
