@@ -110,6 +110,8 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 ### 3D-aware GANs
 
+Please check our 3D-aware image synthesis [survey](https://arxiv.org/abs/2210.14267), [paper list](https://github.com/weihaox/awesome-3D-aware-synthesis), and [project](https://weihaox.github.io/awesome-3D-aware-synthesis/) for more details. 
+
 **EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks.**<br>
 *[Eric R. Chan](https://ericryanchan.github.io/), [Connor Z. Lin](https://connorzlin.com/), [Matthew A. Chan](https://matthew-a-chan.github.io/), [Koki Nagano](https://luminohope.org/), [Boxiao Pan](https://cs.stanford.edu/~bxpan/), [Shalini De Mello](https://research.nvidia.com/person/shalini-gupta), [Orazio Gallo](https://oraziogallo.github.io/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Jonathan Tremblay](https://research.nvidia.com/person/jonathan-tremblay), [Sameh Khamis](https://www.samehkhamis.com/), [Tero Karras](https://research.nvidia.com/person/tero-karras), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07945)] [[Project](https://matthew-a-chan.github.io/EG3D)] [[Github](https://github.com/NVlabs/eg3d)]
@@ -141,6 +143,10 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2211.13901)] [[Project](https://yudeng.g
 CVPR 2023. [[PDF](https://arxiv.org/abs/2212.07409)]
 [[Project](https://nirvanalan.github.io/projects/E3DGE/index.html)]
 [[Github](https://github.com/NIRVANALAN/E3DGE)]
+
+**Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding.**<br>
+*Ziyang Yuan, Yiming Zhu, Yu Li, Hongyu Liu, Chun Yuan.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.12326)] [[Project](https://eg3d-goae.github.io/)]
 
 **TriPlaneNet: An Encoder for EG3D Inversion.**<br>
 *Ananta R. Bhattarai, Matthias Nießner, Artem Sevastopolsky.*<br> 
