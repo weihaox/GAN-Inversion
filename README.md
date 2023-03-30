@@ -37,7 +37,7 @@
 </p>
 <br />
 
-This repo is a collection of resources on GAN inversion, as a supplement for our [survey](https://arxiv.org/abs/2101.05278).  If you find any work missing or have any suggestions (papers, implementations and other resources), feel free to [pull requests](https://github.com/weihaox/awesome-gan-inversion/pulls).
+This repo is a collection of resources on GAN inversion, as a supplement for our [survey](https://arxiv.org/abs/2101.05278).  If you find any work missing or have any suggestions (papers, implementations and other resources), feel free to [pull requests](https://github.com/weihaox/awesome-gan-inversion/pulls). You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) to produce them in the markdown format.
 
 <details style="margin-left:3%;">
   <summary>citation</summary>
@@ -160,10 +160,6 @@ WACV 2023. [[PDF](https://arxiv.org/abs/2210.07301)] [[Project](https://3dgan-in
 *Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 
-**Unsupervised 3D Shape Completion through GAN-Inversion.**<br>
-*[Junzhe Zhang](https://junzhezhang.github.io/), Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
-
 **Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding.**<br>
 *Ziyang Yuan, Yiming Zhu, Yu Li, Hongyu Liu, Chun Yuan.*<br> 
 arxiv 2023. [[PDF](https://arxiv.org/abs/2303.12326)] [[Project](https://eg3d-goae.github.io/)]
@@ -263,15 +259,15 @@ ICIP 2022. [[PDF](https://arxiv.org/abs/2206.14892)]
 ICLR 2023 Conference Blind Submission. [[PDF](https://openreview.net/forum?id=W4ub8fyCpED)]
 
 **What Decreases Editing Capability? Domain-Specific Hybrid Refinement for Improved GAN Inversion.**<br>
-*Pu Cao, Lu Yang, Dongxu Liu, Zhiwei Liu, Shan Li, Qing Song.*<br>
+*Pu Cao, Lu Yang, Dongxu Liu, Shan Li, Yao Zhang, Qing Song.*<br>                
 arxiv 2022. [[PDF](https://arxiv.org/abs/2301.12141)]
 
-**Photo-Realistic Out-of-domain GAN inversion via Invertibility Decomposition.**<br>
-*Xin Yang, Xiaogang Xu, Yingcong Chen.*<br>
+**Photo-Realistic Out-of-domain GAN Inversion Via Invertibility Decomposition.**<br>
+*Xin Yang, Xiaogang Xu, Yingcong Chen.*<br>                
 arxiv 2022. [[PDF](https://arxiv.org/abs/2212.09262)]
 
-**WaGI: Wavelet-based GAN Inversion for Preserving High-frequency Image Details.**<br>
-*Seung-Jun Moon, Chaewon Kim, Gyeong-Moon Park.*<br>
+**WaGI : Wavelet-based GAN Inversion for Preserving High-frequency Image Details.**<br>
+*Seung-Jun Moon, Chaewon Kim, Gyeong-Moon Park.*<br>                
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.09655)]
 
 **LSAP: Rethinking Inversion Fidelity, Perception and Editability in GAN Latent Space.**<br>
@@ -279,50 +275,50 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2210.09655)]
 arxiv 2022. [[PDF](https://arxiv.org/abs/2209.12746)] [[Github](https://github.com/caopulan/GANInverter)]
 
 **Video2StyleGAN: Encoding Video in Latent Space for Manipulation.**<br>
-*Jiyang Yu, Jingen Liu, Jing Huang, Wei Zhang, Tao Mei.*<br>
+*Jiyang Yu, Jingen Liu, Jing Huang, Wei Zhang, Tao Mei.*<br>                
 arxiv 2022. [[PDF](https://arxiv.org/abs/2206.13078)]
 
-**Expanding the Latent Space of StyleGAN for Real Face Editing.**<br>
-*Yin Yu, Ghasedi Kamran, Wu HsiangTao, Yang Jiaolong, Tong Xi, Fu Yun.*<br>
+**Expanding The Latent Space of StyleGAN for Real Face Editing.**<br>
+*Yin Yu, Ghasedi Kamran, Wu HsiangTao, Yang Jiaolong, Tong Xi, Fu Yun.*<br>                
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.12530)]
 
-**Encode-in-Style: Latent-based Video Encoding using StyleGAN2.**<br>
+**Expressive Talking Head Video Encoding in StyleGAN2 Latent-Space.**<br>
 *[Trevine Oorloff](https://trevineoorloff.github.io/), [Yaser Yacoob](https://www.umiacs.umd.edu/people/yaser).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.14512)] [[Project](https://trevineoorloff.github.io/Encode-in-Style.io/)] [[Github](https://github.com/trevineoorloff/Encode-in-Style)] [[Data](https://trevineoorloff.github.io/Encode-in-Style.io/)]
 
 **StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.**<br>
-*Min Jin Chong, Hsin-Ying Lee, David Forsyth.*<br>
+*Min Jin Chong, Hsin-Ying Lee, David Forsyth.*<br>                
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.01619)] [[Github](https://github.com/mchong6/SOAT)]
 
 **Semantic and Geometric Unfolding of StyleGAN Latent Space.**<br>
-*Mustafa Shukor, Xu Yao, Bharath Bhushan Damodaran, Pierre Hellier.*<br>
+*Mustafa Shukor, Xu Yao, Bharath Bhushan Damodaran, Pierre Hellier.*<br>                
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.04481)]
 
-**Transforming the Latent Space of StyleGAN for Real Face Editing.**<br> 
-*Heyi Li, Jinlong Liu, Yunzhi Bai, Huayan Wang, Klaus Mueller.*<br> 
+**Transforming The Latent Space of StyleGAN for Real Face Editing.**<br>
+*Heyi Li, Jinlong Liu, Xinyu Zhang, Yunzhi Bai, Huayan Wang, Klaus Mueller.*<br>                
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14230)] [[Github](https://github.com/AnonSubm2021/TransStyleGAN)]
 
-**Improved StyleGAN Embedding: Where are the Good Latents?**<br>
+**Improved StyleGAN Embedding: Where Are The Good Latents?.**<br>
 *[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [Yipeng Qin](https://scholar.google.com/citations?user=ojgWPpgAAAAJ&hl=en), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09036)] [[Github](https://github.com/ZPdesu/II2S)]
 
-**Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
-*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
+**Learning A Deep Reinforcement Learning Policy Over The Latent Space of A Pre-trained GAN for Semantic Age Manipulation.**<br>
+*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>                
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
 
 **Augmentation-Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation.**<br>
-*Davis Wertheimer, Omid Poursaeed, Bharath Hariharan.*<br>
+*Davis Wertheimer, Omid Poursaeed, Bharath Hariharan.*<br>                
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13026)]
 
 **Unsupervised Discovery of Disentangled Manifolds in GANs.**<br>
-*Yu-Ding Lu, Hsin-Ying Lee, Hung-Yu Tseng, Ming-Hsuan Yang.*<br>
+*Yu-Ding Lu, Hsin-Ying Lee, Hung-Yu Tseng, Ming-Hsuan Yang.*<br>                
 arxiv 2020. [[PDF]](https://arxiv.org/abs/2011.11842)]
 
 **Collaborative Learning for Faster StyleGAN Embedding.**<br>
 *Shanyan Guan, [Ying Tai](https://tyshiwo.github.io/), Bingbing Ni, Feida Zhu, Feiyue Huang, Xiaokang Yang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01758)]
 
-**Improving Inversion and Generation Diversity in StyleGAN using a Gaussianized Latent Space.**<br>
+**Improving Inversion and Generation Diversity in StyleGAN Using A Gaussianized Latent Space.**<br>
 *[Jonas Wulff](http://people.csail.mit.edu/jwulff/), Antonio Torralba.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.06529)]
 
@@ -1021,6 +1017,10 @@ ICLR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.00844)] [[Github](https://gi
 **Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement.**<br>
 *Huiwen Luo, Koki Nagano, Han-Wei Kung, Mclean Goldwhite, [Qingguo Xu](https://qingguo-xu.com/), Zejian Wang, Lingyu Wei, Liwen Hu, Hao Li.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2106.11423)]
+
+**Unsupervised 3D Shape Completion through GAN-Inversion.**<br>
+*[Junzhe Zhang](https://junzhezhang.github.io/), Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
 
 **Unsupervised 3D Shape Completion through GAN-Inversion.**<br>
 *[Junzhe Zhang](https://junzhezhang.github.io/), Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
