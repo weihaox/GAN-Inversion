@@ -130,7 +130,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoamo
 
 ## inversion method
 
-This part contatins generatal inversion methods, while methods in the next *application* part are mainly designed for specific tasks.
+The section primarily encompasses general-purpose 2D or 3D inversion techniques, whereas the methods presented in the following section cater to particular applications.
 
 ### 3D GAN inverson
 
@@ -150,7 +150,7 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2212.07409)]
 
 **3D GAN Inversion for Controllable Portrait Image Animation.**<br>
 *[Connor Z. Lin](https://connorzlin.com/), David B. Lindell, Eric R. Chan, [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
-ECCV 2022 Workshop on Learning to Generate 3D Shapes and Scenes. [[PDF](https://arxiv.org/abs/2203.13441)] [[Project](https://www.computationalimaging.org/publications/3dganinversion/)]
+ECCV 2022 ([Learn3DG](https://learn3dg.github.io/) Workshop). [[PDF](https://arxiv.org/abs/2203.13441)] [[Project](https://www.computationalimaging.org/publications/3dganinversion/)]
 
 **3D GAN Inversion with Pose Optimization.**<br>
 *[Jaehoon Ko](https://scholar.google.com/citations?view_op=list_works&hl=en&user=ySBl-10AAAAJ), [Kyusun Cho](https://scholar.google.com/citations?user=ToQ-jEIAAAAJ&hl=en&oi=ao), [Daewon Choi](https://github.com/ChoiDae1), [Kwangrok Ryoo](https://cvlab.korea.ac.kr/members), [Seungryong Kim](https://cvlab.korea.ac.kr/members).*<br>
@@ -259,15 +259,15 @@ ICIP 2022. [[PDF](https://arxiv.org/abs/2206.14892)]
 ICLR 2023 Conference Blind Submission. [[PDF](https://openreview.net/forum?id=W4ub8fyCpED)]
 
 **What Decreases Editing Capability? Domain-Specific Hybrid Refinement for Improved GAN Inversion.**<br>
-*Pu Cao, Lu Yang, Dongxu Liu, Shan Li, Yao Zhang, Qing Song.*<br>                
+*Pu Cao, Lu Yang, Dongxu Liu, Shan Li, Yao Zhang, Qing Song.*<br>  
 arxiv 2022. [[PDF](https://arxiv.org/abs/2301.12141)]
 
 **Photo-Realistic Out-of-domain GAN Inversion Via Invertibility Decomposition.**<br>
-*Xin Yang, Xiaogang Xu, Yingcong Chen.*<br>                
+*Xin Yang, Xiaogang Xu, Yingcong Chen.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2212.09262)]
 
 **WaGI : Wavelet-based GAN Inversion for Preserving High-frequency Image Details.**<br>
-*Seung-Jun Moon, Chaewon Kim, Gyeong-Moon Park.*<br>                
+*Seung-Jun Moon, Chaewon Kim, Gyeong-Moon Park.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.09655)]
 
 **LSAP: Rethinking Inversion Fidelity, Perception and Editability in GAN Latent Space.**<br>
@@ -275,11 +275,11 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2210.09655)]
 arxiv 2022. [[PDF](https://arxiv.org/abs/2209.12746)] [[Github](https://github.com/caopulan/GANInverter)]
 
 **Video2StyleGAN: Encoding Video in Latent Space for Manipulation.**<br>
-*Jiyang Yu, Jingen Liu, Jing Huang, Wei Zhang, Tao Mei.*<br>                
+*Jiyang Yu, Jingen Liu, Jing Huang, Wei Zhang, Tao Mei.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2206.13078)]
 
 **Expanding The Latent Space of StyleGAN for Real Face Editing.**<br>
-*Yin Yu, Ghasedi Kamran, Wu HsiangTao, Yang Jiaolong, Tong Xi, Fu Yun.*<br>                
+*Yin Yu, Ghasedi Kamran, Wu HsiangTao, Yang Jiaolong, Tong Xi, Fu Yun.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.12530)]
 
 **Expressive Talking Head Video Encoding in StyleGAN2 Latent-Space.**<br>
@@ -287,15 +287,15 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2204.12530)]
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.14512)] [[Project](https://trevineoorloff.github.io/Encode-in-Style.io/)] [[Github](https://github.com/trevineoorloff/Encode-in-Style)] [[Data](https://trevineoorloff.github.io/Encode-in-Style.io/)]
 
 **StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.**<br>
-*Min Jin Chong, Hsin-Ying Lee, David Forsyth.*<br>                
+*Min Jin Chong, Hsin-Ying Lee, David Forsyth.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.01619)] [[Github](https://github.com/mchong6/SOAT)]
 
 **Semantic and Geometric Unfolding of StyleGAN Latent Space.**<br>
-*Mustafa Shukor, Xu Yao, Bharath Bhushan Damodaran, Pierre Hellier.*<br>                
+*Mustafa Shukor, Xu Yao, Bharath Bhushan Damodaran, Pierre Hellier.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.04481)]
 
 **Transforming The Latent Space of StyleGAN for Real Face Editing.**<br>
-*Heyi Li, Jinlong Liu, Xinyu Zhang, Yunzhi Bai, Huayan Wang, Klaus Mueller.*<br>                
+*Heyi Li, Jinlong Liu, Xinyu Zhang, Yunzhi Bai, Huayan Wang, Klaus Mueller.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14230)] [[Github](https://github.com/AnonSubm2021/TransStyleGAN)]
 
 **Improved StyleGAN Embedding: Where Are The Good Latents?.**<br>
@@ -303,15 +303,15 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14230)] [[Github](https://github.c
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09036)] [[Github](https://github.com/ZPdesu/II2S)]
 
 **Learning A Deep Reinforcement Learning Policy Over The Latent Space of A Pre-trained GAN for Semantic Age Manipulation.**<br>
-*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>                
+*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
 
 **Augmentation-Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation.**<br>
-*Davis Wertheimer, Omid Poursaeed, Bharath Hariharan.*<br>                
+*Davis Wertheimer, Omid Poursaeed, Bharath Hariharan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13026)]
 
 **Unsupervised Discovery of Disentangled Manifolds in GANs.**<br>
-*Yu-Ding Lu, Hsin-Ying Lee, Hung-Yu Tseng, Ming-Hsuan Yang.*<br>                
+*Yu-Ding Lu, Hsin-Ying Lee, Hung-Yu Tseng, Ming-Hsuan Yang.*<br>
 arxiv 2020. [[PDF]](https://arxiv.org/abs/2011.11842)]
 
 **Collaborative Learning for Faster StyleGAN Embedding.**<br>
