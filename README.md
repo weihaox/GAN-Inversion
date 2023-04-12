@@ -254,19 +254,15 @@ ICLR 2022. [[PDF](https://arxiv.org/abs/2110.11323)]
 *Mustafa Shukor, Xu Yao, Bharath Bushan Damodaran, Pierre Hellier.*<br>
 ICIP 2022. [[PDF](https://arxiv.org/abs/2206.14892)]
 
-**Learning a 3D-Aware Encoder for Style-based Generative Radiance Field .**<br>
-*Anonymous.*<br>
-ICLR 2023 Conference Blind Submission. [[PDF](https://openreview.net/forum?id=W4ub8fyCpED)]
-
 **What Decreases Editing Capability? Domain-Specific Hybrid Refinement for Improved GAN Inversion.**<br>
-*Pu Cao, Lu Yang, Dongxu Liu, Shan Li, Yao Zhang, Qing Song.*<br>  
+*Pu Cao, Lu Yang, Dongxu Liu, Shan Li, Yao Zhang, Qing Song.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2301.12141)]
 
 **Photo-Realistic Out-of-domain GAN Inversion Via Invertibility Decomposition.**<br>
 *Xin Yang, Xiaogang Xu, Yingcong Chen.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2212.09262)]
 
-**WaGI : Wavelet-based GAN Inversion for Preserving High-frequency Image Details.**<br>
+**WaGI: Wavelet-based GAN Inversion for Preserving High-frequency Image Details.**<br>
 *Seung-Jun Moon, Chaewon Kim, Gyeong-Moon Park.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.09655)]
 
