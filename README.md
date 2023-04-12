@@ -150,7 +150,7 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2212.07409)]
 
 **3D GAN Inversion for Controllable Portrait Image Animation.**<br>
 *[Connor Z. Lin](https://connorzlin.com/), David B. Lindell, Eric R. Chan, [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
-ECCV 2022 ([Learn3DG](https://learn3dg.github.io/) Workshop). [[PDF](https://arxiv.org/abs/2203.13441)] [[Project](https://www.computationalimaging.org/publications/3dganinversion/)]
+ECCV 2022 Workshop on [Learn3DG](https://learn3dg.github.io/). [[PDF](https://arxiv.org/abs/2203.13441)] [[Project](https://www.computationalimaging.org/publications/3dganinversion/)]
 
 **3D GAN Inversion with Pose Optimization.**<br>
 *[Jaehoon Ko](https://scholar.google.com/citations?view_op=list_works&hl=en&user=ySBl-10AAAAJ), [Kyusun Cho](https://scholar.google.com/citations?user=ToQ-jEIAAAAJ&hl=en&oi=ao), [Daewon Choi](https://github.com/ChoiDae1), [Kwangrok Ryoo](https://cvlab.korea.ac.kr/members), [Seungryong Kim](https://cvlab.korea.ac.kr/members).*<br>
@@ -216,7 +216,7 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2202.02183)] [[Github](https://github.co
 
 **Third Time's the Charm? Image and Video Editing with StyleGAN3.**<br>
 *Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or.*<br>
-Advances in Image Manipulation Workshop, ECCV 2022. [[PDF](https://arxiv.org/abs/2201.13433)] [[Project](https://yuval-alaluf.github.io/stylegan3-editing/)] [[Github](https://github.com/yuval-alaluf/stylegan3-editing)]
+ECCV 2022 Workshop on Advances in Image Manipulation. [[PDF](https://arxiv.org/abs/2201.13433)] [[Project](https://yuval-alaluf.github.io/stylegan3-editing/)] [[Github](https://github.com/yuval-alaluf/stylegan3-editing)]
 
 **Cycle Encoding of a StyleGAN Encoder for Improved Reconstruction and Editability.**<br>
 *Xudong Mao, Liujuan Cao, Aurele Tohokantche Gnanha, Zhenguo Yang, Qing Li, Rongrong Ji.*<br>
@@ -297,22 +297,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14230)] [[Github](https://github.c
 **Improved StyleGAN Embedding: Where Are The Good Latents?.**<br>
 *[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [Yipeng Qin](https://scholar.google.com/citations?user=ojgWPpgAAAAJ&hl=en), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09036)] [[Github](https://github.com/ZPdesu/II2S)]
-
-**Learning A Deep Reinforcement Learning Policy Over The Latent Space of A Pre-trained GAN for Semantic Age Manipulation.**<br>
-*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
-
-**Augmentation-Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation.**<br>
-*Davis Wertheimer, Omid Poursaeed, Bharath Hariharan.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13026)]
-
-**Unsupervised Discovery of Disentangled Manifolds in GANs.**<br>
-*Yu-Ding Lu, Hsin-Ying Lee, Hung-Yu Tseng, Ming-Hsuan Yang.*<br>
-arxiv 2020. [[PDF]](https://arxiv.org/abs/2011.11842)]
-
-**Collaborative Learning for Faster StyleGAN Embedding.**<br>
-*Shanyan Guan, [Ying Tai](https://tyshiwo.github.io/), Bingbing Ni, Feida Zhu, Feiyue Huang, Xiaokang Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01758)]
 
 **Improving Inversion and Generation Diversity in StyleGAN Using A Gaussianized Latent Space.**<br>
 *[Jonas Wulff](http://people.csail.mit.edu/jwulff/), Antonio Torralba.*<br>
@@ -520,6 +504,26 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 <p width="100%" align="right"><a href="#">🔝</a></p>
 
+## Diffusion Inversion
+
+**NULL-text Inversion for Editing Real Images using Guided Diffusion Models.**<br>
+*Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.09794)] [[Project](https://null-text-inversion.github.io/)] [[Github](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
+
+**EDICT: Exact Diffusion Inversion via Coupled Transformations.**<br>
+*Bram Wallace, Akash Gokul, Nikhil Naik.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12446)] [[Github](https://github.com/salesforce/EDICT)]
+
+**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.**<br>
+*Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
+ICLR 2023 (Oral). [[PDF](https://arxiv.org/abs/2208.01618)] [[Project](https://textual-inversion.github.io/)] [[Github](https://github.com/rinongal/textual_inversion)]
+
+**Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
+*Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
+ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01626)] [[Project](https://prompt-to-prompt.github.io/)] [[Github](https://github.com/google/prompt-to-prompt/)]
+
+<p width="100%" align="right"><a href="#">🔝</a></p>
+
 ## latent space navigation
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
@@ -558,15 +562,15 @@ ICLR 2022. [[PDF](https://arxiv.org/abs/2106.06959)]
 
 **Tensor-based Emotion Editing in the StyleGAN Latent Space.**<br>
 *René Haas, Stella Graßhof, Sami S. Brandt.*<br>
-CVPR 2022 Workshop on AI for Content Creation Workshop. [[PDF](https://arxiv.org/pdf/2205.06102.pdf)]
+CVPR 2022 Workshop on AI for Content Creation. [[PDF](https://arxiv.org/pdf/2205.06102.pdf)]
 
 **PaintInStyle: One-Shot Discovery of Interpretable Directions by Painting.**<br>
 *Berkay Doner, Elif Sema Balcioglu, Merve Rabia Barin, Umut Kocasari, Mert Tiftikci, Pinar Yanardag.*<br>
-CVPR 2022 Workshops. [[PDF](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Doner_PaintInStyle_One-Shot_Discovery_of_Interpretable_Directions_by_Painting_CVPRW_2022_paper.html)]
+CVPR 2022 Workshop. [[PDF](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Doner_PaintInStyle_One-Shot_Discovery_of_Interpretable_Directions_by_Painting_CVPRW_2022_paper.html)]
 
 **Rank in Style: A Ranking-Based Approach To Find Interpretable Directions.**<br>
 *Umut Kocasari, Kerem Zaman, Mert Tiftikci, Enis Simsar, Pinar Yanardag.*<br>
-CVPR 2022 Workshops. [[PDF](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Kocasari_Rank_in_Style_A_Ranking-Based_Approach_To_Find_Interpretable_Directions_CVPRW_2022_paper.html)]
+CVPR 2022 Workshop. [[PDF](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Kocasari_Rank_in_Style_A_Ranking-Based_Approach_To_Find_Interpretable_Directions_CVPRW_2022_paper.html)]
 
 **LARGE: Latent-Based Regression through GAN Semantics.**<br>
 *[Yotam Nitzan](https://yotamnitzan.github.io), [Rinon Gal](https://rinongal.github.io/), [Ofir Brenner](https://scholar.google.com/citations?user=iLLlWr8AAAAJ), [Daniel Cohen-Or](https://danielcohenor.com/).*<br>
@@ -698,6 +702,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2111.12583)]
 
 ### image and video generation and manipulation
 
+**NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation.**<br>
+*Yu Yin, Kamran Ghasedi, HsiangTao Wu, Jiaolong Yang, Xin Tong, Yun Fu.*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.17235)]
+
+**Fine-Grained Face Swapping via Regional GAN Inversion.**<br>
+*Zhian Liu, Maomao Li, Yong Zhang, Cairong Wang, Qi Zhang, Jue Wang, Yongwei Nie.*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.14068)] [[Project](http://e4s2022.github.io)]
+
 **VIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs.**<br>
 *Anna Frühstück, Nikolaos Sarafianos, Yuanlu Xu, Peter Wonka, Tony Tung.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2303.15893)] [[Project](http://afruehstueck.github.io/vive3D)] [[Github]()]
@@ -706,17 +718,13 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2303.15893)] [[Project](http://afruehstu
 *Hongyu Liu, Yibing Song, Qifeng Chen.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2211.11448)] [[Project](https://github.com/KumapowerLIU/CLCAE)] [[Github](https://github.com/KumapowerLIU/CLCAE)]
 
-**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.**<br>
-*Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
-ICLR 2023. [[PDF](https://arxiv.org/abs/2207.09446)] [[Project](https://textual-inversion.github.io/)] [[Github](https://github.com/rinongal/textual_inversion)]
-
 **Dr.3D: Adapting 3D GANs to Artistic Drawings.**<br>
 *Wonjoon Jin, Nuri Ryu, Geonung Kim, Seung-Hwan Baek, Sunghyun Cho.*<br>
 SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/abs/2211.16798)] [[Project](https://jinwonjoon.github.io/dr3d/)] 
 
 **Stitch it in Time: GAN-Based Facial Editing of Real Videos.**<br>
 *Rotem Tzaban, Ron Mokady, Rinon Gal, Amit H. Bermano, Daniel Cohen-Or.*<br>
-SIGGRAPH Asia, 2022. [[PDF](https://arxiv.org/abs/2201.08361)] [[Project](https://stitch-time.github.io/)] [[Github](https://github.com/rotemtzaban/STIT)]
+SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/abs/2201.08361)] [[Project](https://stitch-time.github.io/)] [[Github](https://github.com/rotemtzaban/STIT)]
 
 **DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing.**<br>
 *Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi.*<br>
@@ -814,10 +822,6 @@ WACV 2022. [[PDF](https://openaccess.thecvf.com/content/WACV2022/html/Khodadadeh
 *[Gereon Fox](https://www.mpi-inf.mpg.de/~gfox/), [Ayush Tewari](https://www.mpi-inf.mpg.de/~atewari/), Mohamed Elgharib, [Christian Theobalt](http://gvv.mpi-inf.mpg.de/).*<br>
 BMVC 2021 (Oral). [[PDF](https://arxiv.org/abs/2107.07224)]
 
-**Constrained Graphic Layout Generation via Latent Optimization.**<br>
-*Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
-ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.00871)] [[Github](https://github.com/ktrk115/const_layout)]
-
 **Face Image Retrieval With Attribute Manipulation.**<br>
 *[Alireza Zaeemzadeh](https://zaeemzadeh.com/), Shabnam Ghadar, Baldo Faieta, Zhe Lin, Nazanin Rahnavard, Mubarak Shah, Ratheesh Kalarot.*<br>
 ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Zaeemzadeh_Face_Image_Retrieval_With_Attribute_Manipulation_ICCV_2021_paper.html)]
@@ -837,6 +841,14 @@ TOG 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com
 **Barbershop: GAN-based Image Compositing using Segmentation Masks.**<br>
 *[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
 SIGGRAPH Asia 2021. [[PDF](https://arxiv.org/abs/2106.01505)] [[Project](https://zpdesu.github.io/Barbershop/)] [[Github](https://github.com/ZPdesu/Barbershop)]
+
+**Constrained Graphic Layout Generation via Latent Optimization.**<br>
+*Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.00871)] [[Github](https://github.com/ktrk115/const_layout)]
+
+**CI-GAN: Cycle-Consistent Inverse GAN for Text-to-Image Synthesis.**<br>
+*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.01361)]
 
 **Exploring Adversarial Fake Images on Face Manifold.**<br>
 *Dongze Li, Wei Wang, Hongxing Fan, Jing Dong.*<br>
@@ -858,10 +870,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03891)] [[Github](https://github.co
 *[Hyunsu Kim](https://github.com/blandocs), [Yunjey Choi](https://yunjey.github.io/), [Junho Kim](https://github.com/taki0112), [Sungjoo Yoo](http://cmalab.snu.ac.kr/), [Youngjung Uh](https://github.com/youngjung).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.com/naver-ai/StyleMapGAN)]
 
-**CI-GAN: Cycle-Consistent Inverse GAN for Text-to-Image Synthesis.**<br>
-*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
-ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.01361)]
-
 **TediGAN: Text-Guided Diverse Image Generation and Manipulation.**<br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ)] [[Github](https://github.com/weihaox/TediGAN)]
@@ -882,14 +890,6 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2302.07848)] [[Project](https://trevine
 *[Yiran Xu](https://twizwei.github.io/), [Zhixin Shu](https://zhixinshu.github.io/), [Cameron Smith](https://research.adobe.com/person/cameron-smith/), [Jia-Bin Huang](https://jbhuang0604.github.io/), [Seoung Wug Oh]().*<br> 
 arXiv 2023. [[PDF](https://arxiv.org/abs/2302.04871)] [[Project](https://in-n-out-3d.github.io/)]
 
-**NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation.**<br>
-*Yu Yin, Kamran Ghasedi, HsiangTao Wu, Jiaolong Yang, Xin Tong, Yun Fu.*<br> 
-arXiv 2022. [[PDF](https://arxiv.org/abs/2211.17235)]
-
-**Fine-Grained Face Swapping via Regional GAN Inversion.**<br>
-*Zhian Liu, Maomao Li, Yong Zhang, Cairong Wang, Qi Zhang, Jue Wang, Yongwei Nie.*<br> 
-arXiv 2022. [[PDF](https://arxiv.org/abs/2211.14068)] [[Project](http://e4s2022.github.io)]
-
 **Unsupervised Domain Adaptation GAN Inversion for Image Editing.**<br>
 *Siyu Xing, Chen Gong, Hewei Guo, Xiao-Yu Zhang, Xinwen Hou, Yu Liu.*<br> 
 arXiv 2022. [[PDF](https://arxiv.org/abs/2211.12123)]
@@ -897,10 +897,6 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.12123)]
 **MultiStyleGAN: Multiple One-shot Face Stylizations using a Single GAN.**<br>
 *[Viraj Shah](https://virajshah.com/), [Svetlana Lazebnik](https://slazebni.cs.illinois.edu/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.04120)] [[Project](https://virajshah.com/multistyle)] [[Github](https://github.com/shahviraj/)]
-
-**Paint by Word.**<br>
-*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
 
 **Generalized One-shot Domain Adaption of Generative Adversarial Networks.**<br>
 *Zicheng Zhang, Yinglu Liu, Congying Han, Tiande Guo, Ting Yao, Tao Mei.*<br>
@@ -910,10 +906,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2209.03665)]
 *Seung Hyun Lee, Chanyoung Kim, Wonmin Byeon, Gyeongrok Oh, Jooyoung Lee, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2208.14114)]
 
-**Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
-*Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2207.09446)]
-
 **Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
 *Yuki Endo, Yoshihiro Kanamori.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
@@ -921,6 +913,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.c
 **Heredity-aware Child Face Image Generation with Latent Space Disentanglement.**<br>
 *Xiao Cui, Wengang Zhou, Yang Hu, Weilun Wang, Houqiang Li.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2108.11080)]
+
+**Paint by Word.**<br>
+*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)] [[Project](http://paintbyword.csail.mit.edu/)] [[Project](https://github.com/alexandonian/paint-by-word)]
 
 ### image restoration
 
@@ -998,6 +994,10 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2210.10090)]
 
 ### 3D
 
+**Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion.**<br>
+*Dario Pavllo, David Joseph Tan, Marie-Julie Rakotosaona, Federico Tombari.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.11674)] [[Github](https://github.com/google-research/nerf-from-image)]
+
 **Monocular 3D Object Reconstruction with GAN Inversion.**<br>
 *Junzhe Zhang, Daxuan Ren, Zhongang Cai, Chai Kiat Yeo, Bo Dai, Chen Change Loy.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10061)] [[Project](https://www.mmlab-ntu.com/project/meshinversion/)] [[Github](https://github.com/junzhezhang/mesh-inversion)]
@@ -1034,7 +1034,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2111.10520)]
 
 **Generator Surgery for Compressed Sensing.**<br>
 *Niklas Smedemark-Margulies, Jung Yeon Park, Max Daniels, Rose Yu, Jan-Willem van de Meent, Paul Hand.*<br>
-NeurIPS 2020 Workshop Deep Inverse. [[PDF](https://arxiv.org/abs/2102.11163)] [[Github](https://github.com/nik-sm/generator-surgery)]
+NeurIPS 2020 Workshop on Deep Inverse. [[PDF](https://arxiv.org/abs/2102.11163)] [[Github](https://github.com/nik-sm/generator-surgery)]
 
 **Task-Aware Compressed Sensing with Generative Adversarial Networks.**<br>
 *Maya Kabkab, Pouya Samangouei, Rama Chellappa.*<br>
