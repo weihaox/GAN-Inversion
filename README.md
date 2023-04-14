@@ -192,7 +192,11 @@ TOG 2022. [[PDF](https://arxiv.org/pdf/2106.05744.pdf)] [[Github](https://github
 
 **E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion.**<br> 
 *Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Weiming Zhang, Lu Yuan, Gang Hua, Nenghai Yu.*<br> 
-TIP 2022. [[PDF](https://arxiv.org/abs/2104.07661)] [[Project](https://wty-ustc.github.io/inversion/)] [[Github](https://github.com/wty-ustc/StyleGAN-Inversion-Baseline)] 
+TIP 2022. [[PDF](https://arxiv.org/abs/2104.07661)] [[Project](https://wty-ustc.github.io/inversion/)] [[Github](https://github.com/wty-ustc/e2style)]
+
+**High-fidelity GAN Inversion with Padding Space.**<br>
+*[Qingyan Bai](https://ezioby.github.io/padinv/), Yinghao Xu, Jiapeng Zhu, Weihao Xia, Yujiu Yang, Yujun Shen.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2203.11105)] [[Project](https://github.com/EzioBy/padinv)] [[Github](https://github.com/EzioBy/padinv)]
 
 **Editing Out-of-Domain GAN Inversion via Differential Activations.**<br>
 *Haorui Song, Yong Du, Tianyi Xiang, Junyu Dong, Jing Qin, Shengfeng He.*<br>
@@ -201,10 +205,6 @@ ECCV 2022. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5504_EC
 **IntereStyle: Encoding an Interest Region for Robust StyleGAN Inversion.**<br>
 *Seungjun Moon, GyeongMoon Park.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2209.10811)] 
-
-**High-fidelity GAN Inversion with Padding Space.**<br>
-*[Qingyan Bai](https://ezioby.github.io/padinv/), Yinghao Xu, Jiapeng Zhu, Weihao Xia, Yujiu Yang, Yujun Shen.*<br>
-ECCV 2022. [[PDF](https://arxiv.org/abs/2203.11105)] [[Project](https://github.com/EzioBy/padinv)] [[Github](https://github.com/EzioBy/padinv)]
 
 **Chunkmogrify: Real image inversion via Segments.**<br>
 *[David Futschik](https://dcgi.fel.cvut.cz/people/futscdav), [Michal Lukáč](https://research.adobe.com/person/michal-lukac/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Daniel Sýkora](https://dcgi.fel.cvut.cz/home/sykorad/).*<br>
@@ -256,7 +256,7 @@ ICIP 2022. [[PDF](https://arxiv.org/abs/2206.14892)]
 
 **What Decreases Editing Capability? Domain-Specific Hybrid Refinement for Improved GAN Inversion.**<br>
 *Pu Cao, Lu Yang, Dongxu Liu, Shan Li, Yao Zhang, Qing Song.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2301.12141)]
+arxiv 2022. [[PDF](https://arxiv.org/abs/2301.12141)] [[Github](https://github.com/caopulan/GANInverter/tree/main/configs/dhr)]
 
 **Photo-Realistic Out-of-domain GAN Inversion Via Invertibility Decomposition.**<br>
 *Xin Yang, Xiaogang Xu, Yingcong Chen.*<br>
@@ -307,7 +307,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.06529)]
 ICCV 2021. [[PDF](https://arxiv.org/abs/2101.02477)]
 
 **From Continuity to Editability: Inverting GANs with Consecutive Images.**<br>
-*[Yangyang Xu](https://qingyang-xu.github.io/), [Yong Du](https://www.csyongdu.com/), Wenpeng Xiao, Xuemiao Xu and [Shengfeng He](hengfenghe.com).*<br>
+*[Yangyang Xu](https://cnnlstm.github.io/), [Yong Du](https://www.csyongdu.com/), Wenpeng Xiao, Xuemiao Xu and [Shengfeng He](hengfenghe.com).*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2107.13812)] [[Github](https://github.com/Qingyang-Xu/InvertingGANs_with_ConsecutiveImgs)]
 
 **Explaining in Style: Training a GAN to explain a classifier in StyleSpace.**<br> 
@@ -504,7 +504,9 @@ ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 <p width="100%" align="right"><a href="#">🔝</a></p>
 
-## Diffusion Inversion
+## diffusion inversion and manipulation
+
+## diffusion inversion
 
 **NULL-text Inversion for Editing Real Images using Guided Diffusion Models.**<br>
 *Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
@@ -521,6 +523,40 @@ ICLR 2023 (Oral). [[PDF](https://arxiv.org/abs/2208.01618)] [[Project](https://t
 **Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
 *Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
 ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01626)] [[Project](https://prompt-to-prompt.github.io/)] [[Github](https://github.com/google/prompt-to-prompt/)]
+
+## semantic manipulation in diffusion latent spaces
+
+**An Edit Friendly DDPM Noise Space: Inversion and Manipulations.**<br>
+*Inbar Huberman-Spiegelglas, Vladimir Kulikov, Tomer Michaeli.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06140v1)]
+
+**Discovering Interpretable Directions in The Semantic Latent Space of Diffusion Models.**<br>
+*René Haas, Inbar Huberman-Spiegelglas, Rotem Mulayoff, Tomer Michaeli.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2303.11073v1)]
+
+**$P+$: Extended Textual Conditioning in Text-to-Image Generation.**<br>
+*Andrey Voynov, Qinghao Chu, Daniel Cohen-Or, Kfir Aberman.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2303.09522v2)]
+
+**Unsupervised Discovery of Semantic Latent Directions in Diffusion Models.**<br>
+*Yong-Hyun Park, Mingi Kwon, Junghyo Jo, Youngjung Uh.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2302.12469v1)]
+
+**Diffusion Models Already Have A Semantic Latent Space.**<br>
+*Mingi Kwon, Jaeseok Jeong, Youngjung Uh.*<br> 
+ICLR2023. [[PDF](http://arxiv.org/abs/2210.10960v2)]
+
+**The Stable Artist: Steering Semantics in Diffusion Latent Space.**<br>
+*Manuel Brack, Patrick Schramowski, Felix Friedrich, Dominik Hintersdorf, Kristian Kersting.*<br> 
+arXiv 2022. [[PDF](http://arxiv.org/abs/2212.06013v2)]
+
+**Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance.**<br>
+*Chen Henry Wu, Fernando De la Torre.*<br> 
+arXiv 2022. [[PDF](http://arxiv.org/abs/2210.05559v2)]
+
+**Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models.**<br>
+*Chen Henry Wu, Saman Motamed, Shaunak Srivastava, Fernando De la Torre.*<br> 
+NeurIPS 2022. [[PDF](http://arxiv.org/abs/2209.06970v2)]
 
 <p width="100%" align="right"><a href="#">🔝</a></p>
 
