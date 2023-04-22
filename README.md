@@ -214,10 +214,6 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2110.06269)] [[Github](https://github.co
 *Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2202.02183)] [[Github](https://github.com/InterDigitalInc/FeatureStyleEncoder)]
 
-**Third Time's the Charm? Image and Video Editing with StyleGAN3.**<br>
-*Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or.*<br>
-ECCV 2022 Workshop on Advances in Image Manipulation. [[PDF](https://arxiv.org/abs/2201.13433)] [[Project](https://yuval-alaluf.github.io/stylegan3-editing/)] [[Github](https://github.com/yuval-alaluf/stylegan3-editing)]
-
 **Cycle Encoding of a StyleGAN Encoder for Improved Reconstruction and Editability.**<br>
 *Xudong Mao, Liujuan Cao, Aurele Tohokantche Gnanha, Zhenguo Yang, Qing Li, Rongrong Ji.*<br>
 ACM MM 2022. [[PDF](https://arxiv.org/abs/2207.09367)] [[Github](https://github.com/xudonmao/CycleEncoding)]
@@ -794,6 +790,10 @@ ECCV 2022. [[PDF](https://arxiv.org/pdf/2206.10590.pdf)] [[Project](https://vide
 *Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Jihyun Bae, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2204.09273)] [[Project](https://kuai-lab.github.io/eccv2022sound/)] [[Github]()]
 
+**Third Time's the Charm? Image and Video Editing with StyleGAN3.**<br>
+*Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or.*<br>
+ECCV 2022 Workshop on Advances in Image Manipulation. [[PDF](https://arxiv.org/abs/2201.13433)] [[Project](https://yuval-alaluf.github.io/stylegan3-editing/)] [[Github](https://github.com/yuval-alaluf/stylegan3-editing)]
+
 **Everything is There in Latent Space: Attribute Editing and Attribute Style Manipulation by StyleGAN Latent Space Exploration.**<br>
 *Rishubh Parihar, Ankit Dhiman, Tejan Karmali, R. Venkatesh Babu.*<br>
 ACM MM 2022. [[PDF](https://arxiv.org/abs/2207.09855)] [[Project](https://sites.google.com/view/flamelatentediting)]
@@ -925,6 +925,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2302.07848)] [[Project](https://trevine
 **In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition.**<br>
 *[Yiran Xu](https://twizwei.github.io/), [Zhixin Shu](https://zhixinshu.github.io/), [Cameron Smith](https://research.adobe.com/person/cameron-smith/), [Jia-Bin Huang](https://jbhuang0604.github.io/), [Seoung Wug Oh]().*<br> 
 arXiv 2023. [[PDF](https://arxiv.org/abs/2302.04871)] [[Project](https://in-n-out-3d.github.io/)]
+
+**Modeling the Latent Dynamics of StyleGAN using Neural ODEs.**<br>
+*Weihao Xia, Yujiu Yang, Jing-Hao Xue.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2208.11197)] [[Github](https://github.com/weihaox/dynode_released)]
 
 **Unsupervised Domain Adaptation GAN Inversion for Image Editing.**<br>
 *Siyu Xing, Chen Gong, Hewei Guo, Xiao-Yu Zhang, Xinwen Hou, Yu Liu.*<br> 
