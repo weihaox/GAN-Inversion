@@ -556,9 +556,13 @@ NeurIPS 2022. [[PDF](http://arxiv.org/abs/2209.06970v2)]
 
 <p width="100%" align="right"><a href="#">🔝</a></p>
 
-## latent space navigation
+## latent space traversal
 
-Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
+Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, latent space traversal, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
+
+**Latent Traversals in Generative Models as Potential Flows.**<br>
+*Yue Song, Andy Keller, Nicu Sebe, Max Welling.*<br>
+ICML 2023. [[PDF](https://arxiv.org/abs/2304.12944)] [[Github](https://github.com/KingJamesSong/PDETraversal)] 
 
 **PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs.**<br>
 *[James Oldfield](http://eecs.qmul.ac.uk/~jo001/), Christos Tzelepis, Yannis Panagakis, Mihalis A. Nicolaou, Ioannis Patras.*<br>
@@ -917,6 +921,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github
 **DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
 *E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
+
+**Make It So: Steering StyleGAN for Any Image Inversion and Editing.**<br>
+*Anand Bhattad, Viraj Shah, Derek Hoiem, D. A. Forsyth.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.14403v1)] [[Project](https://anandbhattad.github.io/makeitso/)]
 
 **One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2.**<br>
 *[Trevine Oorloff](https://trevineoorloff.github.io/), [Yaser Yacoob](https://www.umiacs.umd.edu/people/yaser).*<br> 
