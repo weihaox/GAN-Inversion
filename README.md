@@ -10,7 +10,7 @@
   <p align="center">
     TPAMI, 2022
     <br />
-    <a href="https://xiaweihao.com/"><strong>Weihao Xia</strong></a>
+    <a href="https://weihaox.github.io/"><strong>Weihao Xia</strong></a>
     ·
     <a href="https://yulunzhang.com/"><strong>Yulun Zhang</strong></a>
     ·
@@ -75,6 +75,14 @@ This repo is a collection of resources on GAN inversion, as a supplement for our
 ## inverted pretrained model
 
 ### 2D GANs
+
+**Scaling up GANs for Text-to-Image Synthesis.**<br>
+*[Minguk Kang](https://mingukkang.github.io/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Richard Zhang](https://richzhang.github.io/), [Jaesik Park](https://jaesik.info/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Sylvain Paris](https://research.adobe.com/person/sylvain-paris/), [Taesung Park](https://taesung.me/).*<br>
+CVPR 2023 (Highlight). [[PDF](https://arxiv.org/abs/2303.05511)] [[Project](https://mingukkang.github.io/GigaGAN/)]
+
+**StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis.**<br>
+*[Axel Sauer](https://axelsauer.com/), [Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Andreas Geiger](https://www.cvlibs.net/), [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
+ICML 2023. [[Project](https://sites.google.com/view/stylegan-t/)]    [[PDF](https://arxiv.org/abs/2301.09515)]   [[Github](https://github.com/autonomousvision/stylegan-t)]
 
 **StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets.**<br>
 *[Axel Sauer](https://axelsauer.com/), [Katja Schwarz](https://katjaschwarz.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
@@ -519,6 +527,10 @@ ICLR 2023 (Oral). [[PDF](https://arxiv.org/abs/2208.01618)] [[Project](https://t
 **Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
 *Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
 ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01626)] [[Project](https://prompt-to-prompt.github.io/)] [[Github](https://github.com/google/prompt-to-prompt/)]
+
+**A Neural Space-Time Representation for Text-to-Image Personalization.**<br>
+*Yuval Alaluf, Elad Richardson, Gal Metzer, Daniel Cohen-Or.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.15391)] [[Link](https://neuraltextualinversion.github.io/NeTI/)]
 
 ## semantic manipulation in diffusion latent spaces
 
