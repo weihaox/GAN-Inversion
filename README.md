@@ -852,7 +852,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.08422)] [[Github](https://github.co
 
 **InsetGAN for Full-Body Image Generation.**<br>
 *[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07200)] [[Project](http://afruehstueck.github.io/insetgan)] [[Unofficial](https://github.com/stylegan-human/StyleGAN-Human/blob/main/insetgan.py)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.07293)] [[Project](http://afruehstueck.github.io/insetgan)] [[Unofficial](https://github.com/stylegan-human/StyleGAN-Human/blob/main/insetgan.py)]
 
 **SpaceEdit: Learning a Unified Editing Space for Open-Domain Image Editing.**<br>
 *[Jing Shi](https://www.cs.rochester.edu/u/jshi31/), [Ning Xu](https://sites.google.com/view/ningxu/), [Haitian Zheng](https://www.cs.rochester.edu/u/hzheng15/haitian_homepage/index.html), Alex Smith, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/), [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).*<br>
@@ -933,6 +933,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github
 **DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
 *E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
+
+**Balancing Reconstruction and Editing Quality of GAN Inversion for Real Image Editing with StyleGAN Prior Latent Space.**<br>
+*Kai Katsumata, Duc Minh Vo, Bei Liu, Hideki Nakayama.*<br> 
+CVPR 2023 Workshop on AI4CC. [[PDF](http://arxiv.org/abs/2306.00241)]
 
 **Make It So: Steering StyleGAN for Any Image Inversion and Editing.**<br>
 *Anand Bhattad, Viraj Shah, Derek Hoiem, D. A. Forsyth.*<br> 
@@ -1053,6 +1057,10 @@ CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://r
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.10090)]
 
 ### 3D
+
+**StyleGAN Knows Normal, Depth, Albedo, and More.**<br>
+*Anand Bhattad, Daniel McKee, Derek Hoiem, D. A. Forsyth.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2306.00987v1)]
 
 **Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion.**<br>
 *Dario Pavllo, David Joseph Tan, Marie-Julie Rakotosaona, Federico Tombari.*<br>
