@@ -528,9 +528,17 @@ ICLR 2023 (Oral). [[PDF](https://arxiv.org/abs/2208.01618)] [[Project](https://t
 *Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
 ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01626)] [[Project](https://prompt-to-prompt.github.io/)] [[Github](https://github.com/google/prompt-to-prompt/)]
 
+**An Edit Friendly DDPM Noise Space: Inversion and Manipulations.**<br>
+*[Inbar Huberman-Spiegelglas](https://inbarhub.github.io/www/), Vladimir Kulikov, Tomer Michaeli.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.15391)] [[Project](https://inbarhub.github.io/DDPM_inversion/)] [[Github](https://github.com/inbarhub/DDPM_inversion)]
+
+**Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models.**<br>
+*René Haas, Inbar Huberman-Spiegelglas, Rotem Mulayoff, and Tomer Michaeli.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.11073)]
+
 **A Neural Space-Time Representation for Text-to-Image Personalization.**<br>
 *Yuval Alaluf, Elad Richardson, Gal Metzer, Daniel Cohen-Or.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.15391)] [[Link](https://neuraltextualinversion.github.io/NeTI/)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2304.06140)] [[Project](https://neuraltextualinversion.github.io/NeTI/)]
 
 ## semantic manipulation in diffusion latent spaces
 
