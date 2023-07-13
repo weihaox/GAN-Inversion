@@ -580,6 +580,10 @@ NeurIPS 2022. [[PDF](http://arxiv.org/abs/2209.06970v2)]
 
 Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, latent space traversal, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
 
+**Deep Curvilinear Editing: Commutative and Nonlinear Image Manipulation for Pretrained Deep Generative Model.**<br>
+*Takehiro Aoshima, Takashi Matsubara.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.14573)]
+
 **Latent Traversals in Generative Models as Potential Flows.**<br>
 *Yue Song, Andy Keller, Nicu Sebe, Max Welling.*<br>
 ICML 2023. [[PDF](https://arxiv.org/abs/2304.12944)] [[Github](https://github.com/KingJamesSong/PDETraversal)] 
@@ -679,6 +683,10 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2108.07668)] [[Github](https://github.co
 **EigenGAN: Layer-Wise Eigen-Learning for GANs.**<br>
 *Zhenliang He, Meina Kan, Shiguang Shan.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2104.12476)] [[Github](https://github.com/LynnHo/EigenGAN-Tensorflow)]
+
+**SSFlow: Style-guided Neural Spline Flows for Face Image Manipulation.**<br>
+*Hanbang Liang, Xianxu Hou, Linlin Shen.*<br>
+ACM MM 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3474085.3475454)]
 
 **SalS-GAN: Spatially-Adaptive Latent Space in StyleGAN for Real Image Embedding.**<br>
 *Lingyun Zhang, Xiuxiu Bai, Yao Gao.*<br>
