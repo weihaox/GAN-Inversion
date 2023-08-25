@@ -186,6 +186,10 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2211.06583)]
 
 ### 2D GAN inversion
 
+**StyleRes: Transforming the Residuals for Real Image Editing with StyleGAN.**<br>
+*Hamza Pehlivan, Yusuf Dalva, Aysegul Dundar.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2212.14359)] [[Github](https://github.com/hamzapehlivan/StyleRes)]
+
 **ReGANIE: Rectifying GAN Inversion Errors for Accurate Real Image Editing.**<br>
 *[Bingchuan Li](https://tianxiangma.github.io/), Tianxiang Ma, Peng Zhang, Miao Hua, Wei Liu, Qian He, Zili Yi.*<br>
 AAAI 2023. [[PDF](https://arxiv.org/abs/2301.13402)]
