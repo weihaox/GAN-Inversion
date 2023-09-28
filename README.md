@@ -52,27 +52,29 @@ This repo is a collection of resources on GAN inversion, as a supplement for our
 
 <details><summary>Table of Contents</summary><p>
 
-- [inverted pretrained model](#inverted-pretrained-model)
-  - [2D GANs](#2d-gans)
-  - [3D-aware GANs](#3d-aware-gans)
-- [inversion method](#inversion-method)
-  - [3D GAN inverson](#3d-gan-inverson)
-  - [2D GAN inversion](#2d-gan-inversion)
-- [latent space navigation](#latent-space-navigation)
-- [application](#application)
-  - [image and video generation and manipulation](#image-and-video-generation-and-manipulation)
-  - [image restoration](#image-restoration)
-  - [image understanding](#image-understanding)
-  - [recognition](#recognition)
-  - [3D](#3d)
-  - [compressed sensing](#compressed-sensing)
-  - [medical imaging](#medical-imaging)
-  - [compression, fairness, and security](#compression-fairness-and-security)
-- [acknowledgement](#acknowledgement)
-
+- [Inverted Pretrained Models](#inverted-pretrained-models)
+  * [2D GANs](#2d-gans)
+  * [3D GANs](#3d-aware-gans)
+- [GAN Inversion Methods](#gan-inversion-methods)
+  * [3D GAN Inversion](#3d-gan-inverson)
+  * [2D GAN Inversion](#2d-gan-inversion)
+- [Diffusion Inversion](#diffusion-inversion)
+- [GAN Latent Space Editing](#gan-latent-space-editing)
+- [Diffusion Latent Space Editing](#diffusion-latent-space-editing)
+- [Applications](#applications)
+  * [Image and Video Generation and Manipulation](#image-and-video-generation-and-manipulation)
+  * [Image Restoration](#image-restoration)
+  * [Image Understanding](#image-understanding)
+  * [Face Recognition](#face-recognition)
+  * [3D Reconstruction](#3d-reconstruction)
+  * [Other Applications](#other-applications)
+    + [Compressed Sensing](#compressed-sensing)
+    + [Medical Imaging](#medical-imaging)
+    + [Compression, Fairness, and Security](#compression--fairness--and-security)
+- [Acknowledgement](#acknowledgement)
 </p></details><p></p>
 
-## Inverted Pretrained Model
+## Inverted Pretrained Models
 
 ### 2D GANs
 
@@ -136,11 +138,11 @@ ICLR 2022. [[PDF](https://arxiv.org/abs/2110.08985)] [[Project](http://jiataogu.
 *[Eric R. Chan](https://ericryanchan.github.io/), [Marco Monteiro](https://marcoamonteiro.github.io/pi-GAN-website/), [Petr Kellnhofer](https://kellnhofer.xyz/), [Jiajun Wu](https://jiajunwu.com/), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoamonteiro.github.io/pi-GAN-website/)] [[Code](https://github.com/lucidrains/pi-GAN-pytorch)]
 
-## GAN Inversion Method
+## GAN Inversion Methods
 
 The section primarily encompasses general-purpose 2D or 3D inversion techniques, whereas the methods presented in the following section cater to particular applications.
 
-### 3D GAN inverson
+### 3D GAN Inversion
 
 **High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization.**<br>
 *[Jiaxin Xie](https://jiaxinxie97.github.io/Jiaxin-Xie/), [Hao Ouyang](https://ken-ouyang.github.io/), [Jingtan Piao](https://ken-ouyang.github.io/HFGI3D/index.html), [Chenyang Lei](https://chenyanglei.github.io/), [Qifeng Chen](https://cqf.io/).*<br>
@@ -184,7 +186,7 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2212.01381)]
 *Yu-Jhe Li, Tao Xu, Bichen Wu, Ningyuan Zheng, Xiaoliang Dai, Albert Pumarola, Peizhao Zhang, Peter Vajda, Kris M. Kitani.*<br> 
 arxiv 2022. [[PDF](https://arxiv.org/abs/2211.06583)]
 
-### 2D GAN inversion
+### 2D GAN Inversion
 
 **StyleRes: Transforming the Residuals for Real Image Editing with StyleGAN.**<br>
 *Hamza Pehlivan, Yusuf Dalva, Aysegul Dundar.*<br>
@@ -342,17 +344,13 @@ TOG 2021. [[PDF](https://arxiv.org/abs/2102.02766)] [[Code](https://github.com/o
 *Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
 TOG 2021. [[PDF](https://arxiv.org/abs/2008.02401)] [[Code](https://rameenabdal.github.io/StyleFlow)]
 
-**Mask-Guided Discovery of Semantic Manifolds in Generative Models.**<br>
-*[Mengyu Yang](https://mengyu.page/), [David Rokeby](https://www.cdtps.utoronto.ca/people/directories/all-faculty/david-rokeby), [Xavier Snelgrove](https://wxs.ca/).*<br>
-NeurIPS 2020 Workshop on Machine Learning for Creativity and Design. [[PDF](https://github.com/bmolab/masked-gan-manifold/blob/main/masked-gan-manifold.pdf)] [[Code](https://github.com/bmolab/masked-gan-manifold)]
-
-**Face Identity Disentanglement via Latent Space Mapping.**<br>
-*[Yotam Nitzan](https://yotamnitzan.github.io/), [Amit Bermano](https://www.cs.tau.ac.il/~amberman/), [Yangyan Li](https://yangyan.li/), Daniel Cohen-Or.*<br>
-SIGGRAPH ASIA 2020. [[PDF](https://arxiv.org/abs/2005.07728)] [[Project](https://yotamnitzan.github.io/ID-disentanglement/)] [[Code](https://github.com/YotamNitzan/ID-disentanglement)]
-
 **PIE: Portrait Image Embedding for Semantic Control.**<br> 
 *[A. Tewari](http://people.mpi-inf.mpg.de/~atewari/), M. Elgharib, M. BR, F. Bernard, H-P. Seidel, P. P‌érez, M. Zollhöfer, C.Theobalt.*<br>
 TOG 2020. [[PDF](http://gvv.mpi-inf.mpg.de/projects/PIE/data/paper.pdf)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PIE/)]
+
+**Face Identity Disentanglement via Latent Space Mapping.**<br>
+*[Yotam Nitzan](https://yotamnitzan.github.io/), [Amit Bermano](https://www.cs.tau.ac.il/~amberman/), [Yangyan Li](https://yangyan.li/), Daniel Cohen-Or.*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2005.07728)] [[Project](https://yotamnitzan.github.io/ID-disentanglement/)] [[Code](https://github.com/YotamNitzan/ID-disentanglement)]
 
 **Understanding the Role of Individual Units in a Deep Neural Network.**<br>
 *David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
@@ -468,77 +466,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.06529)]
 
 <p width="100%" align="right"><a href="#">🔝</a></p>
 
-## Diffusion Inversion and Manipulation
+## GAN Latent Space Editing
 
-## Diffusion Inversion
-
-**NULL-text Inversion for Editing Real Images using Guided Diffusion Models.**<br>
-*Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2211.09794)] [[Project](https://null-text-inversion.github.io/)] [[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
-
-**EDICT: Exact Diffusion Inversion via Coupled Transformations.**<br>
-*Bram Wallace, Akash Gokul, Nikhil Naik.*<br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12446)] [[Code](https://github.com/salesforce/EDICT)]
-
-**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.**<br>
-*Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
-ICLR 2023 (Oral). [[PDF](https://arxiv.org/abs/2208.01618)] [[Project](https://textual-inversion.github.io/)] [[Code](https://github.com/rinongal/textual_inversion)]
-
-**Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
-*Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
-ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01626)] [[Project](https://prompt-to-prompt.github.io/)] [[Code](https://github.com/google/prompt-to-prompt/)]
-
-**An Edit Friendly DDPM Noise Space: Inversion and Manipulations.**<br>
-*[Inbar Huberman-Spiegelglas](https://inbarhub.github.io/www/), Vladimir Kulikov, Tomer Michaeli.*<br> 
-arxiv 2023. [[PDF](http://arxiv.org/abs/2305.15391)] [[Project](https://inbarhub.github.io/DDPM_inversion/)] [[Code](https://github.com/inbarhub/DDPM_inversion)]
-
-**Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models.**<br>
-*René Haas, Inbar Huberman-Spiegelglas, Rotem Mulayoff, and Tomer Michaeli.*<br> 
-arxiv 2023. [[PDF](https://arxiv.org/abs/2303.11073)]
-
-**A Neural Space-Time Representation for Text-to-Image Personalization.**<br>
-*Yuval Alaluf, Elad Richardson, Gal Metzer, Daniel Cohen-Or.*<br> 
-arxiv 2023. [[PDF](https://arxiv.org/abs/2304.06140)] [[Project](https://neuraltextualinversion.github.io/NeTI/)]
-
-## Semantic Editing in Diffusion Latent Spaces
-
-**Diffusion Models Already Have A Semantic Latent Space.**<br>
-*Mingi Kwon, Jaeseok Jeong, Youngjung Uh.*<br> 
-ICLR 2023. [[PDF](http://arxiv.org/abs/2210.10960v2)]
-
-**Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models.**<br>
-*Chen Henry Wu, Saman Motamed, Shaunak Srivastava, Fernando De la Torre.*<br> 
-NeurIPS 2022. [[PDF](http://arxiv.org/abs/2209.06970v2)]
-
-**An Edit Friendly DDPM Noise Space: Inversion and Manipulations.**<br>
-*Inbar Huberman-Spiegelglas, Vladimir Kulikov, Tomer Michaeli.*<br> 
-arxiv 2023. [[PDF](http://arxiv.org/abs/2304.06140)] [[Code](https://github.com/inbarhub/DDPM_inversion)]
-
-**Discovering Interpretable Directions in The Semantic Latent Space of Diffusion Models.**<br>
-*René Haas, Inbar Huberman-Spiegelglas, Rotem Mulayoff, Tomer Michaeli.*<br> 
-arxiv 2023. [[PDF](http://arxiv.org/abs/2303.11073)]
-
-**$P+$: Extended Textual Conditioning in Text-to-Image Generation.**<br>
-*Andrey Voynov, Qinghao Chu, Daniel Cohen-Or, Kfir Aberman.*<br> 
-arxiv 2023. [[PDF](http://arxiv.org/abs/2303.09522v2)] [[Project](https://prompt-plus.github.io/)]
-
-**Unsupervised Discovery of Semantic Latent Directions in Diffusion Models.**<br>
-*Yong-Hyun Park, Mingi Kwon, Junghyo Jo, Youngjung Uh.*<br> 
-arxiv 2023. [[PDF](http://arxiv.org/abs/2302.12469)]
-
-**The Stable Artist: Steering Semantics in Diffusion Latent Space.**<br>
-*Manuel Brack, Patrick Schramowski, Felix Friedrich, Dominik Hintersdorf, Kristian Kersting.*<br> 
-arxiv 2022. [[PDF](http://arxiv.org/abs/2212.06013v2)]
-
-**Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance.**<br>
-*Chen Henry Wu, Fernando De la Torre.*<br> 
-arxiv 2022. [[PDF](http://arxiv.org/abs/2210.05559v2)]
-
-<p width="100%" align="right"><a href="#">🔝</a></p>
-
-## GAN Latent Space Traversal
-
-Inversion is not the ultimate goal. The reason that we invert a real image into the latent space of a trained GAN model is that we can manipulate the inverted image in the latent space by discovering the desired code with certain attributes. This technique is usually known as latent space navigation, latent space traversal, GAN steerability, latent code manipulation, or other names in the literature. Although often regarded as an independent research field, it acts as an indispensable component of GAN inversion for manipulation. Many inversion methods also involve efficient discovery of a desired latent code.
+Inversion isn't the ultimate goal; it's a means to enable real image or video editing within a GAN's latent space. Commonly referred to as GAN latent space editing, navigation, traversal, steerability, or other names in the literature, this task, although sometimes seen as a standalone research domain, acts as an indispensable component of GAN inversion based editing. This section is about GAN latent space editing. Recent studies reveal diffusion model can be used for real image and video editing in a similar way. Please refer to [Diffusion Inversion](https://github.com/weihaox/GAN-Inversion#diffusion-inversion) and [Diffusion Latent Space Editing](https://github.com/weihaox/GAN-Inversion/#diffusion-latent-space-editing) for more details.
 
 **Deep Curvilinear Editing: Commutative and Nonlinear Image Manipulation for Pretrained Deep Generative Model.**<br>
 *Takehiro Aoshima, Takashi Matsubara.*<br>
@@ -722,7 +652,75 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.05910)]
 
 <p width="100%" align="right"><a href="#">🔝</a></p>
 
-## Application
+## Diffusion Inversion
+
+**NULL-text Inversion for Editing Real Images using Guided Diffusion Models.**<br>
+*Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.09794)] [[Project](https://null-text-inversion.github.io/)] [[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
+
+**EDICT: Exact Diffusion Inversion via Coupled Transformations.**<br>
+*Bram Wallace, Akash Gokul, Nikhil Naik.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12446)] [[Code](https://github.com/salesforce/EDICT)]
+
+**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.**<br>
+*Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
+ICLR 2023 (Oral). [[PDF](https://arxiv.org/abs/2208.01618)] [[Project](https://textual-inversion.github.io/)] [[Code](https://github.com/rinongal/textual_inversion)]
+
+**Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
+*Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
+ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01626)] [[Project](https://prompt-to-prompt.github.io/)] [[Code](https://github.com/google/prompt-to-prompt/)]
+
+**An Edit Friendly DDPM Noise Space: Inversion and Manipulations.**<br>
+*[Inbar Huberman-Spiegelglas](https://inbarhub.github.io/www/), Vladimir Kulikov, Tomer Michaeli.*<br> 
+arxiv 2023. [[PDF](http://arxiv.org/abs/2305.15391)] [[Project](https://inbarhub.github.io/DDPM_inversion/)] [[Code](https://github.com/inbarhub/DDPM_inversion)]
+
+**Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models.**<br>
+*René Haas, Inbar Huberman-Spiegelglas, Rotem Mulayoff, and Tomer Michaeli.*<br> 
+arxiv 2023. [[PDF](https://arxiv.org/abs/2303.11073)]
+
+**A Neural Space-Time Representation for Text-to-Image Personalization.**<br>
+*Yuval Alaluf, Elad Richardson, Gal Metzer, Daniel Cohen-Or.*<br> 
+arxiv 2023. [[PDF](https://arxiv.org/abs/2304.06140)] [[Project](https://neuraltextualinversion.github.io/NeTI/)]
+
+## Diffusion Latent Space Editing
+
+Semantic Editing in Diffusion Latent Spaces.
+
+**Diffusion Models Already Have A Semantic Latent Space.**<br>
+*Mingi Kwon, Jaeseok Jeong, Youngjung Uh.*<br> 
+ICLR 2023. [[PDF](http://arxiv.org/abs/2210.10960v2)]
+
+**Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models.**<br>
+*Chen Henry Wu, Saman Motamed, Shaunak Srivastava, Fernando De la Torre.*<br> 
+NeurIPS 2022. [[PDF](http://arxiv.org/abs/2209.06970v2)]
+
+**An Edit Friendly DDPM Noise Space: Inversion and Manipulations.**<br>
+*Inbar Huberman-Spiegelglas, Vladimir Kulikov, Tomer Michaeli.*<br> 
+arxiv 2023. [[PDF](http://arxiv.org/abs/2304.06140)] [[Code](https://github.com/inbarhub/DDPM_inversion)]
+
+**Discovering Interpretable Directions in The Semantic Latent Space of Diffusion Models.**<br>
+*René Haas, Inbar Huberman-Spiegelglas, Rotem Mulayoff, Tomer Michaeli.*<br> 
+arxiv 2023. [[PDF](http://arxiv.org/abs/2303.11073)]
+
+**$P+$: Extended Textual Conditioning in Text-to-Image Generation.**<br>
+*Andrey Voynov, Qinghao Chu, Daniel Cohen-Or, Kfir Aberman.*<br> 
+arxiv 2023. [[PDF](http://arxiv.org/abs/2303.09522v2)] [[Project](https://prompt-plus.github.io/)]
+
+**Unsupervised Discovery of Semantic Latent Directions in Diffusion Models.**<br>
+*Yong-Hyun Park, Mingi Kwon, Junghyo Jo, Youngjung Uh.*<br> 
+arxiv 2023. [[PDF](http://arxiv.org/abs/2302.12469)]
+
+**The Stable Artist: Steering Semantics in Diffusion Latent Space.**<br>
+*Manuel Brack, Patrick Schramowski, Felix Friedrich, Dominik Hintersdorf, Kristian Kersting.*<br> 
+arxiv 2022. [[PDF](http://arxiv.org/abs/2212.06013v2)]
+
+**Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance.**<br>
+*Chen Henry Wu, Fernando De la Torre.*<br> 
+arxiv 2022. [[PDF](http://arxiv.org/abs/2210.05559v2)]
+
+<p width="100%" align="right"><a href="#">🔝</a></p>
+
+## Applications
 
 ### Image and Video Generation and Manipulation
 
@@ -1038,13 +1036,13 @@ CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.04379)] [[Project](https://r
 *Daniil Pakhomov, Sanchit Hira, Narayani Wagle, Kemar E. Green, Nassir Navab.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.12518.pdf)] [[Project](https://segmentation-in-style.github.io/)] [[Code](https://github.com/warmspringwinds/segmentation_in_style)]
 
-### Recognition
+### Face Recognition
 
 **How to Boost Face Recognition with StyleGAN?**<br>
 *Artem Sevastopolsky, Yury Malkov, Nikita Durasov, Luisa Verdoliva, Matthias Nießner.*<br>
 ICCV 2023. [[PDF](https://arxiv.org/abs/2210.10090)] [[Code](https://github.com/seva100/stylegan-for-facerec)]
 
-### 3D
+### 3D Reconstruction
 
 **Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion.**<br>
 *Dario Pavllo, David Joseph Tan, Marie-Julie Rakotosaona, Federico Tombari.*<br>
@@ -1057,10 +1055,6 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10061)] [[Project](https://www.mmla
 **CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs.**<br>
 *[Jiteng Mu](https://jitengmu.github.io/), Shalini De Mello, Zhiding Yu, Nuno Vasconcelos, Xiaolong Wang, Jan Kautz, Sifei Liu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.16521)] [[Project](https://jitengmu.github.io/CoordGAN/)]
-
-**GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
-*[Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
-ICLR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.00844)] [[Code](https://github.com/XingangPan/GAN2Shape)] [[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
 
 **Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement.**<br>
 *Huiwen Luo, Koki Nagano, Han-Wei Kung, Mclean Goldwhite, [Qingguo Xu](https://qingguo-xu.com/), Zejian Wang, Lingyu Wei, Liwen Hu, Hao Li.*<br>
@@ -1078,6 +1072,10 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.13366)] [[Project](https://junzhezh
 *Baris Gecer, Jiankang Deng, Stefanos Zafeiriou.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.15370)] [[Code](https://github.com/barisgecer/OSTeC)]
 
+**GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
+*[Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
+ICLR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.00844)] [[Code](https://github.com/XingangPan/GAN2Shape)] [[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
+
 **StyleGAN Knows Normal, Depth, Albedo, and More.**<br>
 *Anand Bhattad, Daniel McKee, Derek Hoiem, D. A. Forsyth.*<br> 
 arxiv 2023. [[PDF](http://arxiv.org/abs/2306.00987)]
@@ -1086,7 +1084,7 @@ arxiv 2023. [[PDF](http://arxiv.org/abs/2306.00987)]
 *I-Chao Shen, Li-Wen Su, Yu-Ting Wu, Bing-Yu Chen.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.10520)]
 
-### Others
+### Other Applications
 
 #### Compressed Sensing
 
@@ -1106,7 +1104,7 @@ Human Vision and Electronic Imaging 2021. [[PDF](https://whitneylab.berkeley.edu
 
 **High-resolution Controllable Prostatic Histology Synthesis using StyleGAN.**<br>
 *Gagandeep B. Daroach, Josiah A. Yoder, Kenneth A. Iczkowski, Peter S. LaViolette.*<br>
-BIOIMAGING 2021. [[PDF](https://www.scitepress.org/Papers/2021/103939/103939.pdf)]
+Bioimaging 2021. [[PDF](https://www.scitepress.org/Papers/2021/103939/103939.pdf)]
 
 #### Compression, Fairness, and Security
 
@@ -1116,13 +1114,13 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2202.06240)] [[Project](https://catlab-t
 
 **Video Coding Using Learned Latent GAN Compression.**<br>
 *Mustafa Shukor, Bharath Bhushan Damodaran, Xu Yao, Pierre Hellier.*<br>
-ACM Multimedia 2022. [[PDF](https://arxiv.org/abs/2207.04324)]
+ACM MM 2022. [[PDF](https://arxiv.org/abs/2207.04324)]
 
 **Differentially Private Imaging via Latent Space Manipulation.**<br>
 *Tao Li, Chris Clifton.*<br>
 IEEE Symposium on Security & Privacy (S&P) 2021. [[PDF](https://arxiv.org/abs/2103.05472)]
 
-## acknowledgement
+## Acknowledgement
 
 Thanks for the constructive comments from anonymous reviewers and feedback from [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Andrey Voynov](https://github.com/anvoynov), and [Rushil Anirudh](https://rushila.com/).
 
