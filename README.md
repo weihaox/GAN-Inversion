@@ -144,6 +144,14 @@ The section primarily encompasses general-purpose 2D or 3D inversion techniques,
 
 ### 3D GAN Inversion
 
+**Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding.**<br>
+*Ziyang Yuan, Yiming Zhu, Yu Li, Hongyu Liu, Chun Yuan.*<br> 
+ICCV 2023. [[PDF](https://arxiv.org/abs/2303.12326)] [[Project](https://eg3d-goae.github.io/)] [[Code](https://github.com/jiangyzy/GOAE)]
+
+**LatentSwap3D: Semantic Edits on 3D Image GANs.**<br>
+*Enis Simsar, Alessio Tonioni, Evin Pınar Örnek, Federico Tombari.*<br> 
+ICCV 2023 Workshops on AI3DCC. [[PDF](https://arxiv.org/abs/2212.01381)] [[Code](https://github.com/enisimsar/latentswap3d)]
+
 **High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization.**<br>
 *[Jiaxin Xie](https://jiaxinxie97.github.io/Jiaxin-Xie/), [Hao Ouyang](https://ken-ouyang.github.io/), [Jingtan Piao](https://ken-ouyang.github.io/HFGI3D/index.html), [Chenyang Lei](https://chenyanglei.github.io/), [Qifeng Chen](https://cqf.io/).*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2211.15662)] [[Project](https://ken-ouyang.github.io/HFGI3D/index.html)] [[Code](https://github.com/jiaxinxie97/HFGI3D/)]
@@ -170,17 +178,9 @@ ECCV 2022 Workshop on [Learn3DG](https://learn3dg.github.io/). [[PDF](https://ar
 *Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 
-**Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding.**<br>
-*Ziyang Yuan, Yiming Zhu, Yu Li, Hongyu Liu, Chun Yuan.*<br> 
-arxiv 2023. [[PDF](https://arxiv.org/abs/2303.12326)] [[Project](https://eg3d-goae.github.io/)]
-
 **TriPlaneNet: An Encoder for EG3D Inversion.**<br>
 *Ananta R. Bhattarai, Matthias Nießner, Artem Sevastopolsky.*<br> 
 arxiv 2023. [[PDF](https://arxiv.org/abs/2303.13497)] [[Project](https://anantarb.github.io/triplanenet)]
-
-**LatentSwap3D: Semantic Edits on 3D Image GANs.**<br>
-*Enis Simsar, Alessio Tonioni, Evin Pınar Örnek, Federico Tombari.*<br> 
-arxiv 2022. [[PDF](https://arxiv.org/abs/2212.01381)]
 
 **Learning a 3D-Aware Encoder for Style-based Generative Radiance Field.**<br>
 *Yu-Jhe Li, Tao Xu, Bichen Wu, Ningyuan Zheng, Xiaoliang Dai, Albert Pumarola, Peizhao Zhang, Peter Vajda, Kris M. Kitani.*<br> 
@@ -600,7 +600,7 @@ ACM MM 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3474085.3475293)]
 
 **Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes.**<br>
 *Huiting Yang, Liangyu Chai, Qiang Wen, Shuang Zhao, Zixun Sun, Shengfeng He.*<br>
-CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Discovering_Interpretable_Latent_Space_Directions_of_GANs_Beyond_Binary_Attributes_CVPR_2021_paper.pdf)]
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Discovering_Interpretable_Latent_Space_Directions_of_GANs_Beyond_Binary_Attributes_CVPR_2021_paper.pdf)] [[Code](https://github.com/BERYLSHEEP/AdvStyle)]
 
 **Surrogate Gradient Field for Latent Space Manipulation.**<br>
 *Minjun Li, Yanghua Jin, Huachun Zhu.*<br>
@@ -669,6 +669,14 @@ ICLR 2023 (Oral). [[PDF](https://arxiv.org/abs/2208.01618)] [[Project](https://t
 **Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
 *Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
 ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01626)] [[Project](https://prompt-to-prompt.github.io/)] [[Code](https://github.com/google/prompt-to-prompt/)]
+
+**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code.**<br>
+*Xuan Ju, Ailing Zeng, Yuxuan Bian, Shaoteng Liu, Qiang Xu.*<br> 
+arxiv 2023. [[PDF](https://arxiv.org/abs/2310.01506)] [[Code](https://github.com/cure-lab/DirectInversion)]
+
+**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing.**<br>
+*Jiancheng Huang, Yifan Liu, Jin Qin, Shifeng Chen.*<br> 
+arxiv 2023. [[PDF](https://arxiv.org/abs/2309.16608)]
 
 **An Edit Friendly DDPM Noise Space: Inversion and Manipulations.**<br>
 *[Inbar Huberman-Spiegelglas](https://inbarhub.github.io/www/), Vladimir Kulikov, Tomer Michaeli.*<br> 
@@ -1044,6 +1052,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2210.10090)] [[Code](https://github.com/
 
 ### 3D Reconstruction
 
+**StyleGAN Knows Normal, Depth, Albedo, and More.**<br>
+*[Anand Bhattad](https://anandbhattad.github.io/), [Daniel McKee](https://www.danielbmckee.com/), [Derek Hoiem](https://dhoiem.cs.illinois.edu/), [D. A. Forsyth](http://luthuli.cs.uiuc.edu/~daf/).*<br> 
+NeurIPS 2023. [[PDF](http://arxiv.org/abs/2306.00987)]
+
 **Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion.**<br>
 *Dario Pavllo, David Joseph Tan, Marie-Julie Rakotosaona, Federico Tombari.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2211.11674)] [[Code](https://github.com/google-research/nerf-from-image)]
@@ -1075,10 +1087,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.15370)] [[Code](https://github.com/
 **GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
 *[Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
 ICLR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.00844)] [[Code](https://github.com/XingangPan/GAN2Shape)] [[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
-
-**StyleGAN Knows Normal, Depth, Albedo, and More.**<br>
-*Anand Bhattad, Daniel McKee, Derek Hoiem, D. A. Forsyth.*<br> 
-arxiv 2023. [[PDF](http://arxiv.org/abs/2306.00987)]
 
 **StylePart: Image-based Shape Part Manipulation.**<br>
 *I-Chao Shen, Li-Wen Su, Yu-Ting Wu, Bing-Yu Chen.*<br>
