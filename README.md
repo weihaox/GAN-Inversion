@@ -686,6 +686,14 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2303.11073)]
 
 Semantic Editing in Diffusion Latent Spaces.
 
+**Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation.**<br>
+*Hang Li, Chengzhi Shen, Philip Torr, Volker Tresp, Jindong Gu.*<br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2311.17216)] [[Project](https://interpretdiffusion.github.io/)] [[Code](https://github.com/hangligit/InterpretDiffusion)]
+
+**NoiseCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions in Diffusion Models.**<br> 
+*Yusuf Dalva, Pinar Yanardag.*<br> 
+CVPR 2024 (Oral). [[PDF](https://arxiv.org/abs/2312.05390)] [[Project](https://noiseclr.github.io/)]
+
 **An Edit Friendly DDPM Noise Space: Inversion and Manipulations.**<br>
 *Inbar Huberman-Spiegelglas, Vladimir Kulikov, Tomer Michaeli.*<br> 
 CVPR 2024. [[PDF](http://arxiv.org/abs/2304.06140)] [[Code](https://github.com/inbarhub/DDPM_inversion)]
@@ -702,17 +710,9 @@ ICCV 2023. [[PDF](http://arxiv.org/abs/2210.05559v2)] [[Code](https://github.com
 *Chen Henry Wu, Saman Motamed, Shaunak Srivastava, Fernando De la Torre.*<br> 
 NeurIPS 2022. [[PDF](http://arxiv.org/abs/2209.06970v2)]
 
-**Discovering Interpretable Directions in The Semantic Latent Space of Diffusion Models.**<br>
-*René Haas, Inbar Huberman-Spiegelglas, Rotem Mulayoff, Tomer Michaeli.*<br> 
-arxiv 2023. [[PDF](http://arxiv.org/abs/2303.11073)]
-
 **$P+$: Extended Textual Conditioning in Text-to-Image Generation.**<br>
 *Andrey Voynov, Qinghao Chu, Daniel Cohen-Or, Kfir Aberman.*<br> 
 arxiv 2023. [[PDF](http://arxiv.org/abs/2303.09522v2)] [[Project](https://prompt-plus.github.io/)]
-
-**Unsupervised Discovery of Semantic Latent Directions in Diffusion Models.**<br>
-*Yong-Hyun Park, Mingi Kwon, Junghyo Jo, Youngjung Uh.*<br> 
-arxiv 2023. [[PDF](http://arxiv.org/abs/2302.12469)]
 
 <p width="100%" align="right"><a href="#">🔝</a></p>
 
@@ -720,7 +720,15 @@ arxiv 2023. [[PDF](http://arxiv.org/abs/2302.12469)]
 
 ### Image and Video Generation and Manipulation
 
-**Robust One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2**<br>
+**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation.**<br>
+*Jihyun Kim, Changjae Oh, Hoseok Do, Soohyun Kim, Kwanghoon Sohn.*<br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2405.04356)] [[Project](https://github.com/1211sh/Diffusion-driven_GAN-Inversion/)]
+
+**The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing.**<br>
+*Denis Bobkov, Vadim Titov, Aibek Alanov, Dmitry Vetrov.*<br>
+CVPR 2024. [[PDF]()] [[Project]()]
+
+**Robust One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2.**<br>
 *[Trevine Oorloff](https://trevineoorloff.github.io/), [Yaser Yacoob](https://www.umiacs.umd.edu/people/yaser).*<br> 
 ICCV 2023. [[PDF](https://arxiv.org/abs/2302.07848)] [[Project](https://trevineoorloff.github.io/FaceVideoReenactment_HybridLatents.io/)]
 
@@ -1047,10 +1055,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.15370)] [[Code](https://github.com/
 **GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
 *[Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
 ICLR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.00844)] [[Code](https://github.com/XingangPan/GAN2Shape)] [[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
-
-**StylePart: Image-based Shape Part Manipulation.**<br>
-*I-Chao Shen, Li-Wen Su, Yu-Ting Wu, Bing-Yu Chen.*<br>
-The Visual Computer 2024 / arxiv 2021. [[PDF](https://arxiv.org/abs/2111.10520)]
 
 ### Other Applications
 
