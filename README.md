@@ -144,6 +144,10 @@ The section primarily encompasses general-purpose 2D or 3D inversion techniques,
 
 ### 3D GAN Inversion
 
+**3D-GOI: 3D GAN Omni-Inversion for Multifaceted and Multi-object Editing.**<br>
+*Haoran Li, Long Ma, Haolin Shi, Yanbin Hao, Yong Liao, Lechao Cheng, Peng Yuan Zhou.*<br>
+ECCV 2024. [[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07943.pdf)]
+
 **TriPlaneNet: An Encoder for EG3D Inversion.**<br>
 *Ananta R. Bhattarai, Matthias Nießner, Artem Sevastopolsky.*<br> 
 WACV 2024. [[PDF](https://arxiv.org/abs/2303.13497)] [[Project](https://anantarb.github.io/triplanenet)]
@@ -710,6 +714,10 @@ ICCV 2023. [[PDF](http://arxiv.org/abs/2210.05559v2)] [[Code](https://github.com
 *Chen Henry Wu, Saman Motamed, Shaunak Srivastava, Fernando De la Torre.*<br> 
 NeurIPS 2022. [[PDF](http://arxiv.org/abs/2209.06970v2)]
 
+**Interpreting the Weight Space of Customized Diffusion Models.**<br>
+*Amil Dravid, Yossi Gandelsman, Kuan-Chieh Wang, Rameen Abdal, Gordon Wetzstein, Alexei A. Efros, Kfir Aberman.*<br> 
+arxiv 2023. [[PDF](https://arxiv.org/abs/2406.09413)] [[Project](https://snap-research.github.io/weights2weights/)]
+
 **$P+$: Extended Textual Conditioning in Text-to-Image Generation.**<br>
 *Andrey Voynov, Qinghao Chu, Daniel Cohen-Or, Kfir Aberman.*<br> 
 arxiv 2023. [[PDF](http://arxiv.org/abs/2303.09522v2)] [[Project](https://prompt-plus.github.io/)]
@@ -726,7 +734,7 @@ CVPR 2024. [[PDF](https://arxiv.org/abs/2405.04356)] [[Project](https://github.c
 
 **The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing.**<br>
 *Denis Bobkov, Vadim Titov, Aibek Alanov, Dmitry Vetrov.*<br>
-CVPR 2024. [[PDF]()] [[Project]()]
+CVPR 2024. [[PDF](http://arxiv.org/abs/2406.10601)] [[Code](https://github.com/ControlGenAI/StyleFeatureEditor)]
 
 **Robust One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2.**<br>
 *[Trevine Oorloff](https://trevineoorloff.github.io/), [Yaser Yacoob](https://www.umiacs.umd.edu/people/yaser).*<br> 
