@@ -654,6 +654,14 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.05910)]
 
 ## Diffusion Inversion
 
+**FlashIn: Fast and Accurate Image Inversion for Real-time Image Editing.**
+*Guangzhi Wang.*
+CVPR 2026. [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_FlashIn_Fast_and_Accurate_Image_Inversion_for_Real-time_Image_Editing_CVPR_2026_paper.pdf)]
+
+**Unveil Inversion and Invariance in Flow Transformer for Versatile Image Editing.**<br>
+*Pengcheng Xu, Boyuan Jiang, Xiaobin Hu, Donghao Luo, Qingdong He, Jiangning Zhang, Chengjie Wang, Yunsheng Wu, Charles Ling, Boyu Wang.*<br> 
+CVPR 2024. [[PDF](https://arxiv.org/abs/2411.15843)] [[Project](https://pengchengpcx.github.io/EditFT)] [[Code](https://github.com/Pengchengpcx/FTEdit)]
+
 **An Edit Friendly DDPM Noise Space: Inversion and Manipulations.**<br>
 *[Inbar Huberman-Spiegelglas](https://inbarhub.github.io/www/), Vladimir Kulikov, Tomer Michaeli.*<br> 
 CVPR 2024. [[PDF](http://arxiv.org/abs/2305.15391)] [[Project](https://inbarhub.github.io/DDPM_inversion/)] [[Code](https://github.com/inbarhub/DDPM_inversion)]
@@ -727,6 +735,14 @@ arxiv 2023. [[PDF](http://arxiv.org/abs/2303.09522v2)] [[Project](https://prompt
 ## Applications
 
 ### Image and Video Generation and Manipulation
+
+**WarpGAN: Warping-Guided 3D GAN Inversion with Style-Based Novel View Inpainting.**<br>
+*Kaitao Huang, Yan Yan, Jing-Hao Xue, Hanzi Wang.*<br>
+NeurIPS 2025. [[PDF](https://arxiv.org/abs/2511.08178)] [[Code](https://github.com/Huang-KT/WarpGAN)]
+
+**Synthetic Prior for Few-Shot Drivable Head Avatar Inversion.**<br>
+*Wojciech Zielonka, Stephan J. Garbin, Alexandros Lattas, George Kopanas, Paulo Gotardo, Thabo Beeler, Justus Thies, Timo Bolkart.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2501.06903)] [[Project](https://wojciechzielonka.com/synshot)]
 
 **Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation.**<br>
 *Jihyun Kim, Changjae Oh, Hoseok Do, Soohyun Kim, Kwanghoon Sohn.*<br>
